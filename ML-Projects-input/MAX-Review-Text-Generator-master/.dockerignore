@@ -1,7 +1,0 @@
-README.md
-.git/
-.idea/
-tests/
-.travis.yml
-.DS_Store
-.pytest_cache/
