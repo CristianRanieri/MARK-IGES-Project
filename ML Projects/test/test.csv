@@ -1,19 +1,5 @@
-ProjectName,IDPaper,ProjectType,Stars,Size,Forks,Commit Count,Contributors,Project Age,Activity Rate,ContributorNumber
-921kiyo/3d-dl,ID1,Applied,53,337104,20,833.0,6,2371,0.402609956500725,6.0
-adobe/antialiased-cnns,ID1,Applied,1642,77815,207,239.0,3,2081,0.1314631463146314,3.0
-afagarap/wisconsin-breast-cancer,ID1,Applied,56,7942,26,134.0,2,2691,0.0554865424430641,2.0
-aftaab99/offlinesignatureverification,ID1,Applied,77,1861,29,68.0,3,2245,0.0343087790110998,3.0
-agiletechvn/opencv-starterkit,ID1,Applied,10,569446,4,89.0,2,2221,0.0789707187222715,2.0
-aimagelab/novelty-detection,ID1,Applied,196,491,59,29.0,3,2261,0.0147357723577235,3.0
-akanimax/bmsg-gan,ID1,Applied,628,160952,103,52.0,3,2220,0.0269151138716356,3.0
-aldro61/mmit,ID1,Applied,7,830,7,576.0,7,2879,0.3422459893048128,7.0
-alecwangcq/eigendamage-pytorch,ID1,Applied,111,164,19,11.0,2,2084,0.0064743967039434,2.0
-alenk123/v.a.silly,ID1,Applied,9,9249,0,58.0,1,2175,0.1102661596958174,1.0
-alexander-rakhlin/iciar2018,ID1,Applied,189,4780,72,39.0,3,2558,0.0171957671957671,3.0
-alexemg/deeplabcut,ID1,Applied,4303,172821,1603,1476.0,30,2495,0.6606982990152194,107.0
-alexjc/neural-imagen,ID1,Applied,686,4422,32,162.0,1,2329,0.0786407766990291,1.0
-aliaksandrsiarohin/monkey-net,ID1,Applied,461,114974,83,198.0,6,2402,0.0930888575458392,6.0
-alireza-akhavan/deep-face-recognition,ID1,Applied,218,65295,86,33.0,2,2154,0.0176093916755602,2.0
-allencellmodeling/pytorch_integrated_cell,ID1,Applied,43,130806,11,461.0,2,2835,0.1791682860474154,2.0
-amansrivastava17/lstm-siamese-text-similarity,ID1,Applied,280,71,90,33.0,3,2498,0.0148984198645598,3.0
-aminehorseman/facial-expression-recognition-using-cnn,ID1,Applied,436,477,143,45.0,2,2556,0.0197281893906181,2.0
+ProjectName,IDPaper,ProjectType
+10up/classifai,ID1,Applied
+2knal/Honesty,ID1,Applied
+5hirish/adam_qas,ID1,Applied
+921kiyo/3d-dl,ID1,Applied

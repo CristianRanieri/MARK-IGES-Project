@@ -44,13 +44,13 @@ def clean_log():
     if os.path.exists('not_cloned_repos.csv'):
         os.remove('not_cloned_repos.csv')
 
-def main(input_file='./applied_projects.csv',input_path='../repos/repos/'):
+def main(input_file='./applied_projects.csv',input_path='../repos/repos2/'):
     clean_log()
     df = pd.read_csv(f'{input_file}', delimiter=",")
     not_cloned = get_not_cloned_list(df,input_path)
     cloned = get_cloned_list(df,input_path)
-    print(f'cloned: {len(cloned)} repos')
-    print(f'not cloned: {len(not_cloned)} repos')
+    print(f'cloned: {len(cloned)} repos2')
+    print(f'not cloned: {len(not_cloned)} repos2')
     not_cloned_df = pd.DataFrame(not_cloned)
     not_cloned_df.to_csv(f'not_cloned_repos.csv', index=False)
     print(f'effective repos: {count_effective_repos(input_path)}')
