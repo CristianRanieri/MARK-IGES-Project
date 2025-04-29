@@ -1,0 +1,13 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,51
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,52
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,def train_step(,70
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,train_step(,70
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,83
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,84
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,94
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,.train.,96
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/train_transformer.py,train_step(,109
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/models/modules/encoder.py,training=True,67
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/models/modules/decoder.py,training=True,61
+stephen-song/Speech-Transformer-tf2.0,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/stephen-song/Speech-Transformer-tf2.0/models/modules/decoder.py,training=True,69

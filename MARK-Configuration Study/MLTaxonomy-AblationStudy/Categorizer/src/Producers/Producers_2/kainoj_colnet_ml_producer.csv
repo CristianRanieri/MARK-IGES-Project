@@ -1,0 +1,10 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/trainer.py,.train(,118
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/trainer.py,.backward(,131
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/trainer.py,.train(,269
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,29
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,50
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,73
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,110
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,143
+kainoj/colnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kainoj/colnet/src/colnet.py,def forward(,190

@@ -1,0 +1,15 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/NYU/test_nyu_cross.py,.train.,81
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/NYU/train_and_test.py,.train.,118
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/NYU/train_and_test.py,.train.,124
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/MSRA/train_and_test.py,.train.,158
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/MSRA/train_and_test.py,.train.,166
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/network/MSRA/test_msra.py,.train.,99
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/realtime_demo/real_time_show_demo.py,.train.,57
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netlib/basemodel.py,training=True,7
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_v2.py,training=True,114
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_v2.py,training=True,254
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_v2.py,training=True,276
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_v2.py,training=True,298
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_v2.py,training=True,320
+dumyy/handpose,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/dumyy/handpose/netutil/resnet_utils.py,training=True,248

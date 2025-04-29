@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+biocore/calour,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/biocore/calour/calour/training.py,.fit_transform(,123
+biocore/calour,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/biocore/calour/calour/training.py,.fit(,264
+biocore/calour,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/biocore/calour/calour/training.py,.fit(,391
+biocore/calour,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/biocore/calour/calour/tests/test_training.py,.fit(,200

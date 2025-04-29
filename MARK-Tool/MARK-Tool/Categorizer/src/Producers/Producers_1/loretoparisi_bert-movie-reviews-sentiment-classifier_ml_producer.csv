@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+loretoparisi/bert-movie-reviews-sentiment-classifier,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/loretoparisi/bert-movie-reviews-sentiment-classifier/src/bert_sentiment_classifier.ipynb,training=True,745
+loretoparisi/bert-movie-reviews-sentiment-classifier,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/loretoparisi/bert-movie-reviews-sentiment-classifier/src/bert-movie-reviews-sentiment-classifier-local.py,training=True,362
+loretoparisi/bert-movie-reviews-sentiment-classifier,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/loretoparisi/bert-movie-reviews-sentiment-classifier/src/bert-movie-reviews-sentiment-classifier-local.ipynb,training=True,422
+loretoparisi/bert-movie-reviews-sentiment-classifier,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/loretoparisi/bert-movie-reviews-sentiment-classifier/src/bert_sentiment_classifier.py,training=True,421

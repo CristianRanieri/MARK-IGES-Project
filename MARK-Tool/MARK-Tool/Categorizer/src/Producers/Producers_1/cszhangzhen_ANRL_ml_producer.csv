@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+cszhangzhen/ANRL,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cszhangzhen/ANRL/model.py,.train.,52
+cszhangzhen/ANRL,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cszhangzhen/ANRL/model.py,.train.,63
+cszhangzhen/ANRL,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cszhangzhen/ANRL/evaluation.py,.fit(,30

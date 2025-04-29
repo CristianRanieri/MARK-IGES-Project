@@ -1,0 +1,56 @@
+library,Keyword,ML_Category,Link
+lightning,.fit(,Producer,https://lightning.ai/docs/pytorch/stable/_modules/lightning/pytorch/trainer/trainer.html#Trainer.fit
+chainer,.get_optimizer(,Producer,https://docs.chainer.org/en/stable/guides/extensions.html
+chainer,.MultiprocessParallelUpdater(,Producer,https://docs.chainer.org/en/stable/reference/training.html#trainer
+chainer,.ParallelUpdater(,Producer,https://docs.chainer.org/en/stable/reference/training.html#trainer
+chainer,.StandardUpdater(,Producer,https://docs.chainer.org/en/stable/reference/training.html#trainer
+chainer,.update(,Producer,https://docs.chainer.org/en/stable/reference/training.html#trainer
+chainer,def forward(,Producer,https://docs.chainer.org/en/stable/guides/models.html
+fastai,.accumulate(,Producer,https://docs.fast.ai/learner.html
+fastai,.after_fit(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.before_fit(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.fine_tune(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.fit_flat_cos(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.fit_one_cycle(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.fit_sgdr(,Producer,https://docs.fast.ai/callback.schedule.html
+fastai,.fit(,Producer,https://docs.fast.ai/learner.html
+fastai,.synth_learner(,Producer,https://docs.fast.ai/learner.html
+fastai,SkipToEpoch(,Producer,https://docs.fast.ai/learner.html
+h2o,.train_segments(,Producer,https://docs.h2o.ai/h2o/latest-stable/h2o-docs/training-models.html#classification-and-regression
+h2o,.train(,Producer,https://docs.h2o.ai/h2o/latest-stable/h2o-docs/training-models.html#classification-and-regression
+keras,.fit(,Producer,https://keras.io/api/models/model_training_apis/
+keras,.train_on_batch,Producer,https://keras.io/api/models/model_training_apis/
+keras,.fit_generator,Producer,https://pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/
+lightgbm,.cv(,Producer,https://lightgbm.readthedocs.io/en/latest/Python-API.html#scikit-learn-api
+lightgbm,.train(,Producer,https://lightgbm.readthedocs.io/en/latest/Python-API.html#scikit-learn-api
+mxnet,.set_training(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/api/autograd/index.html
+mxnet,.step(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/api/gluon/trainer.html
+mxnet,.train_mode(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/api/autograd/index.html
+mxnet,.Trainer(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/getting-started/crash-course/4-train.html
+mxnet,.update(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/api/gluon/trainer.html
+mxnet,def forward(,Producer,https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/getting-started/crash-course/2-nn.html
+torch,.backward(,Producer,https://pytorch.org/tutorials/beginner/introyt/trainingyt.html
+torch,.train(,Producer,https://pytorch.org/tutorials/beginner/introyt/trainingyt.html
+torch,def forward(,Producer,https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html#
+torch,def train_one_epoch(,Producer,https://pytorch.org/tutorials/beginner/introyt/trainingyt.html
+torch, forward(,Producer,https://pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html
+torch,train_one_epoch(,Producer,https://pytorch.org/tutorials/beginner/introyt/trainingyt.html
+sklearn,.fit_predict(,Producer,https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch.fit_predict
+sklearn,.fit_transform(,Producer,https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch.fit_predict
+sklearn,.fit(,Producer,https://scikit-learn.org/stable/modules/linear_model.html
+sklearn,.partial_fit(,Producer,https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html#sklearn.cluster.Birch.fit_predict
+sklearn,.set_fit_request(,Producer,https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingRegressor.html#sklearn.ensemble.StackingRegressor.set_fit_request
+tensorflow,.fit(,Producer,https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit
+tensorflow,.train.,Producer,https://www.tensorflow.org/api_docs/python/tf/train
+tensorflow,def train_step(,Producer,https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit
+tensorflow,fit(,Producer,https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit
+tensorflow,train_step(,Producer,https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit
+tensorflow,training=True,Producer,https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch
+tensorflow,.fit(,Producer,https://keras.io/api/models/model_training_apis/
+tensorflow,.train_on_batch,Producer,https://keras.io/api/models/model_training_apis/
+tensorflow,.fit_generator,Producer,https://pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/
+xgboost,.fit(,Producer,https://xgboost.readthedocs.io/en/stable/tutorials/rf.html
+xgboost,train(,Producer,https://xgboost.readthedocs.io/en/stable/tutorials/rf.html
+tensorflow,.fit(,Producer,https://keras.io/api/models/model_training_apis/
+tensorflow,.train_on_batch,Producer,https://keras.io/api/models/model_training_apis/
+tensorflow,.fit_generator,Producer,https://pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/

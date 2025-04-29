@@ -1,0 +1,15 @@
+ProjectName,Is ML consumer,where,keyword,line_number,libraries,keywords
+MrGiovanni/ModelsGenesis,Yes,../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/utils.py,,142,tensorflow,.predict(
+MrGiovanni/ModelsGenesis,Yes,../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/utils.py,,159,tensorflow,.predict(
+ZQPei/deep_sort_pytorch,Yes,../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/multi_train_utils/distributed_utils.py,,62,torch,.no_grad(
+ZQPei/deep_sort_pytorch,Yes,../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,,436,tensorflow,.predict(
+ZQPei/deep_sort_pytorch,Yes,../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,,440,tensorflow,.predict(
+ZQPei/deep_sort_pytorch,Yes,../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/train_utils/distributed_utils.py,,104,torch,.no_grad(
+akanimax/BMSG-GAN,Yes,../repos/repos2/akanimax/BMSG-GAN/sourcecode/generate_samples.py,,78,torch,.no_grad(
+akanimax/BMSG-GAN,Yes,../repos/repos2/akanimax/BMSG-GAN/sourcecode/generate_samples.py,,114,torch,.no_grad(
+akanimax/BMSG-GAN,Yes,../repos/repos2/akanimax/BMSG-GAN/sourcecode/generate_multi_scale_samples.py,,82,torch,.no_grad(
+akanimax/BMSG-GAN,Yes,../repos/repos2/akanimax/BMSG-GAN/sourcecode/generate_multi_scale_samples.py,,118,torch,.no_grad(
+921kiyo/3d-dl,Yes,../repos/repos2/921kiyo/3d-dl/flask_webserver/flask_implementations.py,,82,keras,.predict(
+921kiyo/3d-dl,Yes,../repos/repos2/921kiyo/3d-dl/src/deprecated/classify.py,,53,keras,.predict(
+921kiyo/3d-dl,Yes,../repos/repos2/921kiyo/3d-dl/src/deprecated/flask_app.py,,87,keras,.predict(
+921kiyo/3d-dl,Yes,../repos/repos2/921kiyo/3d-dl/src/deprecated/flask_app.py,,163,keras,.predict(

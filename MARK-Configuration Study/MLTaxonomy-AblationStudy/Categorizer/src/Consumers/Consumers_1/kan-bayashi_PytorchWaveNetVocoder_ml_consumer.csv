@@ -1,0 +1,4 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kan-bayashi/PytorchWaveNetVocoder/test/test_wavenet.py,.no_grad(,79
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kan-bayashi/PytorchWaveNetVocoder/test/test_wavenet.py,.no_grad(,100
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kan-bayashi/PytorchWaveNetVocoder/test/test_wavenet.py,.no_grad(,233

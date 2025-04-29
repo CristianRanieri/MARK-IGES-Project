@@ -1,0 +1,13 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+instacart/lore,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/pipelines/holdout.py,.fit(,108
+instacart/lore,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/pipelines/holdout.py,.fit(,117
+instacart/lore,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/pipelines/holdout.py,.fit(,203
+instacart/lore,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,fit(,355
+instacart/lore,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,fit(,430
+instacart/lore,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,fit(,454
+instacart/lore,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,.fit(,455
+instacart/lore,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,.fit(,455
+instacart/lore,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,fit(,455
+instacart/lore,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/estimators/keras.py,.fit(,455
+instacart/lore,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/models/base.py,.fit(,89
+instacart/lore,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/instacart/lore/lore/models/base.py,.fit(,214

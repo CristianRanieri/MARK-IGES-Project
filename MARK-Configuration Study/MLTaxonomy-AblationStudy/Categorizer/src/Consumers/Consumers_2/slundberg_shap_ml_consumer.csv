@@ -1,0 +1,345 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,153
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,153
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,154
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,154
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,192
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/utils/_clustering.py,.predict(,192
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/models/_teacher_forcing.py,.no_grad(,291
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/models/_topk_lm.py,.no_grad(,231
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/models/_text_generation.py,.no_grad(,170
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,38
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,40
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,86
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,176
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,178
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/pytree.py,.predict(,224
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,260
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,260
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,260
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,272
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,272
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,272
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,295
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,295
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,295
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,527
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,527
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,527
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,535
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,535
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,535
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,541
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,541
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,541
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,634
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,634
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,634
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,718
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,718
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_tree.py,.predict(,718
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_gradient.py,.no_grad(,454
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_gradient.py,.no_grad(,527
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_gradient.py,.no_grad(,594
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,102
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,107
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,110
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,111
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,247
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,286
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,305
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/other/_maple.py,.predict(,323
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_deep/deep_pytorch.py,.no_grad(,38
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_deep/deep_pytorch.py,.no_grad(,52
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_deep/deep_pytorch.py,.no_grad(,147
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_deep/deep_pytorch.py,.no_grad(,223
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/explainers/_deep/deep_pytorch.py,.no_grad(,335
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/_sequential.py,.predict(,57
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,54
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,65
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,94
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,133
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,162
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,202
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,253
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,264
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,292
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,331
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,360
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,400
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/measures.py,.predict(,413
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,28
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,28
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,28
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,28
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,28
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,30
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,30
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,30
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,30
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict(,30
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,130
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,predict_proba(,130
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,130
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,140
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,predict_proba(,140
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,140
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,150
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,predict_proba(,150
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,150
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,160
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,predict_proba(,160
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/shap/benchmark/models.py,.predict_proba(,160
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/plots/test_decision.py,.predict(,273
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/plots/test_decision.py,.predict(,374
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,69
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,83
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,98
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,99
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,115
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,130
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,176
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,177
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict_proba(,194
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,predict_proba(,194
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict_proba(,210
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,predict_proba(,210
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_linear.py,.predict(,258
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.predict(,148
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.predict(,282
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.no_grad(,419
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.no_grad(,539
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.no_grad(,633
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_deep.py,.no_grad(,735
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,70
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,70
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,70
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,70
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,83
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,83
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,83
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,83
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,96
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,96
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,96
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,96
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,109
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,109
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,109
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,109
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,141
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,141
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,141
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,141
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,153
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,153
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,153
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,153
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,165
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,165
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,165
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,165
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,177
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,177
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,177
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,177
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,184
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict(,184
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,184
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict(,184
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict_proba(,191
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict_proba(,191
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict_proba(,191
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict_proba(,198
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,predict_proba(,198
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gpu_tree.py,.predict_proba(,198
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict_proba(,88
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,predict_proba(,88
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict(,167
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict(,277
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict_proba(,319
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,predict_proba(,319
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict_proba(,332
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,predict_proba(,332
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,.predict_proba(,360
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_kernel.py,predict_proba(,360
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,70
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,71
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,158
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,177
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,178
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,188
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,322
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,344
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,360
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,381
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,402
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,496
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,527
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,530
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,558
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,560
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,581
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,591
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,619
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,661
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,662
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,667
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,690
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,722
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,723
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,809
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,809
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,864
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,864
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,909
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,929
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,946
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1038
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1054
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,1068
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,1068
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1100
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1133
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1166
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1195
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1200
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1220
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1225
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1268
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,1301
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,1301
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1337
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1457
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1509
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1559
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1611
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,1666
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,1666
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,1671
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,1671
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1676
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1681
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1731
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1736
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1741
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1746
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1766
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1781
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1790
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict_proba(,1820
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,predict_proba(,1820
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1834
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_tree.py,.predict(,1848
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,233
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,233
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,233
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.no_grad(,349
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.no_grad(,391
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.no_grad(,430
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,464
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,464
+slundberg/shap,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/tests/explainers/test_gradient.py,.predict(,464
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/bar.py,.predict(,100
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,790
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,predict(,790
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,790
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,878
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,predict(,878
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,878
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,949
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,predict(,949
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,949
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,1352
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,predict(,1352
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,1352
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,1381
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,predict(,1381
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.ipynb,.predict(,1381
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,351
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,predict(,351
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,351
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,385
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,predict(,385
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,385
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,428
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,predict(,428
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,428
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,595
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,predict(,595
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,595
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,607
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,predict(,607
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/api_examples/plots/decision_plot.py,.predict(,607
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/benchmarks/tabular/Benchmark XGBoost explanations.ipynb,.predict(,162
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/benchmarks/tabular/Benchmark XGBoost explanations.ipynb,.predict(,336
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/benchmarks/tabular/Benchmark XGBoost explanations.ipynb,.predict_proba(,340
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/benchmarks/tabular/Benchmark XGBoost explanations.ipynb,predict_proba(,340
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/overviews/Be careful when interpreting predictive models in search of causal insights.ipynb,.predict_proba(,730
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/overviews/Be careful when interpreting predictive models in search of causal insights.ipynb,predict_proba(,730
+slundberg/shap,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/image_examples/image_classification/PyTorch Deep Explainer MNIST example.ipynb,.no_grad(,110
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/NHANES I Survival Model.ipynb,.predict(,158
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Catboost tutorial.ipynb,.predict_proba(,323
+slundberg/shap,Yes,catboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Catboost tutorial.ipynb,.predict(,324
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Python Version of Tree SHAP.ipynb,.predict(,643
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,145
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,173
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,238
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,462
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,490
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Basic SHAP Interaction Value Example in XGBoost.ipynb,.predict(,555
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,183
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,predict(,183
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,183
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,183
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,185
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,predict(,185
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,185
+slundberg/shap,Yes,lightgbm,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/Perfomance Comparison.ipynb,.predict(,185
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model.ipynb,.predict(,144
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model.ipynb,.predict(,299
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model.ipynb,.predict(,390
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,202
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,206
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,210
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,214
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,218
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,232
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,245
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,287
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,655
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,657
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,665
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,670
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,678
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,690
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,734
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 7 - Airline Tweet Sentiment Analysis.ipynb,.predict(,781
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,154
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,175
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,203
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,224
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,650
+slundberg/shap,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 1 - Simple Inconsistency Example.ipynb,.predict(,659
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,96
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,96
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,97
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,97
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,98
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,98
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,269
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,269
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,270
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,270
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,271
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figure 6 - Supervised Clustering R-squared.ipynb,.predict(,271
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model-Copy1.ipynb,.predict(,472
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model-Copy1.ipynb,.predict(,507
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model-Copy1.ipynb,.predict(,538
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model-Copy1.ipynb,.predict(,2665
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/tree_based_models/tree_shap_paper/Figures 8-11 NHANES I Survival Model-Copy1.ipynb,.predict(,2886
+slundberg/shap,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/model_agnostic/Multioutput Regression SHAP.ipynb,.predict(,316
+slundberg/shap,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/model_agnostic/Multioutput Regression SHAP.ipynb,.predict(,316
+slundberg/shap,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/linear_models/Sentiment Analysis with Logistic Regression.ipynb,.predict(,95
+slundberg/shap,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/neural_networks/Census income classification with Keras.ipynb,.predict(,287
+slundberg/shap,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slundberg/shap/notebooks/tabular_examples/neural_networks/Census income classification with Keras.ipynb,.predict(,287

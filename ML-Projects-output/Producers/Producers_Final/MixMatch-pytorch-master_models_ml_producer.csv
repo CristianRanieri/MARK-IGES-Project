@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+MixMatch-pytorch-master/models,Yes,torch,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,def forward(,23
+MixMatch-pytorch-master/models,Yes,torch,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,def forward(,43
+MixMatch-pytorch-master/models,Yes,torch,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,def forward(,79

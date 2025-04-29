@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/test_continuous.py,.train.,34
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/train.py,.train.,81
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/train.py,.train.,85
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/train.py,.train.,89
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/train.py,.train.,95
+daigo0927/pwcnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/train.py,.train(,245
+daigo0927/pwcnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/daigo0927/pwcnet/test.py,.train.,39

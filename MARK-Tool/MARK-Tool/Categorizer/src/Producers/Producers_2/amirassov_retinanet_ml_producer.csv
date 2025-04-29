@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+amirassov/retinanet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/amirassov/retinanet/retinanet/losses/focal_loss.py,def forward(,52
+amirassov/retinanet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/amirassov/retinanet/retinanet/models/subnet.py,def forward(,21
+amirassov/retinanet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/amirassov/retinanet/retinanet/models/fpn.py,def forward(,51
+amirassov/retinanet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/amirassov/retinanet/retinanet/models/ssd.py,def forward(,27

@@ -1,0 +1,12 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/train.py,.backward(,228
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py,def forward(,34
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py, forward(,34
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py,def forward(,82
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py, forward(,82
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py,def forward(,116
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py, forward(,116
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py,def forward(,171
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py, forward(,171
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py,def forward(,189
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/deeplab_resnet.py, forward(,189

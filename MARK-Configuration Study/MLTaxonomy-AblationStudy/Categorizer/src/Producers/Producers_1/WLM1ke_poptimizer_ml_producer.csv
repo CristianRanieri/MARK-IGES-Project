@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/use_cases/dl/trainer.py,.train(,128
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/use_cases/dl/trainer.py,.train(,143
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/use_cases/dl/trainer.py,.backward(,160
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/domain/dl/wave_net/wave_net.py,def forward(,40
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/domain/dl/wave_net/wave_net.py, forward(,40
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/domain/dl/wave_net/head.py,def forward(,51
+WLM1ke/poptimizer,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/WLM1ke/poptimizer/poptimizer/domain/dl/wave_net/head.py, forward(,51

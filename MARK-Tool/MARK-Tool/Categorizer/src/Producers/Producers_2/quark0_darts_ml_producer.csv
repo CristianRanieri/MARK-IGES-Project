@@ -1,0 +1,33 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/model.py,def forward(,30
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/model.py,def forward(,128
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/train.py,.train(,177
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/train.py,.backward(,201
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/train_search.py,.train(,189
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/train_search.py,.backward(,227
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/utils.py,def forward(,78
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/architect.py,.backward(,56
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/rnn/architect.py,.backward(,65
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train_imagenet.py,def forward(,67
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train_imagenet.py,.train(,173
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train_imagenet.py,.backward(,188
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model.py,def forward(,41
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model.py,def forward(,80
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model.py,def forward(,105
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model.py,def forward(,146
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model.py,def forward(,202
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train.py,.train(,115
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train.py,.backward(,127
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train_search.py,.train(,136
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/train_search.py,.backward(,153
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model_search.py,def forward(,21
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model_search.py,def forward(,47
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/model_search.py,def forward(,103
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/architect.py,.backward(,41
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/architect.py,.backward(,47
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,32
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,46
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,65
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,74
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,84
+quark0/darts,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/quark0/darts/cnn/operations.py,def forward(,100

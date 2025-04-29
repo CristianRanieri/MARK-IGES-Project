@@ -1,0 +1,17 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit_generator,148
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,551
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,551
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,570
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,570
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,571
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit(,571
+krasserm/face-recognition,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.ipynb,.fit_transform(,658
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit_generator,117
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,356
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,356
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,375
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,375
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,376
+krasserm/face-recognition,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit(,376
+krasserm/face-recognition,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/krasserm/face-recognition/face-recognition.py,.fit_transform(,416

@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/tflib/checkpoint.py,.train.,33
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/tflib/ops/batchnorm.py,training=True,35
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/base_model.py,.train.,67
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/base_model.py,.train.,188
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/base_model.py,.train.,272
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/base_model.py,.train.,321
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,82
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,85
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,148
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,151
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,189
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,194
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,221
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,225
+kabkabm/defensegan,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kabkabm/defensegan/models/gan.py,.train.,389

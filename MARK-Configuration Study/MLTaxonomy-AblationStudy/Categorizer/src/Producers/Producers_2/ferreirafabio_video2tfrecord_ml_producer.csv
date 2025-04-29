@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/video2tfrecord.py,.train.,48
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/video2tfrecord.py,.train.,52
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/video2tfrecord.py,.train.,239
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/test.py,.train.,102
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/test.py,.train.,108
+ferreirafabio/video2tfrecord,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ferreirafabio/video2tfrecord/test.py,.train.,109

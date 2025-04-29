@@ -1,0 +1,25 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/retrain.py,.fit_generator,353
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/retrain.py,.fit_generator,392
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/experiments/unfrozen_inception.py,.fit_generator,145
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/detection/train_keras_retinanet.py,.fit_generator,336
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/retrain.py,training=True,804
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/retrain.py,training=True,815
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/retrain.py,training=True,823
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/retrain.py,training=True,836
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/retrain.py,.train.,876
+921kiyo/3d-dl,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/tf_eval.py,.fit_transform(,489
+921kiyo/3d-dl,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/image_retraining/test.py,.fit_transform(,462
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/detector_webserver/train_keras_retinanet.py,.fit_generator,336
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/Jpg2TFRecords.py,.train.,41
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/Jpg2TFRecords.py,.train.,44
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/Jpg2TFRecords.py,.train.,52
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/Jpg2TFRecords.py,.train.,54
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/Jpg2TFRecords.py,.train.,71
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,37
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,38
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,88
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,146
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,147
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,169
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/Planning/AugmentationPipeline.py,.train.,170

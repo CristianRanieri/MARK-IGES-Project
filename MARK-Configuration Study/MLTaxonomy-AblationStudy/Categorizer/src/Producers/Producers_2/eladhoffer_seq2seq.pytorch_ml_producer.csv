@@ -1,0 +1,55 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,def forward(,39
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,.train(,230
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,.backward(,270
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,.train(,407
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,.train(,414
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/tools/trainer.py,.backward(,661
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/conv.py,def forward(,26
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/conv.py,def forward(,45
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/conv.py,def forward(,63
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/conv.py,def forward(,86
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/recurrent.py,def forward(,43
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/recurrent.py,def forward(,124
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/recurrent.py,def forward(,184
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/recurrent.py,def forward(,231
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/transformer.py,def forward(,123
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/transformer.py,def forward(,209
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/prevasive.py,def forward(,51
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/prevasive.py,def forward(,93
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/bytenet.py,def forward(,21
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/seq2seq_base.py,def forward(,42
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/conv.py,def forward(,18
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/conv.py,def forward(,42
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/conv.py,def forward(,55
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/conv.py,def forward(,68
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,124
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,147
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,177
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,211
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,244
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,275
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/recurrent.py,def forward(,369
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,44
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,72
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,124
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,141
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,205
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,243
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/transformer_blocks.py,def forward(,280
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/vision_encoders.py,def forward(,68
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/vision_encoders.py,def forward(,97
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/vision_encoders.py,def forward(,118
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/vision_encoders.py,def forward(,136
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/vision_encoders.py,def forward(,154
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/weight_drop.py,def forward(,43
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/prevasive_densenet.py,def forward(,32
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/prevasive_densenet.py,def forward(,113
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/linear.py,def forward(,43
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/attention.py,def forward(,77
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/attention.py,def forward(,152
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/attention.py,def forward(,198
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/attention.py,def forward(,261
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/attention.py,def forward(,304
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/prevasive_resnet.py,def forward(,26
+eladhoffer/seq2seq.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/eladhoffer/seq2seq.pytorch/seq2seq/models/modules/prevasive_resnet.py,def forward(,109

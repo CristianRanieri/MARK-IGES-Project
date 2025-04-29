@@ -1,0 +1,24 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/model.py,.train.,79
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/model.py,.train.,80
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/model.py,training=True,124
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/model.py,.train.,368
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/train.py,.train(,55
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/train.py,.train(,66
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/tf_contrib.py,.train.,8
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/tf_contrib.py,training=True,70
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,15
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,84
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,88
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,237
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,246
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,267
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,275
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,324
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,327
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,414
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,425
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,435
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,446
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,455
+mdangschat/ctc-asr,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mdangschat/ctc-asr/asr/util/hooks.py,.train.,460

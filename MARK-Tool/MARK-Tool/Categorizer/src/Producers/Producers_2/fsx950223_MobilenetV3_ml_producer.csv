@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+fsx950223/MobilenetV3,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/fsx950223/MobilenetV3/train.py,.train.,16
+fsx950223/MobilenetV3,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/fsx950223/MobilenetV3/train.py,.fit(,40
+fsx950223/MobilenetV3,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/fsx950223/MobilenetV3/train.py,fit(,40
+fsx950223/MobilenetV3,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/fsx950223/MobilenetV3/train.py,.fit(,40

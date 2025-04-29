@@ -1,0 +1,6 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,def forward(,69
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,def forward(,121
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,def forward(,169
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.train(,217
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.backward(,223

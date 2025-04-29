@@ -1,0 +1,22 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/DecisionTreeClassifier_multi_stock.py,.fit(,40
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-hello-sklearn.py,.fit(,5
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/SGDRegression_single_stock_today_for_tomorrow.py,.fit(,52
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-DecisionTreeClassifier-sm.py,.fit(,97
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/SGDRegression_Prediction_For_Next_Week.py,.fit(,45
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-DecisionTreeClassifier-lg.py,.fit(,110
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-DecisionTreeClassifier-lg.py,.fit(,114
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/SGDClassifier_single_stock.py,.fit(,41
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-MLPClassifier.py,.fit(,7
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/demo-pandas.py,.fit(,114
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/archive/SGDRegression_single_stock.py,.fit(,46
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/testing/stock-predict.py,.fit(,83
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/testing/pandas-test.py,.fit(,114
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/testing/hello-sklearn.py,.fit(,5
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/LassoRegression.py,.fit(,66
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/SGDRegression.py,.fit(,60
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/SVMClassifier.py,.fit(,45
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/SGDClassifier.py,.fit(,44
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/Classifier.py,.fit(,78
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/models/DecisionTreeClassifier.py,.fit(,45
+aaronlam88/cmpe295,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/aaronlam88/cmpe295/python/for_fun/prediction1.py,.fit(,59

@@ -1,0 +1,2 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+csvance/keras-mobile-detectnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/csvance/keras-mobile-detectnet/train.py,.fit_generator(,77

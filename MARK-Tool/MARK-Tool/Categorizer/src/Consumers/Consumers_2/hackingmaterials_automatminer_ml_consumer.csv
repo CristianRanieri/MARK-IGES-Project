@@ -1,0 +1,20 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,32
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,45
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,63
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,83
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,95
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,109
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_adaptors.py,.predict(,127
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_base.py,.predict(,106
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/automl/tests/test_base.py,.predict(,118
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,104
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,114
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,133
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,140
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,151
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,155
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,160
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,165
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/tests/test_pipeline.py,.predict(,198
+hackingmaterials/automatminer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hackingmaterials/automatminer/automatminer/preprocessing/feature_selection.py,.predict(,227

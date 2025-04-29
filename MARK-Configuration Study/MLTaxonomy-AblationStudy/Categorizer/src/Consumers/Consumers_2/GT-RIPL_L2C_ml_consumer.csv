@@ -1,0 +1,6 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+GT-RIPL/L2C,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GT-RIPL/L2C/demo.py,.no_grad(,118
+GT-RIPL/L2C,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GT-RIPL/L2C/learners/classification.py,.forward(,30
+GT-RIPL/L2C,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GT-RIPL/L2C/learners/classification.py,.forward(,33
+GT-RIPL/L2C,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GT-RIPL/L2C/learners/clustering.py,.forward(,16
+GT-RIPL/L2C,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GT-RIPL/L2C/learners/clustering.py,.forward(,21

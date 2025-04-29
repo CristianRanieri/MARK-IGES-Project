@@ -1,0 +1,8 @@
+Metric,Test,Test Statistic,p-value,Significant
+Stars,Kruskal-Wallis,130.080912816141,5.195609559942878e-28,True
+Size,Kruskal-Wallis,51.99196539670942,3.006912564992e-11,True
+Forks,Kruskal-Wallis,97.49360463373303,5.374633668358924e-21,True
+Commit Count,Kruskal-Wallis,456.8857072206943,1.0503173680609378e-98,True
+ContributorNumber,Kruskal-Wallis,384.1386303351084,6.034850532722056e-83,True
+Project Age,Kruskal-Wallis,75.73405948604942,2.5221365602293397e-16,True
+Activity Rate,Kruskal-Wallis,432.841726524178,1.7010529817467654e-93,True

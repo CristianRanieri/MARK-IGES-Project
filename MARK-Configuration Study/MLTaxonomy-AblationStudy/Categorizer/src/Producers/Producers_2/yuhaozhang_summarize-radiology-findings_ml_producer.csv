@@ -1,0 +1,12 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/trainer.py,.train(,54
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/trainer.py,.backward(,62
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/loss.py,def forward(,30
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/loss.py,def forward(,63
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/copy_model.py,def forward(,187
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,27
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,70
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,112
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,159
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,204
+yuhaozhang/summarize-radiology-findings,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuhaozhang/summarize-radiology-findings/model/modules.py,def forward(,263

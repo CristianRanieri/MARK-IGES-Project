@@ -1,0 +1,11 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,54
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,54
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,54
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,54
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,68
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,68
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,68
+qubvel/efficientnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/tests/test_model.py,.predict(,68
+qubvel/efficientnet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/examples/inference_example.py,.predict(,56
+qubvel/efficientnet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/qubvel/efficientnet/examples/inference_example.ipynb,.predict(,114

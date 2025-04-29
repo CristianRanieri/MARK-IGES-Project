@@ -1,0 +1,4 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+kalviny/MSDNet-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kalviny/MSDNet-PyTorch/op_counter.py,.forward(,137
+kalviny/MSDNet-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kalviny/MSDNet-PyTorch/adaptive_inference.py,.no_grad(,51
+kalviny/MSDNet-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kalviny/MSDNet-PyTorch/main.py,.no_grad(,217

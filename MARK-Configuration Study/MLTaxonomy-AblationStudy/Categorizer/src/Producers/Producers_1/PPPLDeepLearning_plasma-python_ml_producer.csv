@@ -1,0 +1,56 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/utils/mpi_launch_tensorflow.py,.train.,132
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/utils/mpi_launch_tensorflow.py,.train.,134
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train.,267
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train.,272
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,327
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,327
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,580
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,580
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,596
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/mpi_runner.py,.train_on_batch,596
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,43
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,43
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,96
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,96
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,129
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,129
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,165
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,165
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,187
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,187
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,200
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,200
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,.train(,211
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,.backward(,234
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,def forward(,250
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py, forward(,250
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,.backward(,416
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner_dist.py,.train(,485
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,fit(,242
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,fit(,258
+PPPLDeepLearning/plasma-python,Yes,xgboost,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,train(,327
+PPPLDeepLearning/plasma-python,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,.fit(,410
+PPPLDeepLearning/plasma-python,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,.fit(,410
+PPPLDeepLearning/plasma-python,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,fit(,410
+PPPLDeepLearning/plasma-python,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,.fit(,410
+PPPLDeepLearning/plasma-python,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,.fit(,410
+PPPLDeepLearning/plasma-python,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/shallow_runner.py,.fit(,410
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,33
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,33
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,89
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,89
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,122
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,122
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,158
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,158
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,182
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,182
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,195
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,195
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,.train(,206
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,.backward(,229
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,def forward(,245
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py, forward(,245
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,.backward(,398
+PPPLDeepLearning/plasma-python,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PPPLDeepLearning/plasma-python/plasma/models/torch_runner.py,.train(,458

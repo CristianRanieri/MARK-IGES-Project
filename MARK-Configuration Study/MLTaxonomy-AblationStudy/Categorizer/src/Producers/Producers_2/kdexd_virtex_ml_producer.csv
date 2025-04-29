@@ -1,0 +1,18 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kdexd/virtex,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/clf_voc07.py,.fit(,81
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/eval_detectron2.py,.train(,226
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/pretrain_virtex.py,.backward(,154
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/pretrain_virtex.py,.train(,215
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/clf_linear.py,.backward(,214
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/clf_linear.py,.train(,263
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/modules/embedding.py,def forward(,46
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/modules/visual_backbones.py,def forward(,55
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/modules/textual_heads.py,def forward(,63
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/modules/textual_heads.py,def forward(,216
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,def forward(,43
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.train(,127
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.train(,161
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/masked_lm.py,def forward(,35
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/masked_lm.py,.train(,95
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/captioning.py,def forward(,71
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/captioning.py,.train(,222

@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+alvarowolfx/gcloud-iot-edge-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/alvarowolfx/gcloud-iot-edge-tensorflow/custom_model/create_tf_record.py,.train.,90
+alvarowolfx/gcloud-iot-edge-tensorflow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/alvarowolfx/gcloud-iot-edge-tensorflow/custom_model/Train Classifier.ipynb,.fit_generator(,347
+alvarowolfx/gcloud-iot-edge-tensorflow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/alvarowolfx/gcloud-iot-edge-tensorflow/custom_model/Train Classifier.ipynb,.fit_generator(,347
+alvarowolfx/gcloud-iot-edge-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/alvarowolfx/gcloud-iot-edge-tensorflow/custom_model/Train Classifier.ipynb,.train.,661

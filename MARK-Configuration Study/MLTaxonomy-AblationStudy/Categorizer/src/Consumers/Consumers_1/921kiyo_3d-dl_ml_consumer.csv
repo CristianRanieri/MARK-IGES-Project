@@ -1,0 +1,14 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/flask_webserver/flask_implementations.py,.predict(,82
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/keras_eval.py,.predict(,429
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/keras_eval.py,.predict(,429
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/keras_eval.py,.predict(,429
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/keras_eval.py,.predict(,429
+921kiyo/3d-dl,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/kerasmodels/keras_eval.py,.predict(,429
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/detection/train_keras_retinanet.py,.predict_on_batch,174
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/detection/train_keras_retinanet.py,.predict_on_batch,356
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/classify.py,.predict(,53
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/flask_app.py,.predict(,87
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/src/deprecated/flask_app.py,.predict(,163
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/detector_webserver/train_keras_retinanet.py,.predict_on_batch,174
+921kiyo/3d-dl,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/921kiyo/3d-dl/detector_webserver/train_keras_retinanet.py,.predict_on_batch,356

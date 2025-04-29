@@ -1,0 +1,11 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/train.py,.train(,129
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/train.ipynb,.train(,218
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/utils/training.py,.train(,57
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/utils/training.py,.backward(,67
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/layers.py,def forward(,14
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/layers.py,def forward(,26
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/layers.py,def forward(,54
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/layers.py,def forward(,65
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/layers.py,def forward(,78
+bfortuner/pytorch_tiramisu,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfortuner/pytorch_tiramisu/models/tiramisu.py,def forward(,80

@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+jackyzha0/DroneNet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jackyzha0/DroneNet/detectionNet.py,training=True,73
+jackyzha0/DroneNet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jackyzha0/DroneNet/archived/weight_restore_test.py,.train.,12
+jackyzha0/DroneNet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jackyzha0/DroneNet/archived/weight_restore_test.py,.train.,14

@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,289
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,301
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,333
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,339
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,346
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,413
+jakeret/tf_unet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jakeret/tf_unet/tf_unet/unet.py,.train.,418

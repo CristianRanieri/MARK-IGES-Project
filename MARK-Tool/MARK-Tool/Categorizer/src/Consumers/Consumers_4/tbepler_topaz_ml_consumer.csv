@@ -1,0 +1,14 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/training.py,.no_grad(,515
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/predict.py,.no_grad(,21
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoise.py,.no_grad(,272
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoise.py,.no_grad(,291
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoise.py,.no_grad(,318
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoise.py,.no_grad(,330
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/filters.py,.no_grad(,73
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/filters.py,.forward(,79
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,.no_grad(,734
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/utils.py,.no_grad(,57
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/utils.py,.no_grad(,93
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/densenet.py,.forward(,98
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,.forward(,382

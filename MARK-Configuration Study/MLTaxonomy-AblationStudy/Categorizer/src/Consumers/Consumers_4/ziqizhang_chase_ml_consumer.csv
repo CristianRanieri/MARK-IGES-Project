@@ -1,0 +1,8 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+ziqizhang/chase,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/ml/classifier_gridsearch.py,.predict(,212
+ziqizhang/chase,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/ml/classifier_dnn.py,.predict(,130
+ziqizhang/chase,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/ml/classifier_dnn.py,.predict(,130
+ziqizhang/chase,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/ml/classifier_dnn.py,.predict(,313
+ziqizhang/chase,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/ml/classifier_dnn.py,.predict(,313
+ziqizhang/chase,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/davidson/classifier.py,.predict(,31
+ziqizhang/chase,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ziqizhang/chase/python/src/davidson/classifier.py,.predict(,57

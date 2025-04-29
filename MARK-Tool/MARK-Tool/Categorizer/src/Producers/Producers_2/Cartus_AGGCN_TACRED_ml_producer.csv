@@ -1,0 +1,33 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/trainer.py,.train(,82
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/trainer.py,.backward(,94
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,26
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,70
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,136
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,190
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,238
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Binary/model/aggcn.py,def forward(,308
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/trainer.py,.train(,83
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/trainer.py,.backward(,95
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,26
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,70
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,137
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,191
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,239
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/PubMed/Tenary/model/aggcn.py,def forward(,309
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/trainer.py,.train(,79
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/trainer.py,.backward(,91
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,27
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,72
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,147
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,208
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,257
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/model/aggcn.py,def forward(,335
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/trainer.py,.train(,80
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/trainer.py,.backward(,92
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,31
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,76
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,151
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,209
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,257
+Cartus/AGGCN_TACRED,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Cartus/AGGCN_TACRED/semeval/model/aggcn.py,def forward(,345

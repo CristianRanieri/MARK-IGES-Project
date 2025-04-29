@@ -1,0 +1,7 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+isht7/pytorch-deeplab-resnet,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/init_net_surgery.py,.forward(,106
+isht7/pytorch-deeplab-resnet,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/init_net_surgery.py,.forward(,106
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/evalpyt.py,.no_grad(,97
+isht7/pytorch-deeplab-resnet,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/convert_deeplab_resnet.py,.forward(,108
+isht7/pytorch-deeplab-resnet,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/convert_deeplab_resnet.py,.forward(,108
+isht7/pytorch-deeplab-resnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/isht7/pytorch-deeplab-resnet/evalpyt2.py,.no_grad(,102

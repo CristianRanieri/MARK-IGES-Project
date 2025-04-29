@@ -1,0 +1,15 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/train_ssd_network_old.py,.Trainer(,98
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/train_ssd_network_old.py,.step(,134
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.ipynb,.Trainer(,1185
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.ipynb,.step(,1286
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.ipynb,.update(,1288
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.ipynb,.update(,1289
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/train_ssd_network.py,.Trainer(,48
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/train_ssd_network.py,.step(,79
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.py,.Trainer(,627
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.py,.step(,676
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.py,.update(,678
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/SSD_mini.py,.update(,679
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/ssd_vgg300_mx_old.py,.update(,25
+Hellcatzm/SSD_Realization_MXNet,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/SSD_Realization_MXNet/ssd_vgg300_mx_old.py,.update(,51

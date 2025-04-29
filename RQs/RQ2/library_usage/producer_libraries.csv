@@ -1,0 +1,1824 @@
+ProjectName,libraries
+a-martyn_ISL-python.csv,{'sklearn'}
+aashutoshrathi_vision.csv,{'tensorflow'}
+921kiyo_3d-dl.csv,"{'sklearn', 'tensorflow', 'keras'}"
+5hirish_adam_qas.csv,{'sklearn'}
+abdullahselek_koolsla.csv,{'sklearn'}
+abdullahselek_spampy.csv,{'sklearn'}
+aaronlam88_cmpe295.csv,{'sklearn'}
+abhayspawar_featexp.csv,{'xgboost'}
+Abhishekmamidi123_Time-Series-Forecasting.csv,"{'sklearn', 'keras'}"
+abojchevski_graph2gauss.csv,"{'sklearn', 'tensorflow'}"
+abojchevski_paican.csv,"{'sklearn', 'tensorflow'}"
+AbrahamSanders_seq2seq-chatbot.csv,{'tensorflow'}
+Accagain2014_TextMatching.csv,"{'sklearn', 'tensorflow'}"
+Acellera_moleculekit.csv,"{'sklearn', 'torch'}"
+acht7111020_ADLxMLDS2017.csv,"{'gym', 'tensorflow', 'keras'}"
+aditya-vora_FCHD-Fully-Convolutional-Head-Detector.csv,{'torch'}
+AdivarekarBhumit_ID-Card-Segmentation.csv,{'keras'}
+adiyoss_GCommandsPytorch.csv,{'torch'}
+adler-j_learned_primal_dual.csv,{'tensorflow'}
+adobe_antialiased-cnns.csv,{'torch'}
+advaitsave_Multiclass-Semantic-Segmentation-CamVid.csv,{'tensorflow'}
+adzialocha_tomomibot.csv,"{'sklearn', 'tensorflow', 'keras'}"
+aerdem4_kaggle-quora-dup.csv,{'keras'}
+AFAgarap_gru-svm.csv,"{'sklearn', 'tensorflow'}"
+AFAgarap_wisconsin-breast-cancer.csv,"{'sklearn', 'tensorflow', 'keras'}"
+AFAgarap_cnn-svm.csv,{'tensorflow'}
+afperezm_acoustic-images-distillation.csv,{'tensorflow'}
+Aftaab99_OfflineSignatureVerification.csv,{'torch'}
+agakshat_visualdialog-pytorch.csv,{'torch'}
+agiletechvn_opencv-starterkit.csv,{'keras'}
+agusgun_FakeImageDetector.csv,{'keras'}
+ahmdtaha_FineGrainedVisualRecognition.csv,{'tensorflow'}
+ahmdtaha_tf_retrieval_baseline.csv,"{'sklearn', 'tensorflow'}"
+ahmedbesbes_character-based-cnn.csv,{'torch'}
+AhmedImtiazPrio_Keras-AudioDataGenerator.csv,{'keras'}
+ahmetgunduz_Real-time-GesRec.csv,{'torch'}
+AhmetHamzaEmra_Intelegent_Lock.csv,"{'sklearn', 'tflearn'}"
+ai-med_nn-common-modules.csv,{'torch'}
+ai-med_squeeze_and_excitation.csv,{'torch'}
+ai4ce_DeepMapping.csv,"{'sklearn', 'torch'}"
+ai4iacts_hexagdly.csv,{'torch'}
+aimagelab_novelty-detection.csv,{'torch'}
+aiqm_torchani.csv,{'torch'}
+airalcorn2_RankNet.csv,"{'torch', 'keras'}"
+aistairc_market-reporter.csv,{'torch'}
+ajaysub110_A-Neural-Compositional-Paradigm-for-Image-Captioning.csv,{'torch'}
+akanimax_BMSG-GAN.csv,"{'sagemaker', 'torch'}"
+AkariAsai_extractive_rc_by_runtime_mt.csv,{'torch'}
+akashlevy_Deep-Learn-Oil.csv,{'keras'}
+akashmjn_cs224n-gpu-that-talks.csv,{'tensorflow'}
+AlbertSuarez_donework.csv,{'tensorflow'}
+aldro61_mmit.csv,{'sklearn'}
+alecGraves_BVAE-tf.csv,{'tensorflow'}
+alecwangcq_EigenDamage-Pytorch.csv,{'torch'}
+AlenK123_V.A.Silly.csv,{'keras'}
+AlessioTonioni_tf-objdetector.csv,{'tensorflow'}
+alex04072000_CyclicGen.csv,{'tensorflow'}
+alexander-poon_legisPy.csv,"{'sklearn', 'keras'}"
+alexander-rakhlin_ICIAR2018.csv,"{'sklearn', 'lightgbm'}"
+alexarnimueller_som.csv,{'sklearn'}
+AlexEMG_DeepLabCut.csv,"{'torch', 'sklearn', 'tensorflow'}"
+AlexGidiotis_Document-Classifier-LSTM.csv,"{'tensorflow', 'keras'}"
+AlexGidiotis_Multimodal-Gesture-Recognition-with-LSTMs-and-CTC.csv,{'keras'}
+AlexiaJM_Deep-learning-with-cats.csv,{'torch'}
+AlexIoannides_pymc-example-project.csv,{'sklearn'}
+alexjc_neural-imagen.csv,{'torch'}
+AlexMa011_pytorch-polygon-rnn.csv,{'torch'}
+AliaksandrSiarohin_monkey-net.csv,{'torch'}
+Alireza-Akhavan_deep-face-recognition.csv,"{'tensorflow', 'keras'}"
+alldbi_Factorized-Spatial-Embeddings.csv,{'tensorflow'}
+allenai_scibert.csv,{'torch'}
+allenai_comb_dist_direct_relex.csv,{'torch'}
+allenai_scispacy.csv,{'sklearn'}
+AllenCellModeling_pytorch_integrated_cell.csv,"{'sklearn', 'torch'}"
+AllenInstitute_mouse_connectivity_models.csv,{'sklearn'}
+alvarowolfx_gcloud-iot-edge-tensorflow.csv,"{'tensorflow', 'keras'}"
+alvinwan_neural-backed-decision-trees.csv,"{'sklearn', 'torch', 'classy_vision'}"
+alyosama_virnet.csv,"{'sklearn', 'tensorflow', 'keras'}"
+amalF_Kervolution.csv,{'tensorflow'}
+amanbasu_3d-prostate-segmentation.csv,{'tensorflow'}
+amansrivastava17_lstm-siamese-text-similarity.csv,{'keras'}
+ambakick_Person-Detection-and-Tracking.csv,{'tensorflow'}
+amdegroot_ssd.pytorch.csv,{'torch'}
+AmeyaWagh_Traffic_sign_detection_YOLO.csv,{'tensorflow'}
+amineHorseman_facial-expression-recognition-using-cnn.csv,"{'tflearn', 'tensorflow'}"
+amirassov_retinanet.csv,{'torch'}
+amirassov_youtrain.csv,{'torch'}
+amoussawi_recoder.csv,{'torch'}
+amobiny_Capsule_Network_Tensorflow.csv,{'tensorflow'}
+anastasios-stamoulis_deep-learning-with-csharp-and-cntk.csv,{'keras'}
+andreasgrv_johnny.csv,{'chainer'}
+amoudgl_pygoturn.csv,{'torch'}
+amzn_emukit.csv,"{'tensorflow', 'sklearn', 'torch'}"
+andreasvc_disco-dop.csv,{'sklearn'}
+andrew-houghton_moon-board-climbing.csv,"{'sklearn', 'xgboost', 'tensorflow', 'keras'}"
+andrewcooke_choochoo.csv,{'sklearn'}
+andriyadi_Maix-LogoClassifier.csv,{'keras'}
+AndyHsiao26_GAIL-Tensorflow.csv,{'tensorflow'}
+angetato_Optimizers-for-Tensorflow.csv,{'tensorflow'}
+AngusMonroe_BLSTM-CRF-NER.csv,{'torch'}
+Angzz_panoptic-fpn-gluon.csv,{'mxnet'}
+anibali_margipose.csv,{'torch'}
+anicolson_DeepXi.csv,{'tensorflow'}
+anitan0925_ResFGB.csv,{'sklearn'}
+ankanbhunia_AdverseBiNet.csv,{'tensorflow'}
+AnkitRai_PlantClassify_DeepLearning.csv,{'keras'}
+Anmol-Singh-Jaggi_Sign-Language-Recognition.csv,{'sklearn'}
+annomator_annomator_1.0.csv,{'tensorflow'}
+annusgit_ForestCoverChange.csv,"{'tensorflow', 'sklearn', 'torch', 'keras'}"
+anrputina_outlierdenstream.csv,{'sklearn'}
+AnthonyMRios_leml.csv,{'sklearn'}
+AntiAegis_Face-Attendance-System.csv,"{'sklearn', 'tensorflow'}"
+AntiAegis_Human-Segmentation-PyTorch.csv,{'torch'}
+AnubhavGupta3377_Text-Classification-Models-Pytorch.csv,{'torch'}
+anujdutt9_Audio-Scene-Classification.csv,"{'tensorflow', 'torch'}"
+Anurag14_accessfaceid.csv,{'tensorflow'}
+apacha_Mensural-Detector.csv,"{'tensorflow', 'keras'}"
+apacha_MusicScoreClassifier.csv,"{'tensorflow', 'torch', 'keras'}"
+apacha_MusicSymbolClassifier.csv,"{'tensorflow', 'keras'}"
+apayne19_DoubleAuctionMarket.csv,{'sklearn'}
+Apm5_tensorflow_2.0_example.csv,{'tensorflow'}
+apoorva-dave_LicensePlateDetector.csv,{'sklearn'}
+appeler_ethnicolr.csv,"{'sklearn', 'tensorflow', 'keras'}"
+appinho_SAComputerVisionMachineLearning.csv,"{'sklearn', 'tensorflow', 'keras'}"
+apple_turicreate.csv,"{'libsvm', 'tensorflow', 'sklearn', 'xgboost', 'torch'}"
+aqlaboratory_rgn.csv,{'tensorflow'}
+aquaskyline_Clairvoyante.csv,{'tensorflow'}
+aquaskyline_Skyhawk.csv,{'tensorflow'}
+araffin_srl-zoo.csv,"{'sklearn', 'torch'}"
+aravindsrinivas_flowpp.csv,{'tensorflow'}
+ardamavi_Dog-Cat-Classifier.csv,{'keras'}
+ardamavi_Game-Bot.csv,{'keras'}
+ArkinDharawat_DeepImageRanking.csv,"{'sklearn', 'torch'}"
+ARM-software_ML-KWS-for-MCU.csv,{'tensorflow'}
+Armour_Automatic-Image-Colorization.csv,{'tensorflow'}
+arose13_rosey.csv,"{'sklearn', 'keras'}"
+art-programmer_FloorNet.csv,{'tensorflow'}
+artem-oppermann_Deep-Autoencoders-For-Collaborative-Filtering.csv,{'tensorflow'}
+artem-oppermann_Sentiment-Analysis-of-Netflix-Reviews.csv,{'tensorflow'}
+ArtificiAI_Multilingual-Latent-Dirichlet-Allocation-LDA.csv,{'sklearn'}
+arunponnusamy_gender-detection-keras.csv,{'keras'}
+aryanmisra_Skin-Lesion-Classifier.csv,{'keras'}
+ashwhall_dsnt.csv,{'tensorflow'}
+AssembleSoftware_IoTPy.csv,"{'sklearn', 'sktime'}"
+astorfi_3D-convolutional-speaker-recognition.csv,{'tensorflow'}
+astorfi_sequence-to-sequence-from-scratch.csv,{'torch'}
+astrazeneca-cgr-publications_mantis-ml-release.csv,"{'sklearn', 'xgboost', 'keras'}"
+atomistic-machine-learning_schnetpack.csv,{'torch'}
+Atomu2014_product-nets.csv,{'tensorflow'}
+atulapra_Emotion-detection.csv,{'tensorflow'}
+atulkum_pointer_summarizer.csv,{'torch'}
+AuCson_PyTorch-Batch-Attention-Seq2seq.csv,{'torch'}
+autonomio_talos.csv,{'tensorflow'}
+autonomio_wrangle.csv,"{'sklearn', 'tensorflow', 'keras'}"
+avanetten_simrdwn.csv,{'tensorflow'}
+AVBelyy_Rysearch.csv,{'sklearn'}
+avilash_pytorch-siamese-triplet.csv,"{'sklearn', 'torch'}"
+avinashpaliwal_Super-SloMo.csv,{'torch'}
+AvinashSingh786_Fraud-Analysis.csv,{'sklearn'}
+AvivSham_DeepLabv3.csv,{'torch'}
+aws-samples_deep-learning-models.csv,"{'sagemaker', 'mxnet', 'tensorflow', 'transformers'}"
+aws-samples_machine-learning-using-k8s.csv,"{'tensorflow', 'torch', 'keras'}"
+awslabs_mxnet-model-server.csv,"{'mxnet', 'torch'}"
+AyanKumarBhunia_Handwriting_Recogition_using_Adversarial_Learning.csv,{'tensorflow'}
+ayush1997_YouTube-Like-predictor.csv,{'sklearn'}
+Azure_DataScienceVM.csv,"{'sklearn', 'tensorflow', 'keras'}"
+BaderLab_saber.csv,{'keras'}
+baidu-research_NCRF.csv,{'torch'}
+BannyStone_Video_Classification_PyTorch.csv,{'torch'}
+bareblackfoot_lddp-tf-faster-rcnn.csv,{'tensorflow'}
+Bartzi_loans.csv,{'chainer'}
+Bartzi_see.csv,"{'chainer', 'tensorflow'}"
+bat67_Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn.csv,{'torch'}
+bat67_TibetanMNIST.csv,"{'tensorflow', 'torch', 'keras'}"
+BATspock_PathProjection.csv,{'keras'}
+baumgach_acdc_segmenter.csv,{'tensorflow'}
+bbfamily_abu.csv,{'sklearn'}
+BBVA_timecop.csv,"{'sklearn', 'tensorflow', 'keras'}"
+bdqnghi_ggnn.tensorflow.csv,{'tensorflow'}
+becauseofAI_MobileFace.csv,"{'sklearn', 'mxnet'}"
+bedapudi6788_deepsegment.csv,"{'tensorflow', 'keras'}"
+benedekrozemberczki_ASNE.csv,{'tensorflow'}
+benedekrozemberczki_DANMF.csv,{'sklearn'}
+benedekrozemberczki_GRAF.csv,"{'sklearn', 'tensorflow'}"
+benedekrozemberczki_role2vec.csv,{'sklearn'}
+benedekrozemberczki_RolX.csv,{'tensorflow'}
+BenWhetton_keras-surgeon.csv,{'tensorflow'}
+beringresearch_ivis.csv,"{'sklearn', 'tensorflow'}"
+BerkeleyAutomation_gqcnn.csv,"{'sklearn', 'tensorflow'}"
+berkgulay_WeatherPredictionFromImage.csv,"{'sklearn', 'keras'}"
+bertinetto_r2d2.csv,{'torch'}
+bfelbo_DeepMoji.csv,{'keras'}
+bfortuner_pytorch_tiramisu.csv,{'torch'}
+BingyaoHuang_CompenNet.csv,{'torch'}
+binny-mathew_Countering_Hate_Speech_ICWSM2019.csv,"{'catboost', 'sklearn', 'tensorflow', 'keras'}"
+binzhouchn_capsule-pytorch.csv,"{'sklearn', 'torch'}"
+bio-ontology-research-group_walking-rdf-and-owl.csv,{'sklearn'}
+biocore_calour.csv,{'sklearn'}
+bioinfomaticsCSU_deepsignal.csv,{'tensorflow'}
+bioinform_neusomatic.csv,{'torch'}
+bkj_ulm-basenet.csv,{'torch'}
+blackeagle01_Abnormal_Event_Detection.csv,{'keras'}
+BloodAxe_pytorch-toolbelt.csv,{'torch'}
+blue-oil_blueoil.csv,{'tensorflow'}
+bmcfee_pumpp.csv,{'sklearn'}
+bobbens_sketch_simplification.csv,{'torch'}
+BorgwardtLab_P-WL.csv,{'sklearn'}
+boubinjg_SoftwarePilot.csv,"{'sklearn', 'tensorflow'}"
+BradleyGrantham_pl-predictions-using-fifa.csv,{'tensorflow'}
+braincreators_octconv.csv,{'torch'}
+brainiak_brainiak.csv,"{'sklearn', 'tensorflow'}"
+brandonrobertz_artificial_seinfeld.csv,{'keras'}
+brannondorsey_GloVe-experiments.csv,{'sklearn'}
+brendanhasz_probflow.csv,{'tensorflow'}
+bryanlimy_tf2-transformer-chatbot.csv,{'tensorflow'}
+BS-TrainingCenter_Gesture-Recognition-Mask-RCNN.csv,{'keras'}
+bsamseth_tictacNET.csv,"{'sklearn', 'tensorflow'}"
+buptxiaofeng_seizure-prediction.csv,{'sklearn'}
+bxshi_ConMask.csv,{'tensorflow'}
+bxshi_ProjE.csv,{'tensorflow'}
+bzier_gym-mupen64plus.csv,{'gym'}
+Cadene_recipe1m.bootstrap.pytorch.csv,"{'sklearn', 'torch'}"
+Cadene_vqa.pytorch.csv,{'torch'}
+cair_TextUnderstandingTsetlinMachine.csv,{'keras'}
+calvdee_end-to-end-lead-scoring.csv,{'sklearn'}
+CAMeL-Lab_camel_tools.csv,{'sklearn'}
+capergroup_bayou.csv,"{'sklearn', 'tensorflow'}"
+cardwing_Codes-for-Steering-Control.csv,"{'tensorflow', 'sklearn', 'torch'}"
+carpedm20_SPIRAL-tensorflow.csv,{'tensorflow'}
+carsdotcom_skelebot.csv,{'sklearn'}
+Cartus_AGGCN_TACRED.csv,{'torch'}
+Cartus_DCGCN.csv,{'mxnet'}
+castorini_hedwig.csv,"{'torch', 'transformers'}"
+catalyst-team_catalyst.csv,"{'sklearn', 'torch'}"
+catalyst-team_classification.csv,{'torch'}
+catnlp_metaLSTM.csv,{'torch'}
+cauchyturing_UCR_Time_Series_Classification_Deep_Learning_Baseline.csv,{'tensorflow'}
+cbg-ethz_pybda.csv,{'sklearn'}
+cbmi-uthsc_deepSepsis.csv,{'tensorflow'}
+CBNU-Nnet_Artificial_Intelligence.csv,{'tensorflow'}
+ceciliavision_perceptual-reflection-removal.csv,{'tensorflow'}
+celarex_STS-CNN-STSbenchmark-Semantic-Similarity-Semantic-Textual-Similarity-CNN-HCTI-Tensorflow-Keras.csv,{'tensorflow'}
+cenkcorapci_fashion-parser.csv,{'keras'}
+cetinsamet_attribute-label-embedding.csv,{'torch'}
+cftang0827_pedestrian_detection_ssdlite.csv,{'tensorflow'}
+cftang0827_pedestrian_recognition.csv,{'tensorflow'}
+cgorman_tensorflow-som.csv,"{'sklearn', 'tensorflow'}"
+chainer_onnx-chainer.csv,{'chainer'}
+chaitjo_regression-stock-prediction.csv,{'sklearn'}
+chaitjo_working-women.csv,{'sklearn'}
+chakki-works_chariot.csv,"{'tensorflow', 'sklearn', 'torch'}"
+CharlesPikachu_AIGames.csv,"{'tensorflow', 'torch', 'keras'}"
+charlesq34_pointnet2.csv,"{'sklearn', 'tensorflow'}"
+chehongshu_DL-tenserflow.csv,{'tensorflow'}
+ChenRocks_fast_abs_rl.csv,{'torch'}
+chenwuperth_rgz_rcnn.csv,{'tensorflow'}
+Chicoryn_dream-go.csv,{'tensorflow'}
+ChihebTrabelsi_deep_complex_networks.csv,{'keras'}
+chihkuanyeh_Representer_Point_Selection.csv,"{'tensorflow', 'sklearn', 'torch'}"
+chizhanyuefeng_FD-CNN.csv,{'tensorflow'}
+chnsh_deep-semantic-code-search.csv,"{'tensorflow', 'sklearn', 'keras', 'torch', 'fastai'}"
+chrisPiemonte_crime-analysis.csv,{'sklearn'}
+chrisPiemonte_url2vec.csv,{'sklearn'}
+Ciaran1981_geospatial-learn.csv,"{'catboost', 'torch'}"
+cics-nd_rans-uncertainty.csv,{'torch'}
+cjekel_tindetheus.csv,"{'sklearn', 'tensorflow'}"
+cjymz886_text-cnn.csv,{'tensorflow'}
+claudio-unipv_quasi-unsupervised-cc.csv,{'torch'}
+ClaudiuGeorgiu_RiskInDroid.csv,{'sklearn'}
+cleardusk_3DDFA.csv,{'torch'}
+clemkoa_tooth-detection.csv,{'tensorflow'}
+Cloud-CV_visual-chatbot.csv,{'torch'}
+clovaai_deep-text-recognition-benchmark.csv,{'torch'}
+clusterking_clusterking.csv,{'sklearn'}
+cmasch_cnn-text-classification.csv,"{'sklearn', 'tensorflow'}"
+cmhungsteve_TA3N.csv,{'torch'}
+cmsflash_beauty-net.csv,{'torch'}
+CODAIT_deep-histopath.csv,"{'sklearn', 'tensorflow', 'keras'}"
+codertimo_BERT-pytorch.csv,{'torch'}
+cognibit_Text-Normalization-Demo.csv,{'tensorflow'}
+ColasGael_Automatic-Video-Colorization.csv,"{'sklearn', 'caffe', 'tensorflow'}"
+ColasGael_Machine-Learning-for-Solar-Energy-Prediction.csv,{'keras'}
+conan7882_neural-style.csv,{'tensorflow'}
+conan7882_triplet-loss.csv,{'tensorflow'}
+corochann_chainer-saliency.csv,"{'chainer', 'sklearn'}"
+cosanlab_nltools.csv,{'sklearn'}
+cosimoiaia_Tensorflow-Chatbot-Italian.csv,{'tensorflow'}
+coxy1989_superconv.csv,{'tensorflow'}
+cpmpercussion_creative-prediction.csv,"{'sklearn', 'tensorflow', 'keras'}"
+cpmpercussion_robojam.csv,"{'tensorflow', 'keras'}"
+cpury_lstm-math.csv,{'tensorflow'}
+crisbodnar_text-to-image.csv,{'tensorflow'}
+criteo_tf-yarn.csv,"{'torch', 'tensorflow'}"
+crouchred_speaker-recognition-py3.csv,{'sklearn'}
+crownpku_Information-Extraction-Chinese.csv,{'tensorflow'}
+CryoliteZ_Plants-Identification.csv,{'keras'}
+cs-chan_Deep-Plant.csv,{'tensorflow'}
+CSAILVision_gandissect.csv,{'torch'}
+csvance_keras-mobile-detectnet.csv,{'tensorflow'}
+cszhangzhen_ANRL.csv,"{'sklearn', 'tensorflow'}"
+cuguilke_microexpnet.csv,{'tensorflow'}
+cvjena_libmaxdiv.csv,{'sklearn'}
+cvlab-tohoku_Dense-CoAttention-Network.csv,{'torch'}
+CVLAB-Unibo_Semantic-Mono-Depth.csv,{'tensorflow'}
+CVxTz_EEG_classification.csv,{'keras'}
+CVxTz_graph_classification.csv,{'keras'}
+CyberZHG_keras-gpt-2.csv,{'tensorflow'}
+CyberZHG_keras-word-char-embd.csv,{'tensorflow'}
+CyberZHG_keras-bert.csv,{'tensorflow'}
+CynthiaKoopman_Network-Intrusion-Detection.csv,{'sklearn'}
+cyschneck_Hydra.csv,{'sklearn'}
+cytadela8_trypophobia.csv,{'keras'}
+dabasajay_Image-Caption-Generator.csv,"{'tensorflow', 'keras'}"
+DagnyT_hardnet.csv,{'torch'}
+daigo0927_pwcnet.csv,"{'torch', 'tensorflow'}"
+dair-iitd_BossNet.csv,{'tensorflow'}
+DakshMiglani_Credit-Card-Fraud.csv,"{'sklearn', 'torch', 'keras'}"
+damien911224_theWorldInSafety.csv,"{'sklearn', 'caffe', 'tensorflow'}"
+damitkwr_ESRNN-GPU.csv,{'torch'}
+dancsalo_TensorFlow-MIL.csv,"{'tensorflow', 'keras'}"
+dangitstam_topic-rnn.csv,{'torch'}
+danhper_bigcode-tools.csv,"{'sklearn', 'tensorflow'}"
+daniel-cortez-stevenson_crypto-predict.csv,"{'sklearn', 'tensorflow', 'keras'}"
+daniel-muthukrishna_astrodash.csv,{'tensorflow'}
+danieldk_sticker.csv,{'tensorflow'}
+danielhanchen_hyperlearn.csv,"{'torch', 'sklearn', 'tensorflow', 'keras'}"
+danielzuegner_netgan.csv,{'tensorflow'}
+danielzuegner_nettack.csv,{'tensorflow'}
+Daniil-Osokin_lightweight-human-pose-estimation.pytorch.csv,{'torch'}
+dantaki_SV2.csv,{'sklearn'}
+darribas_satellite_led_liverpool.csv,{'sklearn'}
+dasguptar_treelstm.pytorch.csv,{'torch'}
+data-mill-cloud_data-mill.csv,"{'tensorflow', 'keras'}"
+datalogue_keras-attention.csv,{'keras'}
+datarobot_pic2vec.csv,{'sklearn'}
+datasciencecampus_pyGrams.csv,"{'sklearn', 'keras'}"
+datmo_datmo.csv,{'sklearn'}
+dave-fernandes_ECGClassifier.csv,{'tensorflow'}
+david-yoon_detecting-incongruity.csv,{'tensorflow'}
+david-yoon_multimodal-speech-emotion.csv,{'tensorflow'}
+david-yoon_QA_HRDE_LTC.csv,"{'sklearn', 'tensorflow'}"
+Davidham3_STGCN.csv,{'mxnet'}
+davidhaohanli_Abnormal-Behaviour-Detection.csv,{'sklearn'}
+Daya-Jin_ML_for_learner.csv,{'sklearn'}
+dbiir_UER-py.csv,"{'tensorflow', 'lightgbm', 'torch'}"
+dcgym_iroko.csv,{'gym'}
+deep-fingerprinting_df.csv,{'keras'}
+deep-fry_mayo.csv,{'tensorflow'}
+deep-learning-for-humans_fontastic.csv,"{'torch', 'fastai', 'keras'}"
+DeepBCI_Deep-BCI.csv,"{'gym', 'tensorflow', 'sklearn', 'keras', 'torch'}"
+deepchem_deepchem.csv,"{'deepchem', 'tensorflow', 'sklearn', 'keras', 'torch', 'transformers'}"
+deepdiy_deepdiy.csv,"{'tensorflow', 'keras'}"
+deepfakes_faceswap.csv,"{'sklearn', 'tensorflow'}"
+deepforge-dev_deepforge.csv,{'tensorflow'}
+DeepInEvil_webCamEmocognizer.csv,{'keras'}
+DeepTrial_DL_Segmention_Template.csv,{'keras'}
+DeFacto_DeFactoNLP.csv,"{'sklearn', 'torch'}"
+Demfier_multimodal-speech-emotion-recognition.csv,"{'sklearn', 'torch'}"
+Demiguises_Kakao-Valhalla.csv,{'sklearn'}
+DenisTome_Lifting-from-the-Deep-release.csv,{'tensorflow'}
+Desklop_Voice_ChatBot.csv,{'keras'}
+DetectionTeamUCAS_FCOS_Tensorflow.csv,{'tensorflow'}
+DetectionTeamUCAS_RetinaNet_Tensorflow.csv,{'tensorflow'}
+devanshkv_fetch.csv,{'tensorflow'}
+developmentseed_label-maker.csv,"{'sagemaker', 'tensorflow', 'keras'}"
+devpranoy_video_coloriser.csv,"{'sklearn', 'torch'}"
+DevSinghSachan_multilingual_nmt.csv,{'torch'}
+dfcf93_MSMARCO.csv,{'torch'}
+dfdazac_wassdistance.csv,{'torch'}
+dgodinez77_LIA.csv,"{'sklearn', 'xgboost'}"
+dgriffiths3_ml_segmentation.csv,{'sklearn'}
+dialnd_imbalanced-algorithms.csv,"{'sklearn', 'tensorflow'}"
+diganthp_pi-vision.csv,"{'sklearn', 'tensorflow'}"
+dimimal_semantics_segmentation_of_urban_environments.csv,{'keras'}
+dirty-cat_dirty_cat.csv,{'sklearn'}
+DistrictDataLabs_yellowbrick.csv,"{'sklearn', 'torch', 'cuml'}"
+djosix_Performance-RNN-PyTorch.csv,{'torch'}
+djpetti_isl-gazecapture.csv,"{'sklearn', 'tensorflow'}"
+dkirkby_MachineLearningStatistics.csv,"{'tensorflow', 'sklearn', 'torch'}"
+dlarsen5_AdaptiveSFM.csv,"{'tensorflow', 'keras'}"
+dlebech_lyrics-generator.csv,{'tensorflow'}
+dllllb_ds-tools.csv,{'sklearn'}
+dmbee_seglearn.csv,"{'sklearn', 'tensorflow'}"
+dmlc_gluon-nlp.csv,"{'tensorflow', 'mxnet', 'torch'}"
+domainadaptation_salad.csv,{'torch'}
+domschl_tensor-poet.csv,{'tensorflow'}
+DongjunLee_kino-bot.csv,"{'sklearn', 'tensorflow'}"
+Doragd_Chinese-Chatbot-PyTorch-Implementation.csv,{'torch'}
+doubleQ2018_Deep-learning-for-contact_map_v2.csv,{'tensorflow'}
+dougsm_ggcnn.csv,{'torch'}
+DragonComputer_Dragonfire.csv,{'tensorflow'}
+drawbridge_keras-mmoe.csv,"{'sklearn', 'tensorflow'}"
+DrGFreeman_rps-cv.csv,{'sklearn'}
+driemworks_agatha.csv,"{'sklearn', 'keras'}"
+drivendataorg_zamba.csv,{'torch'}
+DrSleep_DenseTorch.csv,{'torch'}
+DrSleep_light-weight-refinenet.csv,{'torch'}
+dsindex_etagger.csv,{'tensorflow'}
+dtrckd_pymake.csv,{'sklearn'}
+DuaneNielsen_DeepInfomaxPytorch.csv,{'torch'}
+ducha-aiki_affnet.csv,{'torch'}
+duketemon_pyuplift.csv,{'sklearn'}
+Dumbris_trunklucator.csv,{'torch'}
+dumyy_handpose.csv,{'tensorflow'}
+dustalov_watset.csv,{'sklearn'}
+duxuhao_Feature-Selection.csv,{'sklearn'}
+dvgodoy_deepreplay.csv,"{'sklearn', 'keras'}"
+DwangoMediaVillage_Comicolorization.csv,{'chainer'}
+dymaxionlabs_ap-latam.csv,{'keras'}
+earhian_Humpback-Whale-Identification-1st-.csv,{'torch'}
+ealcobaca_pymfe.csv,{'sklearn'}
+ebigelow_tf-decompose.csv,{'tensorflow'}
+ECRL_ECNet.csv,"{'sklearn', 'torch'}"
+eellak_gsoc2018-3gm.csv,"{'sklearn', 'tensorflow', 'keras'}"
+eigenfoo_modo-de-ambar.csv,{'tensorflow'}
+Ekim-Yurtsever_DeepTL-Lane-Change-Classification.csv,"{'tensorflow', 'keras'}"
+eladhoffer_seq2seq.pytorch.csv,{'torch'}
+elcolumbio_mlrepricer.csv,{'sklearn'}
+EliasCai_bert-toxicity-classification.csv,{'tensorflow'}
+ell-hol_mpc-DL-controller.csv,{'keras'}
+ElmiiiRaa_machine-translation.csv,{'tensorflow'}
+elvisun_Chinese-poem-generator.csv,{'keras'}
+embracesource-cv-com_keras-east.csv,{'keras'}
+EmilienDupont_neural-processes.csv,{'torch'}
+emilwallner_Deep-Learning-From-Scratch.csv,"{'tflearn', 'tensorflow'}"
+emilwallner_Screenshot-to-code.csv,{'keras'}
+epfl-lara_treenet.csv,{'torch'}
+episodeyang_deep-auto-punctuation.csv,{'torch'}
+Epistimio_orion.csv,"{'sklearn', 'torch', 'transformers'}"
+ericmjl_flu-sequence-predictor.csv,"{'tensorflow', 'keras'}"
+Erlemar_digit-draw-recognize.csv,{'tensorflow'}
+Erotemic_netharn.csv,"{'sklearn', 'torch'}"
+esowc_ml_drought.csv,"{'sklearn', 'xgboost', 'torch'}"
+estnltk_estnltk.csv,"{'sklearn', 'tensorflow'}"
+EteRNAgame_EternaBrain.csv,"{'sklearn', 'tensorflow', 'keras'}"
+EthanGuan_Finding-Tiny-Faces-with-GAN.csv,{'torch'}
+ethanwharris_STAWM.csv,{'torch'}
+euclidjda_deep-quant.csv,"{'sklearn', 'tensorflow'}"
+EvgenyKashin_SRMnet.csv,{'torch'}
+Eurus-Holmes_cmu11-485-785.csv,"{'tensorflow', 'sklearn', 'torch'}"
+evhart_crees.csv,{'tensorflow'}
+evilsocket_ergo-pe-av.csv,{'keras'}
+experiencor_deep-viz-keras.csv,{'tensorflow'}
+experiencor_keras-yolo2.csv,{'keras'}
+experiencor_keras-yolo3.csv,{'keras'}
+explosion_prodigy-recipes.csv,"{'tensorflow', 'sklearn', 'torch'}"
+eyounx_ZOOpt.csv,{'gym'}
+f90_AdversarialAudioSeparation.csv,{'tensorflow'}
+f90_Wave-U-Net.csv,{'tensorflow'}
+fabiotosi92_CCNN-Tensorflow.csv,{'tensorflow'}
+fabiotosi92_monoResMatch-Tensorflow.csv,{'tensorflow'}
+fabvio_ld-lsi.csv,"{'sklearn', 'torch'}"
+facebookresearch_ELF.csv,{'torch'}
+facebookresearch_vilbert-multi-task.csv,"{'tensorflow', 'torch'}"
+fangchangma_sparse-to-dense.pytorch.csv,{'torch'}
+fdtomasi_regain.csv,{'sklearn'}
+felixgwu_img_classification_pk_pytorch.csv,{'torch'}
+felixriese_susi.csv,{'sklearn'}
+ferreirafabio_video2tfrecord.csv,{'tensorflow'}
+fferroni_PhasedLSTM-Keras.csv,{'keras'}
+FlashTek_show-attend-and-tell-keras.csv,{'keras'}
+FlorentF9_DESOM.csv,"{'sklearn', 'tensorflow', 'keras'}"
+floydhub_mnist.csv,{'torch'}
+fmahoudeau_fcn.csv,{'tensorflow'}
+foamliu_Car-Recognition.csv,{'keras'}
+foamliu_Deep-Image-Matting.csv,{'keras'}
+foamliu_Deep-Residual-Matting.csv,{'torch'}
+foamliu_Facial-Expression-Prediction.csv,{'keras'}
+foamliu_Look-Into-Person.csv,{'keras'}
+foamliu_Machine-Translation.csv,{'torch'}
+foamliu_Reading-Comprehension.csv,{'torch'}
+foolwood_SiamMask.csv,{'torch'}
+for-ai_rl.csv,"{'gym', 'tensorflow'}"
+Fournierp_alfred.csv,"{'sklearn', 'gym', 'tensorflow', 'stable_baselines'}"
+FrancescoSaverioZuppichini_mirror.csv,{'torch'}
+frogermcs_MNIST-TFLite.csv,{'tensorflow'}
+fsx950223_mobilenetv2-yolov3.csv,{'tensorflow'}
+fsx950223_MobilenetV3.csv,{'tensorflow'}
+fuzimaoxinan_Pytorch-Deep-Neural-Networks.csv,"{'sklearn', 'torch'}"
+Fyusion_LLFF.csv,{'tensorflow'}
+gaborvecsei_CDCGAN-Keras.csv,{'keras'}
+gabrieleilertsen_hdrcnn.csv,{'tensorflow'}
+gabrielspmoreira_chameleon_recsys.csv,"{'sklearn', 'tensorflow'}"
+gabrieltseng_pycrop-yield-prediction.csv,{'torch'}
+gabrielwong159_siamese.csv,{'tensorflow'}
+gadiluna_SAFE.csv,{'tensorflow'}
+GalDude33_Fetal-MRI-Segmentation.csv,"{'sklearn', 'keras'}"
+GantMan_nsfw_model.csv,"{'tensorflow', 'keras'}"
+gasparian_PicsArtHack-binary-segmentation.csv,{'torch'}
+gautam678_Pix2Depth.csv,{'keras'}
+GavinHacker_recsys_core.csv,{'sklearn'}
+gbnk0_simple-image-classifier.csv,{'tensorflow'}
+gbolmier_funk-svd.csv,{'sklearn'}
+geek-ai_MAgent.csv,"{'mxnet', 'tensorflow'}"
+generall_EntityCategoryPrediction.csv,{'torch'}
+gengyanlei_Semi-Supervised-Semantic-Segmentation-GAN.csv,{'tensorflow'}
+gentaiscool_lstm-attention.csv,"{'sklearn', 'tensorflow', 'keras'}"
+georgesterpu_Sigmedia-AVSR.csv,{'tensorflow'}
+georgymh_decentralized-ml.csv,"{'sklearn', 'tensorflow', 'keras'}"
+GeoscienceAustralia_dea-notebooks.csv,{'sklearn'}
+GianlucaPaolocci_Sound-classification-on-Raspberry-Pi-with-Tensorflow.csv,"{'sklearn', 'tensorflow'}"
+gigatskhondia_Reinforcement_Learning_and_FEA.csv,"{'torch', 'gym'}"
+GilesStrong_lumin.csv,"{'sklearn', 'torch'}"
+GiteshJ_Breast-Cancer-Phase-Detection.csv,{'keras'}
+GitLanx_Semantic-Segmentation-PyTorch.csv,{'torch'}
+gittar_k-means-u-star.csv,{'sklearn'}
+glm-tools_pyglmnet.csv,{'sklearn'}
+gmontamat_gentun.csv,"{'sklearn', 'keras'}"
+GMvandeVen_continual-learning.csv,{'torch'}
+gojibjib_jibjib-model.csv,"{'tensorflow', 'keras'}"
+gongzhitaao_adversarial-text.csv,{'tensorflow'}
+google-research_google-research.csv,"{'accelerate', 'scvi', 'gym', 'sktime', 'tensorflow', 'ray', 'sklearn', 'tf_agents', 'keras', 'torch', 'transformers'}"
+google-research_meta-dataset.csv,{'tensorflow'}
+google-research_text-to-text-transfer-transformer.csv,"{'tensorflow', 'transformers'}"
+gooofy_zamia-ai.csv,{'tensorflow'}
+goruck_edge-tpu-servers.csv,{'sklearn'}
+goruck_smart-zoneminder.csv,"{'sklearn', 'tensorflow'}"
+gpleiss_efficient_densenet_pytorch.csv,{'torch'}
+granularai_fabric.csv,{'torch'}
+graphbrain_graphbrain.csv,{'sklearn'}
+graykode_gpt-2-Pytorch.csv,{'torch'}
+greenelab_pancancer.csv,{'sklearn'}
+greenelab_snorkeling.csv,"{'sklearn', 'snorkel'}"
+greenelab_tybalt.csv,"{'sklearn', 'tensorflow', 'keras'}"
+gregversteeg_corex_topic.csv,{'sklearn'}
+gregwchase_dsi-capstone.csv,{'keras'}
+grouplens_samantha.csv,{'tensorflow'}
+gsurma_cartpole.csv,{'keras'}
+gsurma_face_generator.csv,{'tensorflow'}
+gsurma_image_generator.csv,{'tensorflow'}
+GT-RIPL_Continual-Learning-Benchmark.csv,{'torch'}
+GT-RIPL_L2C.csv,{'torch'}
+guanfuchen_cifarclassify.csv,"{'tensorflow', 'torch'}"
+guanfuchen_semseg.csv,"{'tensorflow', 'torch'}"
+guanyingc_SDPS-Net.csv,{'torch'}
+GuitarsAI_BasicsMusicalInstrumClassifi.csv,"{'sklearn', 'torch', 'tensorflow', 'keras'}"
+GuodongQi_yolo3_tensorflow.csv,{'tensorflow'}
+guotong1988_BERT-multi-gpu.csv,{'tensorflow'}
+guotong1988_LeakGAN-python3.csv,{'tensorflow'}
+gvashkevich_tf-flowavenet.csv,{'tensorflow'}
+Ha0Tang_SelectionGAN.csv,{'torch'}
+Ha0Tang_AttentionGAN.csv,{'torch'}
+Ha0Tang_GestureGAN.csv,{'torch'}
+hackingmaterials_automatminer.csv,"{'tpot', 'sklearn'}"
+hamelsmu_ktext.csv,"{'sklearn', 'keras'}"
+Hananel-Hazan_bindsnet.csv,"{'sklearn', 'torch'}"
+hankcs_HanLP.csv,"{'torch', 'tensorflow', 'transformers', 'keras'}"
+hanranCode_ImageDT.csv,{'tensorflow'}
+Haoran-S_SPAWC2017.csv,{'tensorflow'}
+haqishen_MFNet-pytorch.csv,{'torch'}
+harish2704_pottan-ocr.csv,{'keras'}
+harshbg_Sign-Language-Interpreter-using-Deep-Learning.csv,{'keras'}
+harveyslash_Facial-Similarity-with-Siamese-Networks-in-Pytorch.csv,{'torch'}
+hassyGo_NLG-RL.csv,{'torch'}
+hawk31_pyGPGO.csv,{'sklearn'}
+HazyResearch_fonduer.csv,"{'snorkel', 'torch'}"
+HazyResearch_snorkel.csv,"{'snorkel', 'torch'}"
+hbahadirsahin_nlp-experiments-in-pytorch.csv,{'torch'}
+HDI-Project_ATM.csv,{'sklearn'}
+HealthCatalyst_healthcareai-py.csv,{'sklearn'}
+hedrox_ecg-classification.csv,"{'sklearn', 'tensorflow', 'keras'}"
+Hellcatzm_SSD_Realization_MXNet.csv,{'mxnet'}
+Hellcatzm_SSD_Realization_TensorFlow.csv,{'tensorflow'}
+Hellcatzm_TransforLearning_TensorFlow.csv,"{'mxnet', 'tensorflow', 'keras'}"
+hellochick_Indoor-segmentation.csv,{'tensorflow'}
+Helsinki-NLP_HBMP.csv,{'torch'}
+henriquepgomide_caRtola.csv,"{'sklearn', 'lightgbm', 'keras'}"
+hepesu_LineDistiller.csv,{'keras'}
+HewlettPackard_dlcookbook-dlbs.csv,"{'torch', 'mxnet', 'tensorflow'}"
+hfawaz_bigdata18.csv,"{'sklearn', 'keras'}"
+hfawaz_dl-4-tsc.csv,"{'sklearn', 'tensorflow'}"
+hfawaz_ijcnn19attacks.csv,"{'gym', 'tensorflow', 'sklearn', 'keras', 'torch'}"
+hijkzzz_fast-neural-style-transfer.csv,{'tensorflow'}
+hijkzzz_reinforcement-learning-wechat-jump.csv,{'torch'}
+himanshurawlani_practical_intro_to_tf2.csv,{'tensorflow'}
+himkt_pyner.csv,{'chainer'}
+Hippogriff_CSGNet.csv,{'torch'}
+Hironsan_anago.csv,"{'anago', 'keras'}"
+Hironsan_asari.csv,{'sklearn'}
+HITS-AIN_PINK.csv,{'tensorflow'}
+hiwonjoon_NEC.csv,"{'gym', 'tensorflow'}"
+hli1221_Imagefusion_deepfuse.csv,{'tensorflow'}
+hli1221_imagefusion_densefuse.csv,{'tensorflow'}
+hls-fpga-machine-learning_hls4ml.csv,"{'sklearn', 'torch', 'tensorflow'}"
+HLTCHKUST_Mem2Seq.csv,{'torch'}
+hlzz_DeepMatchVO.csv,{'tensorflow'}
+hlzz_mirror.csv,"{'sklearn', 'tensorflow'}"
+hmchuong_ML-BoneSuppression.csv,{'tensorflow'}
+HMS-IDAC_ImageForensics.csv,"{'sklearn', 'tensorflow'}"
+Hoiy_berserker.csv,{'tensorflow'}
+holgerroth_3Dunet_abdomen_cascade.csv,"{'sklearn', 'caffe'}"
+hollance_YOLO-CoreML-MPSNNGraph.csv,"{'tensorflow', 'keras'}"
+hollygrimm_art-composition-cnn.csv,{'keras'}
+holm-aune-bachelor2018_ctc.csv,{'keras'}
+HoloClean_holoclean.csv,{'torch'}
+HolyBayes_pytorch_ard.csv,{'torch'}
+Hourout_GAN-keras.csv,{'tensorflow'}
+Hourout_linora.csv,"{'xgboost', 'sklearn', 'mxnet'}"
+howl-anderson_seq2annotation.csv,{'tensorflow'}
+hoya012_pytorch-peleenet.csv,{'torch'}
+hpanwar08_sentence-classification-pytorch.csv,{'torch'}
+hrnbot_Basic-Mathematics-for-Machine-Learning.csv,{'sklearn'}
+hrpan_tetris_mcts.csv,"{'caffe2', 'torch'}"
+hsm207_bert_attn_viz.csv,{'tensorflow'}
+hsokooti_RegNet.csv,{'tensorflow'}
+HsuWanTing_unified-summarization.csv,{'tensorflow'}
+Hsuxu_Loss_ToolBox-PyTorch.csv,{'torch'}
+huckiyang_EyeNet2.csv,{'keras'}
+huggingface_hmtl.csv,{'torch'}
+huggingface_neuralcoref.csv,{'torch'}
+huggingface_transfer-learning-conv-ai.csv,{'transformers'}
+hughplay_DFNet.csv,{'torch'}
+hugochan_BAMnet.csv,{'torch'}
+hujinsen_StarGAN-Voice-Conversion.csv,"{'sklearn', 'tensorflow'}"
+HunterMcGushion_hyperparameter_hunter.csv,"{'sklearn', 'keras'}"
+huseinzol05_NLP-Models-Tensorflow.csv,"{'lightgbm', 'tensorflow', 'sklearn', 'keras', 'xgboost'}"
+HymEric_VSR-DUF-Reimplement.csv,{'tensorflow'}
+Hyperparticle_LemmaTag.csv,{'tensorflow'}
+Hyperparticle_udify.csv,{'torch'}
+HypoX64_candock.csv,"{'sklearn', 'torch'}"
+HypoX64_DeepMosaics.csv,{'torch'}
+hypraptive_bearid.csv,{'sklearn'}
+HYU-AILAB_ai-seminar.csv,"{'sklearn', 'torch', 'gym', 'tensorflow'}"
+hzwer_LearningToPaint.csv,{'torch'}
+ialhashim_DenseDepth.csv,"{'torch', 'tensorflow'}"
+iandanforth_pymuscle.csv,{'gym'}
+ianwhale_nsga-net.csv,{'torch'}
+iArunava_ENet-Real-Time-Semantic-Segmentation.csv,{'torch'}
+IBM_customer-churn-prediction.csv,{'sklearn'}
+IBM_iot-predictive-analytics.csv,{'sklearn'}
+IBM_MAX-Audio-Embedding-Generator.csv,{'tensorflow'}
+IBM_MAX-Audio-Sample-Generator.csv,{'tensorflow'}
+IBM_MAX-Fast-Neural-Style-Transfer.csv,{'torch'}
+IBM_MAX-Image-Caption-Generator.csv,{'tensorflow'}
+IBM_MAX-Image-Resolution-Enhancer.csv,{'tensorflow'}
+IBM_MAX-Image-Segmenter.csv,{'tensorflow'}
+IBM_MAX-ResNet-50.csv,{'keras'}
+IBM_MAX-Scene-Classifier.csv,{'torch'}
+IBM_powerai-market-sentiment.csv,{'tensorflow'}
+IBM_powerai-transfer-learning.csv,{'tensorflow'}
+IBM_SystemML_Usage.csv,{'sklearn'}
+IBM_tensorflow-kubernetes-art-classification.csv,{'tensorflow'}
+IBM_xgboost-smote-detect-fraud.csv,{'sklearn'}
+ibrahimsharaf_doc2vec.csv,{'sklearn'}
+idearibosome_tf-perceptual-eusr.csv,{'tensorflow'}
+IDKiro_CBDNet-pytorch.csv,{'torch'}
+IDKiro_CBDNet-tensorflow.csv,{'tensorflow'}
+IDSIA_sacred.csv,{'sklearn'}
+iesl_Distributional-Inclusion-Vector-Embedding.csv,"{'sklearn', 'tensorflow'}"
+IHIaadj_Malware-classifier-PyTorch.csv,{'torch'}
+IINemo_isanlp_srl_framebank.csv,"{'sklearn', 'deeppavlov', 'tensorflow'}"
+ikostrikov_pytorch-flows.csv,{'torch'}
+IlyaGusev_rnnmorph.csv,{'keras'}
+IlyaGusev_summarus.csv,"{'sklearn', 'torch', 'transformers'}"
+ImagingLab_Colorizing-with-GANs.csv,{'tensorflow'}
+imatge-upc_retrieval-2017-cam.csv,"{'sklearn', 'torch'}"
+imatge-upc_rvos.csv,{'torch'}
+imito_odin-ai.csv,"{'sklearn', 'torch', 'tensorflow', 'cuml'}"
+immortal3_MLNet-Pytorch.csv,{'torch'}
+imrahulr_Toxic-Comment-Classification-Kaggle.csv,"{'sklearn', 'keras'}"
+inab_BIOLITMAP.csv,{'sklearn'}
+includeamin_WBC-Classification.csv,"{'sklearn', 'keras'}"
+inejc_paragraph-vectors.csv,{'torch'}
+inferno-pytorch_speedrun.csv,{'torch'}
+initial-h_AlphaZero_Gomoku_MPI.csv,{'tensorflow'}
+INK-USC_DS-RelationExtraction.csv,"{'torch', 'tensorflow', 'keras'}"
+instacart_lore.csv,"{'sklearn', 'tensorflow', 'keras'}"
+intuit_foremast-brain.csv,"{'sklearn', 'mxnet', 'keras'}"
+inuinana_MusicGenreClassifiaction.csv,"{'sklearn', 'torch'}"
+ironmussa_Optimus.csv,"{'sklearn', 'cuml'}"
+IsaacGuan_PointNet-Plane-Detection.csv,{'tensorflow'}
+isaacmg_model_agnostic_prediction.csv,"{'tensorflow', 'torch'}"
+IShengFang_SpectralNormalizationKeras.csv,{'keras'}
+isht7_pytorch-deeplab-resnet.csv,{'torch'}
+Issam28_Brain-tumor-segmentation.csv,{'keras'}
+ITE-5th_image-captioning-gan.csv,{'torch'}
+itsmehemant123_gpt2-discord-bot.csv,{'tensorflow'}
+ivclab_PAE.csv,"{'sklearn', 'tensorflow'}"
+iwangjian_textsum-gan.csv,{'tensorflow'}
+ixarchakos_nba-games.csv,{'sklearn'}
+IXarea_LittleGAN.csv,{'tensorflow'}
+j05t_emnist.csv,{'keras'}
+jackyzha0_DroneNet.csv,{'tensorflow'}
+jacobkimmel_lanternfish.csv,{'sklearn'}
+Jacobvs_DDOS-ML-Detection.csv,{'keras'}
+jadore801120_attention-is-all-you-need-pytorch.csv,{'torch'}
+JAIJANYANI_Automated-Resume-Screening-System.csv,{'sklearn'}
+james4388_noahcar.csv,{'keras'}
+jamesgeorge007_Gender-Classifier.csv,{'sklearn'}
+JamesQuintero_Recession-Indicator.csv,"{'sklearn', 'keras'}"
+jangsoopark_IDN-TensorFlow.csv,{'tensorflow'}
+jantrienes_ecir2019-qac.csv,"{'sklearn', 'keras'}"
+JarnoRFB_incense.csv,"{'sklearn', 'tensorflow'}"
+jason718_game-feature-learning.csv,"{'sklearn', 'caffe', 'torch'}"
+JasonKessler_scattertext.csv,"{'lightning', 'sklearn'}"
+jasonlaska_spherecluster.csv,{'sklearn'}
+jasonwu0731_trade-dst.csv,{'torch'}
+jatana-research_Text-Classification.csv,{'keras'}
+JavierAntoran_Bayesian-Neural-Networks.csv,{'torch'}
+JayYip_bert-multitask-learning.csv,"{'sklearn', 'tensorflow'}"
+jcreinhold_synthtorch.csv,{'torch'}
+jeanggi90_sensorCar.csv,{'tensorflow'}
+JeanKossaifi_tensorly-notebooks.csv,"{'tensorflow', 'mxnet', 'torch'}"
+Jeetu95_Brain-Tumor-Segmentation.csv,{'torch'}
+jeffkinnison_shadho.csv,{'sklearn'}
+jgraving_deepposekit.csv,{'tensorflow'}
+JGuillaumin_swa-tf.csv,{'tensorflow'}
+JGuymont_vae-anomaly-detector.csv,{'torch'}
+jhasuman_potholes-detection.csv,{'keras'}
+jhu-lcsr_costar_plan.csv,"{'sklearn', 'gym', 'tensorflow', 'keras'}"
+jiali-ms_JLM.csv,"{'sklearn', 'tensorflow'}"
+jiangruoqiao_RICNN_GongCheng_CVPR2015.csv,{'tensorflow'}
+jimmy60504_SeisNN.csv,"{'tensorflow', 'torch'}"
+jimmyyhwu_ddsm-visual-primitives.csv,{'torch'}
+jimmyyhwu_pose-interpreter-networks.csv,{'torch'}
+jinfagang_tfboys.csv,"{'tensorflow', 'torch', 'keras'}"
+jing-vision_lightnet.csv,"{'sklearn', 'tensorflow'}"
+JingqingZ_BaiduTraffic.csv,"{'sklearn', 'tensorflow'}"
+JingqingZ_KG4ZeroShotText.csv,"{'sklearn', 'tensorflow'}"
+jinnovation_derain-net.csv,{'tensorflow'}
+jisungk_deepjazz.csv,{'keras'}
+jiwoon-ahn_irn.csv,{'torch'}
+jiwoon-ahn_psa.csv,{'torch'}
+jkoutsikakis_pytorch-wrapper.csv,"{'torch', 'transformers'}"
+joeddav_devol.csv,"{'tensorflow', 'keras'}"
+joehammer934_MGN-ReId.csv,{'tensorflow'}
+JoergFranke_ADNC.csv,{'tensorflow'}
+johannfaouzi_pyts.csv,{'sklearn'}
+johannfaouzi_pyts-repro.csv,{'sklearn'}
+johri002_Automatic-leaf-infection-identifier.csv,{'sklearn'}
+jolibrain_fluidnet_cxx.csv,{'torch'}
+jonasrothfuss_fishervector.csv,{'sklearn'}
+JRC1995_Abstractive-Summarization.csv,{'tensorflow'}
+jrzaurin_ml_pipelines.csv,"{'sklearn', 'lightgbm'}"
+js3611_Deep-MRI-Reconstruction.csv,{'torch'}
+jsbruglie_tf-shape-detection.csv,{'tensorflow'}
+jtourille_yaset.csv,{'torch'}
+jubins_DeepLearning-Food-Image-Recognition-And-Calorie-Estimation.csv,"{'sklearn', 'tensorflow'}"
+jungtaekkim_bayeso.csv,{'sklearn'}
+junqiangchen_KiTS19-Challege.csv,{'tensorflow'}
+junqiangchen_LiTS---Liver-Tumor-Segmentation-Challenge.csv,{'tensorflow'}
+junqiangchen_Unet2d.csv,{'tensorflow'}
+junqiangchen_Unet_3d.csv,{'tensorflow'}
+junqiangchen_VNet3D.csv,{'tensorflow'}
+junyanz_BicycleGAN.csv,{'torch'}
+junyanz_interactive-deep-colorization.csv,"{'sklearn', 'torch'}"
+junyanz_pytorch-CycleGAN-and-pix2pix.csv,{'torch'}
+justachetan_img2latex.csv,"{'sklearn', 'keras'}"
+JustAnOwlz_Face-Denoising.csv,{'keras'}
+JustGlowing_minisom.csv,{'sklearn'}
+justusschock_shape-constrained-network.csv,"{'sklearn', 'torch'}"
+justusschock_shapenet.csv,{'torch'}
+jx1100370217_DFCNN-master.csv,{'keras'}
+jymsuper_SpeakerRecognition_tutorial.csv,{'torch'}
+kabkabm_defensegan.csv,{'tensorflow'}
+kainoj_colnet.csv,{'torch'}
+KaiyangZhou_pytorch-center-loss.csv,{'torch'}
+kakaobrain_torchgpipe.csv,{'torch'}
+KaleabTessera_ICOOmen_ML_Model.csv,{'sklearn'}
+kalviny_MSDNet-PyTorch.csv,{'torch'}
+kamatyogesh7_face-recognition-based-attendance-system.csv,{'sklearn'}
+Kamnitsask_deepmedic.csv,{'tensorflow'}
+kamo-naoyuki_pytorch_convolutional_rnn.csv,{'torch'}
+kashif_firedup.csv,"{'gym', 'torch'}"
+Katexiang_ERF-PSPNET.csv,{'tensorflow'}
+kaushalshetty_Structured-Self-Attention.csv,{'torch'}
+kauziishere_lowLightImageEnhancement.csv,"{'tensorflow', 'keras'}"
+KChen89_Cell-Nuclei-Detection-and-Segmentation.csv,{'tensorflow'}
+Keep-Current_Engine.csv,{'sklearn'}
+kenlimmj_fightin-words.csv,{'sklearn'}
+kenmaz_momo_mind.csv,"{'tensorflow', 'keras'}"
+kenshohara_3D-ResNets-PyTorch.csv,{'torch'}
+kentsyx_Neural-IMage-Assessment.csv,{'torch'}
+keon_seq2seq.csv,{'torch'}
+keunwoochoi_dl4mir.csv,"{'sklearn', 'keras'}"
+kevin-ssy_Optical-Flow-Guided-Feature.csv,{'caffe'}
+kfoynt_LocalGraphClustering.csv,{'sklearn'}
+khakhulin_compressed-transformer.csv,{'torch'}
+khanhha_crack_segmentation.csv,{'torch'}
+KhronosGroup_NNEF-Tools.csv,{'torch'}
+khuangaf_CryptocurrencyPrediction.csv,"{'sklearn', 'tensorflow', 'keras'}"
+khurramjaved96_incremental-learning.csv,{'torch'}
+KieranLitschel_PredictingClosingPriceTomorrow.csv,"{'sklearn', 'tensorflow'}"
+kimhc6028_relational-networks.csv,{'torch'}
+kiudee_cs-ranking.csv,"{'sklearn', 'torch'}"
+kjaisingh_hardhat-detector.csv,{'keras'}
+kjaisingh_march-madness-2019.csv,"{'sklearn', 'keras'}"
+kk7nc_Text_Classification.csv,"{'sklearn', 'keras'}"
+kk7nc_HDLTex.csv,"{'sklearn', 'keras'}"
+kk7nc_RMDL.csv,"{'sklearn', 'keras'}"
+kkanshul_finegan.csv,{'torch'}
+klane_databall.csv,{'sklearn'}
+klicperajo_ppnp.csv,"{'tensorflow', 'torch'}"
+km1414_CNN-models.csv,{'keras'}
+KMouratidis_EDA_miner_public.csv,{'sklearn'}
+knazeri_edge-connect.csv,{'torch'}
+knjcode_pytorch-finetuner.csv,{'torch'}
+kolszewska_QuickDrawClassifier.csv,{'torch'}
+koshian2_affinity-loss.csv,"{'tensorflow', 'keras'}"
+kotritrona_osumapper.csv,"{'sklearn', 'tensorflow'}"
+Koziev_chatbot.csv,{'torch'}
+kozistr_AdaBound-tensorflow.csv,{'tensorflow'}
+kozistr_rcan-tensorflow.csv,{'tensorflow'}
+krasserm_face-recognition.csv,"{'sklearn', 'keras'}"
+krayush07_deep-attention-text-classifier-tf.csv,{'tensorflow'}
+KristiyanVachev_Question-Generation.csv,{'sklearn'}
+krrish94_ENet-ScanNet.csv,{'torch'}
+ksopyla_svm_mnist_digit_classification.csv,{'sklearn'}
+ksopyla_tensorflow-mnist-convnets.csv,{'tensorflow'}
+kunci115_siPintar.csv,{'tensorflow'}
+kundajelab_ChromDragoNN.csv,"{'sklearn', 'torch'}"
+KupynOrest_DeblurGAN.csv,{'torch'}
+KushagraChauhan_Face-Recognition.csv,"{'tensorflow', 'keras'}"
+kwonmha_Improving-RNN-recommendation-model.csv,{'tensorflow'}
+kylemath_DeepEEG.csv,"{'tensorflow', 'keras'}"
+kymatio_kymatio.csv,"{'torch', 'sklearn', 'tensorflow'}"
+LaceyChen17_neural-collaborative-filtering.csv,{'torch'}
+lanpa_tensorboardX.csv,"{'chainer', 'torch', 'tensorflow'}"
+LaurentMazare_tch-rs.csv,{'torch'}
+lazybootsafe_AI2Match.csv,"{'lightgbm', 'tensorflow', 'sklearn', 'torch', 'transformers'}"
+LeeDoYup_DeblurGAN-tf.csv,{'tensorflow'}
+leemengtaiwan_cat-recognition-train.csv,"{'torch', 'tensorflow'}"
+leeyoshinari_YOLO_v2.csv,{'tensorflow'}
+leftthomas_CCCapsNet.csv,{'torch'}
+lengstrom_fast-style-transfer.csv,{'tensorflow'}
+leon-ai_leon.csv,{'torch'}
+leoxiaobin_deep-high-resolution-net.pytorch.csv,{'torch'}
+LeslieZhoa_tensorflow-YOLO1.csv,{'tensorflow'}
+letsgogeeky_QuadCopter-RL.csv,{'keras'}
+LexPredict_lexpredict-contraxsuite.csv,{'sklearn'}
+lijx10_SO-Net.csv,{'torch'}
+limteng-rpi_mlmt.csv,{'torch'}
+limteng-rpi_neural_name_tagging.csv,{'torch'}
+lim-anggun_FgSegNet.csv,"{'tensorflow', 'keras'}"
+linbo0518_BLSeg.csv,{'torch'}
+linchuming_ImageSR-Tensorflow.csv,{'tensorflow'}
+LindseyB_not-pepe.csv,{'tensorflow'}
+lingtengqiu_Deeperlab-pytorch.csv,{'torch'}
+LinLidi_StockSensation.csv,{'sklearn'}
+liupei101_TFDeepSurv.csv,{'tensorflow'}
+liuxinhai_Point2Sequence.csv,{'tensorflow'}
+liuziwei7_voxel-flow.csv,{'tensorflow'}
+liyibo_text-classification-demos.csv,{'tensorflow'}
+ljvmiranda921_gym-lattice.csv,{'gym'}
+locuslab_icnn.csv,"{'sklearn', 'torch', 'tensorflow'}"
+locuslab_optnet.csv,{'torch'}
+logictensornetworks_logictensornetworks.csv,"{'sklearn', 'tensorflow'}"
+lonePatient_Bert-Multi-Label-Text-Classification.csv,"{'tensorflow', 'torch'}"
+lonePatient_Deep_Learning_For_Computer_Vision_With_Python.csv,"{'sklearn', 'tensorflow', 'keras'}"
+lopuhin_transformer-lm.csv,"{'tensorflow', 'torch'}"
+loretoparisi_bert-movie-reviews-sentiment-classifier.csv,{'tensorflow'}
+louisyuzhe_MachineLearning_NILM.csv,{'keras'}
+lsa-pucrs_acerta-abide.csv,"{'sklearn', 'tensorflow'}"
+lsaiml_CaVINet.csv,"{'tensorflow', 'keras'}"
+Lsdefine_attention-is-all-you-need-keras.csv,{'tensorflow'}
+lsds_Crossbow.csv,{'tensorflow'}
+LucaAngioloni_ProteinSecondaryStructure-CNN.csv,{'keras'}
+lucasxlu_FGVC.csv,{'torch'}
+lucasxlu_TransFBP.csv,{'sklearn'}
+LuciaLlavero_ryuzaki_bot.csv,{'sklearn'}
+luckycallor_InsightFace-tensorflow.csv,{'tensorflow'}
+LuckyZXL2016_Reinforcement-Learning.csv,"{'torch', 'gym'}"
+lujiaying_MovieTaster-Open.csv,{'keras'}
+LuJunru_SMPCUP2017_ELP.csv,{'sklearn'}
+lukasruff_Deep-SVDD-PyTorch.csv,{'torch'}
+luopeixiang_named_entity_recognition.csv,{'torch'}
+LuZhenHuan_code.csv,{'torch'}
+lvapeab_ABiViRNet.csv,{'tensorflow'}
+lykaust15_SupportNet.csv,"{'sklearn', 'tflearn', 'tensorflow'}"
+lyxok1_Tiny-DSOD.csv,"{'sklearn', 'caffe'}"
+lzhbrian_metrics.csv,{'torch'}
+m-zakeri_iust_deep_fuzz.csv,{'keras'}
+ma-zhiyuan_PersonalRecommendation.csv,"{'sklearn', 'xgboost', 'tensorflow'}"
+maciejczyzewski_neural-chessboard.csv,"{'sklearn', 'keras'}"
+maciejkula_spotlight.csv,"{'sklearn', 'torch'}"
+maelfabien_Multimodal-Emotion-Recognition.csv,"{'sklearn', 'tflearn', 'tensorflow', 'keras'}"
+MaestroGraph_sparse-hyper.csv,{'torch'}
+mafda_generative_adversarial_networks_101.csv,"{'tensorflow', 'keras'}"
+MagNet-DL_magnet.csv,{'torch'}
+makcedward_nlpaug.csv,"{'nlpaug', 'transformers'}"
+malllabiisc_ConfGCN.csv,{'tensorflow'}
+malllabiisc_NeuralDater.csv,{'tensorflow'}
+malllabiisc_RESIDE.csv,{'tensorflow'}
+malllabiisc_WordGCN.csv,{'tensorflow'}
+MandyMo_HAMR.csv,{'torch'}
+manideep2510_eye-in-the-sky.csv,"{'tensorflow', 'keras'}"
+manideep2510_melanoma_segmentation.csv,"{'tensorflow', 'keras'}"
+mapbox_robosat.csv,{'torch'}
+marcogdepinto_Emotion-Classification-Ravdess.csv,"{'sklearn', 'tensorflow', 'keras'}"
+marctuscher_DRQN-tensorflow.csv,{'tensorflow'}
+marketneutral_alphatools.csv,"{'catboost', 'sklearn', 'lightgbm'}"
+markovmodel_deeptime.csv,"{'tensorflow', 'torch', 'keras'}"
+markovmodel_molPX.csv,{'sklearn'}
+marooncn_Defect-Detection-Classifier.csv,"{'sklearn', 'keras'}"
+MartinThoma_clana.csv,{'keras'}
+masyagin1998_robin.csv,{'keras'}
+MathBunny_strava-wind-analysis-ml.csv,{'sklearn'}
+mathiasunberath_DeepDRR.csv,{'torch'}
+mattn_mruby-tflite.csv,"{'tensorflow', 'keras'}"
+MauryaRitesh_Facial-Expression-Detection-V2.csv,{'keras'}
+Mavengers_DonkeyDrift.csv,{'tensorflow'}
+MaxHalford_starboost.csv,{'sklearn'}
+maximecb_gym-miniworld.csv,{'torch'}
+maxpumperla_elephas.csv,{'tensorflow'}
+MaybeShewill-CV_attentive-gan-derainnet.csv,{'tensorflow'}
+MaybeShewill-CV_nsfw-classification-tensorflow.csv,{'tensorflow'}
+MaybeShewill-CV_CRNN_Tensorflow.csv,{'tensorflow'}
+MaybeShewill-CV_lanenet-lane-detection.csv,"{'sklearn', 'tensorflow'}"
+mayorx_rcf-edge-detection.csv,{'torch'}
+mbanani_pytorch-clickhere-cnn.csv,{'torch'}
+mbchang_crl.csv,{'torch'}
+MBKraus_Predicting_real_estate_prices_using_scikit-learn.csv,{'sklearn'}
+McGill-DMaS_Kam1n0-Community.csv,"{'sklearn', 'torch'}"
+mdangschat_ctc-asr.csv,{'tensorflow'}
+mdeff_cnn_graph.csv,"{'sklearn', 'tensorflow'}"
+mdeff_fma.csv,"{'sklearn', 'keras'}"
+mdfirman_CityNet.csv,{'tensorflow'}
+megbedell_wobble.csv,{'tensorflow'}
+Mehran-k_SimplE.csv,{'tensorflow'}
+mengrang_DFL-CNN-tensorflow.csv,{'tensorflow'}
+meowoodie_Regularized-RBM.csv,"{'sklearn', 'tensorflow'}"
+merantix_imitation-learning.csv,{'tensorflow'}
+MerceaOtniel_AlphaZero.csv,"{'torch', 'tensorflow'}"
+Merck_deepbgc.csv,"{'sklearn', 'hmmlearn', 'tensorflow', 'keras'}"
+mesnico_RelationNetworks-CLEVR.csv,{'torch'}
+mfbalin_Concrete-Autoencoders.csv,"{'sklearn', 'tensorflow'}"
+MG2033_MobileNet.csv,{'tensorflow'}
+mhmoodlan_cyclic-learning-rate.csv,{'tensorflow'}
+michalfaber_keras_Realtime_Multi-Person_Pose_Estimation.csv,{'keras'}
+michellebonat_tf_text_classify.csv,{'tensorflow'}
+MichiganCOG_M-PACT.csv,{'tensorflow'}
+microljy_DREN_Tensorflow.csv,{'tensorflow'}
+microsoft_AirSim.csv,"{'gym', 'keras'}"
+microsoft_EconML.csv,"{'sklearn', 'xgboost', 'keras'}"
+microsoft_human-pose-estimation.pytorch.csv,{'torch'}
+microsoft_interpret.csv,{'sklearn'}
+microsoft_onnxruntime.csv,"{'deepspeed', 'sklearn', 'torch', 'transformers'}"
+microsoft_pai.csv,"{'tensorflow', 'mxnet', 'torch'}"
+microsoft_snca.pytorch.csv,{'torch'}
+microsoft_tf2-gnn.csv,{'tensorflow'}
+Miffyli_ToriLLE.csv,"{'tensorforce', 'gym', 'tensorflow', 'stable_baselines', 'torch'}"
+MiguelMonteiro_CRFasRNNLayer.csv,{'tensorflow'}
+miguelvr_dropblock.csv,{'torch'}
+mikacuy_pointnetvlad.csv,{'tensorflow'}
+mikgroup_sigpy.csv,{'torch'}
+MikhailStartsev_deep_em_classifier.csv,{'keras'}
+mila-iqia_babyai.csv,"{'sklearn', 'torch'}"
+milesgranger_gap_statistic.csv,{'sklearn'}
+MillionIntegrals_vel.csv,"{'tensorflow', 'gym', 'torch'}"
+minar09_Fashion-Clothing-Parsing.csv,{'tensorflow'}
+MingtaoGuo_CNN-for-Chinese-Calligraphy-Styles-classification.csv,"{'sklearn', 'tensorflow'}"
+MingtaoGuo_DnCNN-Denoise-Gaussian-noise-TensorFlow.csv,{'tensorflow'}
+MingtaoGuo_Learning-Residual-Images-for-Face-Attribute-Manipulation.csv,{'tensorflow'}
+MingtaoGuo_Residual-Dense-Network-Trained-with-cGAN-for-Super-Resolution.csv,{'tensorflow'}
+MingtaoGuo_sngan_projection_TensorFlow.csv,{'tensorflow'}
+mingyangShang_SeqViews2SeqLabels.csv,{'tensorflow'}
+MIPT-Oulu_DeepKnee.csv,"{'sklearn', 'torch'}"
+MIPT-Oulu_OAProgression.csv,"{'sklearn', 'lightgbm', 'torch'}"
+mirapy-org_mirapy.csv,"{'sklearn', 'keras'}"
+miroozyx_BERT_with_keras.csv,"{'tensorflow', 'keras'}"
+Mishima-syk_py4chemoinformatics.csv,"{'sklearn', 'keras'}"
+mitdbg_modeldb.csv,"{'sklearn', 'xgboost', 'torch', 'tensorflow'}"
+mj000001_Object-Detection-And-Tracking.csv,{'torch'}
+mjpyeon_wavenet-classifier.csv,"{'tensorflow', 'keras'}"
+mkocabas_EpipolarPose.csv,{'torch'}
+mks0601_PoseFix_RELEASE.csv,{'tensorflow'}
+MLEnthusiast_MHCLN.csv,{'tensorflow'}
+mlflow_mlflow.csv,"{'lightgbm', 'lightning', 'fastai', 'sktime', 'tensorflow', 'h2o', 'sklearn', 'prophet', 'keras', 'catboost', 'xgboost', 'torch', 'transformers', 'cuml'}"
+mnicnc404_CartoonGan-tensorflow.csv,{'tensorflow'}
+ModelZoo_ModelZoo.csv,"{'sklearn', 'tensorflow'}"
+moemen95_Pytorch-Project-Template.csv,{'torch'}
+Mogeng_IOHMM.csv,{'sklearn'}
+mohamedameen93_German-Traffic-Sign-Classification-Using-TensorFlow.csv,{'tensorflow'}
+mohammaduzair9_Style-Classification.csv,{'keras'}
+mohammed-elkomy_two-stream-action-recognition.csv,{'tensorflow'}
+molecularsets_moses.csv,{'torch'}
+mondejar_ecg-classification.csv,"{'sklearn', 'tensorflow'}"
+Morphl-AI_MorphL-Community-Edition.csv,"{'sklearn', 'keras'}"
+MorvanZhou_Evolutionary-Algorithm.csv,{'tensorflow'}
+motokimura_spacenet_building_detection.csv,{'chainer'}
+moxiegushi_pokeGAN.csv,{'tensorflow'}
+mozilla_bugbug.csv,"{'sklearn', 'xgboost'}"
+mozilla_TTS.csv,"{'tensorflow', 'torch'}"
+mozilla_DeepSpeech.csv,{'tensorflow'}
+mozilla_fathom.csv,{'torch'}
+mpds-io_mpds-ml-labs.csv,{'sklearn'}
+mpkuse_cartwheel_train.csv,"{'tensorflow', 'keras'}"
+mratsim_Amazon-Forest-Computer-Vision.csv,"{'sklearn', 'torch', 'keras'}"
+mravanelli_SincNet.csv,{'torch'}
+MrEliptik_HandPose.csv,{'keras'}
+msahamed_lending_loan_prediction.csv,{'sklearn'}
+msdslab_automated-systematic-review.csv,{'sklearn'}
+mseitzer_pytorch-fid.csv,{'torch'}
+msmbuilder_osprey.csv,{'sklearn'}
+msmbuilder_vde.csv,"{'sklearn', 'torch'}"
+msracver_Deep-Exemplar-based-Colorization.csv,"{'sklearn', 'caffe', 'torch'}"
+msurtsukov_neural-ode.csv,{'torch'}
+mtobeiyf_audio-classification.csv,"{'sklearn', 'keras'}"
+MuhammedBuyukkinaci_Object-Classification-and-Localization-with-TensorFlow.csv,{'tensorflow'}
+MuhammedBuyukkinaci_TensorFlow-Binary-Image-Classification-using-CNN-s.csv,{'tensorflow'}
+MuhammedBuyukkinaci_TensorFlow-Multiclass-Image-Classification-using-CNN-s.csv,"{'tensorflow', 'torch'}"
+MuhammedBuyukkinaci_TensorFlow-Sentiment-Analysis-on-Amazon-Reviews-Data.csv,{'tensorflow'}
+munagekar_nnpso.csv,{'tensorflow'}
+muneebaadil_line-detection-using-cnns.csv,{'keras'}
+murdockhou_lightweight_openpose.csv,{'tensorflow'}
+MurtyShikhar_KBI.csv,{'keras'}
+musikisomorphie_swd.csv,{'tensorflow'}
+MVIG-SJTU_AlphaPose.csv,{'torch'}
+MycroftAI_mycroft-precise.csv,"{'tensorflow', 'keras'}"
+N2ITN_are-you-fake-news.csv,"{'tensorflow', 'keras'}"
+nabeel-oz_qlik-py-tools.csv,"{'sklearn', 'tensorflow', 'keras'}"
+nadavbh12_VQ-VAE.csv,{'torch'}
+naiveHobo_InvoiceNet.csv,{'tensorflow'}
+Naman-ntc_Pytorch-Human-Pose-Estimation.csv,{'torch'}
+namisan_mt-dnn.csv,"{'tensorflow', 'torch', 'transformers'}"
+nanoporetech_taiyaki.csv,{'torch'}
+nanoporetech_medaka.csv,{'tensorflow'}
+napsternxg_TwitterNER.csv,"{'sklearn', 'tensorflow', 'keras'}"
+nardeas_MHGAN.csv,{'tensorflow'}
+Narsil_alphagozero.csv,{'keras'}
+Nasdin_VideoRecognition-realtime-autotrainer-alerts.csv,{'tensorflow'}
+natanielruiz_deep-head-pose.csv,{'torch'}
+nathan-toubiana_scitime.csv,{'sklearn'}
+Natsu6767_Conditional-AnimeGAN.csv,{'torch'}
+Natsu6767_Generating-Devanagari-Using-DRAW.csv,{'torch'}
+nav74neet_ddpg_biped.csv,{'tensorflow'}
+NCBI-Hackathons_Semantic-search-log-analysis-pipeline.csv,{'sklearn'}
+ne7ermore_deeping-flow.csv,{'tensorflow'}
+Nealcly_sarcasm-detection-for-sentiment-analysis.csv,"{'sklearn', 'tensorflow'}"
+nearthlab_image-segmentation.csv,{'keras'}
+neeilan_DeepPlayByPlay.csv,{'sklearn'}
+Neerajj9_CSRNet-keras.csv,{'keras'}
+Neerajj9_Text-Detection-using-Yolo-Algorithm-in-keras-tensorflow.csv,"{'tensorflow', 'keras'}"
+nekitmm_starnet.csv,{'tensorflow'}
+neka-nat_image_completion_keras.csv,{'tensorflow'}
+nengo_nengo-dl.csv,{'tensorflow'}
+neptune-ml_open-solution-avito-demand-prediction.csv,"{'lightgbm', 'sklearn', 'keras', 'catboost', 'xgboost', 'torch'}"
+neptune-ml_open-solution-cdiscount-starter.csv,"{'sklearn', 'keras'}"
+neptune-ml_open-solution-talking-data.csv,"{'lightgbm', 'sklearn', 'keras', 'catboost', 'xgboost', 'torch'}"
+nerox8664_gluon2pytorch.csv,{'torch'}
+NervanaSystems_distiller.csv,"{'tensorflow', 'sklearn', 'torch'}"
+netrack_keras-metrics.csv,{'keras'}
+Neuraxio_Neuraxle.csv,{'sklearn'}
+neurodata_graspy.csv,{'sklearn'}
+NeuroTechX_moabb.csv,{'sklearn'}
+newhiwoong_National-Petition.csv,{'sklearn'}
+NeymarL_ChineseChess-AlphaZero.csv,{'keras'}
+ngchc_deepBoosting.csv,{'tensorflow'}
+nh2tran_DeepNovo.csv,{'tensorflow'}
+nianticlabs_monodepth2.csv,{'torch'}
+Nick-Morgan_neural-style-transfer.csv,{'tensorflow'}
+NickleDave_hybrid-vocal-classifier.csv,"{'sklearn', 'keras'}"
+nicodv_kmodes.csv,{'sklearn'}
+nicola-decao_s-vae-pytorch.csv,{'torch'}
+NicolasBizzozzero_Inpainting.csv,{'sklearn'}
+nicolay-r_sentiment-pcnn.csv,{'tensorflow'}
+NIHOPA_word2vec_pipeline.csv,{'sklearn'}
+NikhilCodes_VirtualBLU.csv,{'tensorflow'}
+nikonikolov_rltf.csv,"{'gym', 'tensorflow'}"
+Nikronic_CoarseNet.csv,{'torch'}
+niksaz_dota2-expert-demo.csv,"{'sklearn', 'gym', 'tensorflow'}"
+nimeshabuddhika_Tensorflow-Chatbot.csv,"{'sklearn', 'tflearn', 'tensorflow', 'keras'}"
+niquejoe_Classification-of-Depression-on-Social-Media-Using-Text-Mining.csv,{'sklearn'}
+njellinas_GAN-Voice-Conversion.csv,{'tensorflow'}
+njchoma_transformer_image_caption.csv,{'torch'}
+nlpAThits_figet-hyperbolic-space.csv,{'torch'}
+NLPatVCU_medaCy.csv,"{'torch', 'transformers'}"
+nlpie_biomedicus.csv,{'torch'}
+nlppln_nlppln.csv,{'sklearn'}
+nnsuite_nnstreamer.csv,{'torch'}
+noahfl_densenet-sdr.csv,{'tensorflow'}
+noahgift_real_estate_ml.csv,{'sklearn'}
+noahgift_socialpowernba.csv,{'sklearn'}
+noc-lab_clinical_concept_extraction.csv,{'tensorflow'}
+nok_sklearn-porter.csv,{'sklearn'}
+NonvolatileMemory_MXNET-SMN.csv,{'mxnet'}
+nouhadziri_THRED.csv,{'tensorflow'}
+noxouille_rt-mrcnn.csv,{'keras'}
+npatta01_web-deep-learning-classifier.csv,{'fastai'}
+npuichigo_ttsflow.csv,"{'sklearn', 'tensorflow', 'keras'}"
+npuichigo_voicenet.csv,{'tensorflow'}
+NRCan_geo-deep-learning.csv,{'torch'}
+Nrgeup_controllable-text-attribute-transfer.csv,{'torch'}
+nrontsis_PILCO.csv,"{'tensorflow', 'gym'}"
+nshaud_DeepNetsForEO.csv,"{'sklearn', 'caffe', 'torch'}"
+NTMC-Community_MatchZoo.csv,"{'tensorflow', 'keras'}"
+NUAA-AL_ALiPy.csv,{'sklearn'}
+nubank_fklearn.csv,"{'catboost', 'sklearn', 'xgboost'}"
+nuric_deeplogic.csv,"{'sklearn', 'tensorflow', 'keras'}"
+NVIDIA-AI-IOT_redtail.csv,{'tensorflow'}
+NVlabs_geomapnet.csv,{'torch'}
+NVlabs_learningrigidity.csv,{'torch'}
+NVlabs_MUNIT.csv,{'torch'}
+nyukat_breast_cancer_classifier.csv,{'torch'}
+nyuxz_ds1008_final_project.csv,{'torch'}
+o19s_elasticsearch-learning-to-rank.csv,{'xgboost'}
+ocatak_malware_api_class.csv,{'keras'}
+Octavian-ai_learning-rate-finder-tensorflow.csv,{'tensorflow'}
+Octavian-ai_mac-graph.csv,{'tensorflow'}
+octohedron_sclapi.csv,{'tensorflow'}
+oduwa_Pic-Numero.csv,"{'sklearn', 'tensorflow'}"
+OFAI_hub-toolbox-python3.csv,{'sklearn'}
+okfn-brasil_serenata-de-amor.csv,{'sklearn'}
+olivesgatech_facies_classification_benchmark.csv,{'torch'}
+olpotkin_DNN-Gesture-Classifier.csv,"{'torch', 'keras'}"
+omar178_Emotion-recognition.csv,{'keras'}
+omegaml_omegaml.csv,"{'sklearn', 'tensorflow', 'keras'}"
+omkarv_pong-from-pixels.csv,{'gym'}
+omurammm_apex_dqn.csv,{'tensorflow'}
+ONSdigital_address-index-data.csv,{'sklearn'}
+opencog_language-learning.csv,{'sklearn'}
+OpenNMT_OpenNMT-py.csv,{'torch'}
+orendv_learning_to_sample.csv,{'tensorflow'}
+Originate_dbg-pds-tensorflow-demo.csv,"{'sklearn', 'keras'}"
+oscarknagg_few-shot.csv,{'torch'}
+oscarknagg_voicemap.csv,"{'sklearn', 'keras'}"
+oseiskar_autosubsync.csv,{'sklearn'}
+osirislab_armana.csv,{'sklearn'}
+Oslandia_osm-data-classification.csv,{'sklearn'}
+oswaldoludwig_Seq2seq-Chatbot-for-Keras.csv,{'keras'}
+otenim_ALI-Keras2.csv,{'keras'}
+otenim_AnomalyDetectionUsingAutoencoder.csv,{'keras'}
+otenim_GLCIC-PyTorch.csv,{'torch'}
+otenim_Xception-with-Your-Own-Dataset.csv,{'keras'}
+oupirum_sp2cp.csv,{'tensorflow'}
+oxwhirl_smac.csv,{'gym'}
+PacktPublishing_Advanced-Deep-Learning-with-Keras.csv,"{'gym', 'tensorflow', 'keras'}"
+PacktPublishing_Building-Computer-Vision-Projects-with-OpenCV4-and-CPlusPlus.csv,{'tensorflow'}
+PaddlePaddle_Anakin.csv,{'tensorflow'}
+PaddlePaddle_models.csv,"{'sklearn', 'torch'}"
+pailabteam_pailab.csv,"{'tensorflow', 'sklearn', 'torch'}"
+paintception_DeepChess.csv,{'keras'}
+PAIR-code_facets.csv,{'tensorflow'}
+PAN001_MNIST-digit-sequence-recognition.csv,{'torch'}
+parap1uie-s_Keras-RFCN.csv,{'keras'}
+paris-saclay-cds_ramp-board.csv,{'sklearn'}
+ParsianRoboticLab_Zero-Shot-Learning.csv,"{'sklearn', 'torch', 'tensorflow'}"
+ParthS007_Loan-Approval-Prediction.csv,{'sklearn'}
+pathwayforte_pathway-forte.csv,{'sklearn'}
+Pattio_DeepSwarm.csv,"{'sklearn', 'tensorflow'}"
+patverga_bran.csv,{'tensorflow'}
+pavlin-policar_openTSNE.csv,{'sklearn'}
+pawangeek_pytorch-notebooks.csv,"{'sklearn', 'torch', 'keras'}"
+pawni_BayesByHypernet.csv,{'tensorflow'}
+Pay20Y_FOTS_TF.csv,{'tensorflow'}
+pbiecek_DALEX.csv,{'sklearn'}
+pcyin_pytorch_basic_nmt.csv,{'torch'}
+pcyin_pytorch_nmt.csv,{'torch'}
+pedrodiamel_ferattention.csv,"{'sklearn', 'torch'}"
+pedrohserrano_machine-learning-use-cases.csv,"{'sklearn', 'keras'}"
+permfl_dictlearn.csv,{'sklearn'}
+perone_euclidesdb.csv,{'torch'}
+persephone-tools_persephone.csv,{'tensorflow'}
+perseus784_BvS.csv,{'tensorflow'}
+perslev_MultiPlanarUNet.csv,"{'sklearn', 'tensorflow'}"
+pescadores_pescador.csv,"{'sklearn', 'keras'}"
+peterljq_OpenMMD.csv,"{'chainer', 'tensorflow'}"
+peterwhycs_T-BEAR.csv,"{'sklearn', 'keras'}"
+petko-nikolov_pysemseg.csv,{'torch'}
+pfnet-research_chainer-trt.csv,{'chainer'}
+pFindStudio_pDeep.csv,{'tensorflow'}
+philip-huang_PIXOR.csv,"{'sklearn', 'torch'}"
+philipperemy_keract.csv,{'tensorflow'}
+philipperemy_keras-attention-mechanism.csv,"{'tensorflow', 'keras'}"
+philipperemy_keras-tcn.csv,"{'sklearn', 'tensorflow'}"
+philipperemy_tensorflow-ctc-speech-recognition.csv,{'tensorflow'}
+philipperemy_deep-speaker.csv,{'tensorflow'}
+philomathic-guy_Malicious-Web-Content-Detection-Using-Machine-Learning.csv,{'sklearn'}
+phohenecker_pytorch-transformer.csv,{'torch'}
+pierluigiferrari_ssd_keras.csv,{'keras'}
+Pinafore_qb.csv,"{'chainer', 'sklearn', 'torch'}"
+PINTO0309_Keras-OneClassAnomalyDetection.csv,"{'sklearn', 'torch', 'tensorflow', 'keras'}"
+PINTO0309_MobileNet-SSDLite-RealSense-TF.csv,{'tensorflow'}
+PINTO0309_MobileNetV2-PoseEstimation.csv,{'tensorflow'}
+PINTO0309_OpenVINO-DeeplabV3.csv,{'tensorflow'}
+PIQuIL_QuCumber.csv,{'qucumber'}
+PistonY_ResidualAttentionNetwork.csv,{'mxnet'}
+Piyush-Bhardwaj_EEG-based-emotion-analysis-using-DEAP-dataset-for-Supervised-Machine-Learning.csv,{'sklearn'}
+plasticityai_magnitude.csv,{'torch'}
+plotly_dash-svm.csv,{'sklearn'}
+podgorskiy_GPND.csv,{'torch'}
+poldracklab_mriqc.csv,"{'sklearn', 'torch'}"
+policeme_chinese-bert-similarity.csv,{'tensorflow'}
+policeme_transformer-pointer-generator.csv,{'tensorflow'}
+polo8214_Brain-tumor-segmentation-using-deep-learning.csv,"{'tensorflow', 'keras'}"
+polyrabbit_hacker-news-digest.csv,{'sklearn'}
+POSTECH-IMLAB_LaneSegmentationNetwork.csv,{'tensorflow'}
+potterhsu_easy-fpn.pytorch.csv,{'torch'}
+potterhsu_SVHNClassifier-PyTorch.csv,{'torch'}
+ppliuboy_DDFlow.csv,{'tensorflow'}
+PPPLDeepLearning_plasma-python.csv,"{'xgboost', 'sklearn', 'torch', 'tensorflow'}"
+PPPW_deep-learning-random-explore.csv,"{'torch', 'fastai', 'keras'}"
+prajjwal1_language-modelling.csv,"{'sklearn', 'torch', 'fastai'}"
+prajjwal1_person-reid-incremental.csv,{'torch'}
+prashnani_PerceptualImageError.csv,{'tensorflow'}
+prateeksawhney97_Behavioral-Cloning-Project-P4.csv,{'keras'}
+PratikBarhate_question-classification.csv,"{'sklearn', 'torch'}"
+preritj_segmentation.csv,{'tensorflow'}
+PrincetonUniversity_ASPIRE-Python.csv,{'sklearn'}
+probcomp_bayeslite.csv,{'sklearn'}
+prodo-ai_plz.csv,{'torch'}
+ProGamerGov_neural-style-pt.csv,{'torch'}
+pshkrh_asl-py.csv,{'fastai'}
+psipred_DeepMetaPSICOV.csv,{'torch'}
+PSLmodels_PCI.csv,"{'sklearn', 'tensorflow', 'keras'}"
+pulp-platform_pulp-dronet.csv,{'torch'}
+punyajoy_Hateminers-EVALITA.csv,"{'catboost', 'sklearn', 'tensorflow'}"
+PurduePAML_TrojanNN.csv,{'caffe'}
+pyaf_load_forecasting.csv,"{'sklearn', 'tensorflow', 'keras'}"
+pyannote_pyannote-audio.csv,"{'lightning', 'torch'}"
+pycroscopy_pycroscopy.csv,"{'sklearn', 'torch'}"
+pylearner-bot_pylearner-rasa.csv,{'sklearn'}
+pymc-learn_pymc-learn.csv,{'sklearn'}
+pyro-ppl_funsor.csv,{'torch'}
+pyro-ppl_pyro.csv,"{'lightning', 'sklearn', 'torch'}"
+Pyrofoux_Drowsy.csv,{'tensorflow'}
+PythonCharmers_maxentropy.csv,{'sklearn'}
+Pzoom522_MusiCoder.csv,{'tensorflow'}
+QData_TextAttack.csv,"{'sklearn', 'torch', 'tensorflow', 'keras'}"
+qhan1028_Fully-Convolutional-Networks.csv,{'tensorflow'}
+qian135_ctr_model_zoo.csv,{'torch'}
+QMIND-Team_QMIND-Music.csv,"{'sklearn', 'keras'}"
+quadflor_Quadflor.csv,"{'sklearn', 'keras'}"
+QuantumTCode_FIRST-MLWorkshop.csv,{'tensorflow'}
+quark0_darts.csv,{'torch'}
+r-m-n_sklearn-deltatfidf.csv,{'sklearn'}
+r9y9_deepvoice3_pytorch.csv,{'torch'}
+r9y9_nnsvs.csv,"{'sklearn', 'torch'}"
+r05323028_TNet-tensorflow.csv,{'tensorflow'}
+rafariva_ANPR-Tensorflow.csv,{'tensorflow'}
+rafellerc_Pytorch-SiamFC.csv,{'torch'}
+rafjaa_curso-mineracao-de-dados-aplicada.csv,{'sklearn'}
+rajveermalviya_language-modeling.csv,{'tensorflow'}
+Ralireza_ml-newbie.csv,{'sklearn'}
+RanchMobile_Tamil-AI.csv,{'tensorflow'}
+RandolphVI_Next-Basket-Recommendation.csv,{'torch'}
+ranjiewwen_TF_EnhanceDPED.csv,{'tensorflow'}
+ranjiewwen_TF_NIMA.csv,{'tensorflow'}
+Ranlot_single-parameter-fit.csv,{'sklearn'}
+raphaelauv_Paris-Traffic-Prediction.csv,{'sklearn'}
+ratsgo_models.csv,{'tensorflow'}
+raviolli77_machineLearning_breastCancer_Python.csv,{'sklearn'}
+RBirkeland_MVCNN-PyTorch.csv,{'torch'}
+rdspring1_PyTorch_GBW_LM.csv,{'torch'}
+regel_loudml.csv,{'tensorflow'}
+remicres_otbtf.csv,{'tensorflow'}
+Remper_sociallink.csv,{'tensorflow'}
+renjunxiang_Text-Classification.csv,"{'sklearn', 'tensorflow'}"
+rfeinman_learning-to-learn.csv,"{'sklearn', 'tensorflow', 'keras'}"
+rgal_gym-2048.csv,"{'gym', 'tensorflow'}"
+rgeirhos_Stylized-ImageNet.csv,{'torch'}
+rhiever_datacleaner.csv,{'sklearn'}
+RhythmJnh_TF_SMPL.csv,{'tensorflow'}
+richzhang_colorization-pytorch.csv,{'torch'}
+richzhang_PerceptualSimilarity.csv,{'torch'}
+rirnet_rirnet.csv,{'torch'}
+rk2900_DLF.csv,{'tensorflow'}
+rk2900_DRSA.csv,{'tensorflow'}
+rknaebel_landslide.csv,{'keras'}
+rkwitt_quicksilver.csv,{'torch'}
+rmalav15_DHSGAN.csv,{'tensorflow'}
+rmalav15_Super-SloMo.csv,{'tensorflow'}
+Robert-JunWang_PeleeNet.csv,"{'caffe', 'torch'}"
+roberthangu_snn_object_recognition.csv,{'sklearn'}
+robertmartin8_MachineLearningStocks.csv,{'sklearn'}
+roboreport_doc2vec-api.csv,{'sklearn'}
+Roboy_tss18-robotsinmusicalimprovisation.csv,{'torch'}
+rock-learning_bolero.csv,{'sklearn'}
+roclark_basketball-predictor.csv,{'sklearn'}
+rohanpillai20_Image-Classification-by-Keras-and-Tensorflow.csv,"{'tensorflow', 'keras'}"
+Rokid_BERT-GPU.csv,{'tensorflow'}
+rolczynski_DeepSpeech-Keras.csv,{'tensorflow'}
+rouyang2017_SISSO.csv,{'sklearn'}
+RRanddom_tf-bilinear-cnn.csv,{'tensorflow'}
+rshrc_sales-forecast-ml.csv,{'sklearn'}
+rufinv_VAE-GAN-CelebA.csv,{'tensorflow'}
+rushter_heamy.csv,{'sklearn'}
+rwightman_posenet-python.csv,{'tensorflow'}
+rwightman_posenet-pytorch.csv,{'torch'}
+rwightman_pytorch-image-models.csv,{'torch'}
+RyanXingQL_MFQE2.0.csv,{'tensorflow'}
+rykov8_ssd_keras.csv,{'keras'}
+s14t284_TorchCRF.csv,{'torch'}
+sacmehta_ESPNetv2.csv,{'torch'}
+sagiebenaim_DistanceGAN.csv,{'torch'}
+sahilbadyal_language-detection-speech-using-dnn.csv,{'tensorflow'}
+sahitya0000_Relation-Classification.csv,"{'tensorflow', 'keras'}"
+saidziani_Arabic-News-Article-Classification.csv,{'sklearn'}
+saisrivatsan_deep-opt-auctions.csv,{'tensorflow'}
+SajadMo_ECG-Heartbeat-Classification-seq2seq-model.csv,{'tensorflow'}
+SajadMo_SleepEEGNet.csv,{'tensorflow'}
+sakuranew_BERT-AttributeExtraction.csv,"{'sklearn', 'tensorflow'}"
+SaltieRL_Saltie.csv,"{'torch', 'tensorflow'}"
+salu133445_binarygan.csv,{'tensorflow'}
+salu133445_musegan.csv,{'tensorflow'}
+samanyougarg_Group-Emotion-Recognition.csv,"{'sklearn', 'tensorflow', 'keras'}"
+samkit-jain_Handwriting-Recognition.csv,{'sklearn'}
+SanjayKhatwani_Handwritten-Math-Expression-Recognition.csv,{'sklearn'}
+sanjit-bhat_Var-CNN--DynaFlow.csv,{'sklearn'}
+santhoshkolloju_Abstractive-Summarization-With-Transfer-Learning.csv,"{'sklearn', 'tensorflow', 'transformers'}"
+santi-pdp_pase.csv,"{'sklearn', 'torch'}"
+sarnthil_unify-emotion-datasets.csv,{'sklearn'}
+Sasa94s_stock_market.csv,"{'sklearn', 'tensorflow'}"
+satinder147_Attendance-using-Face.csv,{'keras'}
+satinder147_DeepWay.csv,{'keras'}
+saturn-lab_Smart-Things-TensorFlow-Practice.csv,{'tensorflow'}
+saxenanihal95_CricketPrediction.csv,{'sklearn'}
+sberbank-ai_ner-bert.csv,{'torch'}
+sbrodehl_tf-boilerplate.csv,{'tensorflow'}
+scikit-garden_scikit-garden.csv,{'sklearn'}
+scikit-learn-contrib_lightning.csv,"{'lightning', 'sklearn'}"
+scikit-multilearn_scikit-multilearn.csv,"{'tensorflow', 'sklearn', 'torch', 'keras'}"
+scikit-optimize_scikit-optimize.csv,{'sklearn'}
+SConsul_ML101.csv,{'sklearn'}
+scorpionhiccup_StockPricePrediction.csv,"{'sklearn', 'keras'}"
+ScottfreeLLC_AlphaPy.csv,"{'sklearn', 'keras'}"
+scvae_scvae.csv,"{'sklearn', 'tensorflow'}"
+Seanforfun_GMAN_Net_Haze_Removal.csv,{'tensorflow'}
+Seanny123_da-rnn.csv,"{'sklearn', 'torch'}"
+seasonSH_Probabilistic-Face-Embeddings.csv,{'tensorflow'}
+sebp_scikit-survival.csv,{'sklearn'}
+sedflix_DeepCoherence.csv,{'keras'}
+seed-fe_face_recognition_using_opencv_keras_scikit-learn.csv,{'sklearn'}
+Sekunde_3D-SIS.csv,{'torch'}
+SeldonIO_seldon-core.csv,"{'tensorflow', 'h2o', 'sklearn', 'chainer', 'xgboost', 'torch'}"
+serengil_decision-trees-for-ml.csv,"{'sklearn', 'xgboost', 'lightgbm'}"
+sergeytulyakov_mocogan.csv,{'torch'}
+sethah_deeptennis.csv,"{'sklearn', 'hmmlearn', 'torch'}"
+SforAiDl_Deep-Learning-TIP.csv,"{'sklearn', 'torch'}"
+SforAiDl_Neural-Voice-Cloning-With-Few-Samples.csv,{'torch'}
+sfujiwara_tfmodel.csv,{'tensorflow'}
+shadow-robot_smart_grasping_sandbox.csv,{'keras'}
+shahrukhqasim_TIES-2.0.csv,{'tensorflow'}
+shaohua0116_demo2program.csv,{'tensorflow'}
+shaohua0116_Multiview2Novelview.csv,{'tensorflow'}
+sharavsambuu_mongolian-text-classification.csv,"{'sklearn', 'tensorflow'}"
+sharmaroshan_Drugs-Recommendation-using-Reviews.csv,"{'sklearn', 'keras'}"
+sharmaroshan_Online-Shoppers-Purchasing-Intention.csv,{'sklearn'}
+sharmaroshan_SECOM-Detecting-Defected-Items.csv,{'sklearn'}
+sharvil_tf-explorer.csv,{'tensorflow'}
+ShawnyXiao_TextClassification-Keras.csv,{'tensorflow'}
+shayneobrien_coreference-resolution.csv,{'torch'}
+shehzaadzd_MINERVA.csv,{'tensorflow'}
+Shenggan_DeepCell-Keras.csv,"{'tensorflow', 'keras'}"
+shenweichen_DeepCTR.csv,"{'sklearn', 'tensorflow'}"
+shepnerd_inpainting_gmcnn.csv,"{'tensorflow', 'torch'}"
+sherpa-ai_sherpa.csv,"{'tensorflow', 'mxnet', 'torch', 'keras'}"
+shibing624_pycorrector.csv,"{'torch', 'transformers'}"
+ShichenLiu_CondenseNet.csv,{'torch'}
+shirosaidev_airbnbbot.csv,{'sklearn'}
+shobrook_BitVision.csv,{'sklearn'}
+ShreyAmbesh_Traffic-Rule-Violation-Detection-System.csv,{'tensorflow'}
+ShuangLI59_person_search.csv,{'caffe'}
+shubham0704_parallelGSO.csv,"{'sklearn', 'keras'}"
+shubhtuls_factored3d.csv,{'torch'}
+Sierkinhane_AtrousPose.csv,{'torch'}
+Sierkinhane_crnn_chinese_characters_rec.csv,{'torch'}
+sigmaai_self-driving-golf-cart.csv,{'tensorflow'}
+sigmaai_semantic-segmentation.csv,"{'tensorflow', 'keras'}"
+silburt_DeepMoon.csv,{'keras'}
+silversparro_wav2letter.pytorch.csv,{'torch'}
+simo23_tinyYOLOv2.csv,{'tensorflow'}
+simonfqy_PADME.csv,"{'deepchem', 'sklearn', 'tensorflow'}"
+simonkamronn_kvae.csv,{'tensorflow'}
+simontomaskarlsson_CycleGAN-Keras.csv,"{'tensorflow', 'keras'}"
+simontomaskarlsson_GAN-MRI.csv,"{'tensorflow', 'keras'}"
+SINGROUP_dscribe.csv,"{'sklearn', 'tensorflow'}"
+SINTEF_PySilCam.csv,"{'tflearn', 'tensorflow'}"
+sintefneodroid_agent.csv,{'torch'}
+sirfoga_pygce.csv,{'sklearn'}
+SiteHuang_COMP90055-Spider-Object-Detection.csv,{'tensorflow'}
+SketchyScene_SketchyScene.csv,"{'tensorflow', 'keras'}"
+skggm_skggm.csv,{'sklearn'}
+sksq96_pytorch-summary.csv,{'torch'}
+skyduy_CNN_keras.csv,{'keras'}
+slanglab_freq-e.csv,{'sklearn'}
+sld_supervised-embedding-model.csv,{'tensorflow'}
+SleyAI_Biomedical-Segmentation-with-PyTorch.csv,{'torch'}
+slrbl_Intrusion-and-anomaly-detection-with-machine-learning.csv,{'sklearn'}
+slundberg_shap.csv,"{'lightgbm', 'tensorflow', 'sklearn', 'keras', 'catboost', 'xgboost', 'torch'}"
+smaegol_PlasFlow.csv,"{'sklearn', 'tensorflow'}"
+smilelight_lightNLP.csv,{'torch'}
+SMTorg_smt.csv,{'sklearn'}
+snakeztc_NeuralDialog-LaRL.csv,{'torch'}
+snipsco_snips-nlu-metrics.csv,{'sklearn'}
+snuspl_parallax.csv,"{'sklearn', 'tensorflow'}"
+Soluto_python-flask-sklearn-docker-template.csv,{'sklearn'}
+sonarsushant_Loan-Defaulter-Prediction.csv,{'sklearn'}
+songhengyang_face_landmark_factory.csv,"{'tensorflow', 'keras'}"
+songyouwei_ABSA-PyTorch.csv,"{'torch', 'transformers'}"
+sonidosmutantes_apicultor.csv,{'sklearn'}
+sonoisa_code2vec.csv,{'torch'}
+soskek_bert-chainer.csv,"{'chainer', 'tensorflow'}"
+soujanyaporia_aspect-extraction.csv,{'tensorflow'}
+soujanyaporia_multimodal-sentiment-analysis.csv,"{'sklearn', 'tensorflow'}"
+spallas_time-attention.csv,"{'tensorflow', 'keras'}"
+sparisi_tensorl.csv,"{'sklearn', 'tensorflow'}"
+SparkJiao_SLQA.csv,{'torch'}
+SparshaSaha_Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network.csv,"{'tflearn', 'tensorflow'}"
+SpatialPerceptionNeuralNetwork_SOA_DORN_TF.csv,{'tensorflow'}
+spcl_ncc.csv,"{'sklearn', 'tensorflow', 'keras'}"
+Spenhouet_automated-deep-photo-style-transfer.csv,{'tensorflow'}
+spotify_spotify-tensorflow.csv,"{'sklearn', 'xgboost', 'tensorflow'}"
+src-d_kmcuda.csv,{'sklearn'}
+srihari-humbarwadi_DeepLabV3_Plus-Tensorflow2.0.csv,{'tensorflow'}
+srihari-humbarwadi_YOLOv1-TensorFlow2.0.csv,{'tensorflow'}
+sseung0703_SSKD_SVD.csv,{'tensorflow'}
+sshleifer_object_detection_kitti.csv,"{'sklearn', 'tensorflow'}"
+sshuair_torchsat.csv,{'torch'}
+SSSxCCC_AlphaZero-In-Unity.csv,{'tensorflow'}
+ssydasheng_GPflow-Slim.csv,"{'sklearn', 'tensorflow'}"
+Stable-Baselines-Team_stable-baselines.csv,"{'gym', 'tensorflow', 'stable_baselines'}"
+stanfordnlp_stanza.csv,"{'torch', 'transformers'}"
+stefanonardo_pytorch-esn.csv,{'torch'}
+stephen-song_Speech-Transformer-tf2.0.csv,{'tensorflow'}
+stephenhky_PyShortTextCategorization.csv,"{'sklearn', 'transformers', 'keras'}"
+stevexyz_SlyMlego.csv,"{'tensorflow', 'keras'}"
+stevezheng23_language_model_tf.csv,{'tensorflow'}
+stevezheng23_reading_comprehension_tf.csv,{'tensorflow'}
+stevezheng23_seq2seq_tf.csv,{'tensorflow'}
+stevezheng23_sequence_labeling_tf.csv,{'tensorflow'}
+Stick-To_CenterNet-tensorflow.csv,{'tensorflow'}
+Stick-To_Object-Detection-API-Tensorflow.csv,{'tensorflow'}
+Stick-To_PFPNet-tensorflow.csv,{'tensorflow'}
+Stick-To_RefineDet-tensorflow.csv,{'tensorflow'}
+Stick-To_ResNet-tensorflow.csv,{'tensorflow'}
+Stick-To_SSD-tensorflow.csv,{'tensorflow'}
+stomioka_sdtm_mapper.csv,"{'sklearn', 'tensorflow', 'keras'}"
+strutive07_TIL.csv,"{'torch', 'tensorflow'}"
+sugyan_tf-face-recognizer.csv,{'tensorflow'}
+sumuzhao_CycleGAN-Music-Style-Transfer.csv,{'tensorflow'}
+sunsided_vae-style-transfer.csv,{'tensorflow'}
+sunyumark_ScaDec-deep-learning-diffractive-tomography.csv,{'tensorflow'}
+SuperCowPowers_bat.csv,{'sklearn'}
+SuperKogito_Voice-based-gender-recognition.csv,"{'sklearn', 'hmmlearn'}"
+surfertas_deep_learning.csv,"{'chainer', 'torch', 'tensorflow'}"
+suzana-ilic_crypto_stock_market_prediction.csv,"{'sklearn', 'keras'}"
+svip-lab_PlanarReconstruction.csv,"{'tensorflow', 'torch'}"
+swdsld_RandWire_tensorflow.csv,{'tensorflow'}
+symoon94_Neural-Style-Transfer-pytorch.csv,{'torch'}
+SystemsGenetics_gene-oracle.csv,"{'sklearn', 'tensorflow'}"
+szilard_benchm-ml.csv,"{'sklearn', 'keras'}"
+t04glovern_stylegan-pokemon.csv,"{'sklearn', 'tensorflow'}"
+taki0112_DRIT-Tensorflow.csv,{'tensorflow'}
+Tamuel_TF_SemanticSegmentation.csv,{'tensorflow'}
+Tandon-A_CycleGAN_ssim.csv,{'tensorflow'}
+tangkk_tangkk-mirex-ace.csv,{'sklearn'}
+taolei87_sru.csv,{'torch'}
+tasoc_starclass.csv,"{'sklearn', 'xgboost', 'tensorflow'}"
+tbepler_topaz.csv,{'torch'}
+tdeboissiere_SuperNNova.csv,"{'sklearn', 'torch'}"
+tea1528_Non-Local-NN-Pytorch.csv,{'torch'}
+tebesu_CollaborativeMemoryNetwork.csv,{'tensorflow'}
+tegg89_magnet.csv,"{'tensorflow', 'gym'}"
+ternaus_angiodysplasia-segmentation.csv,{'torch'}
+ternaus_robot-surgery-segmentation.csv,{'torch'}
+TetsumichiUmada_text2emoji.csv,{'sklearn'}
+textgain_grasp.csv,{'torch'}
+tfunck_minc_keras.csv,{'keras'}
+the-house-of-black-and-white_morghulis.csv,{'tensorflow'}
+theamrzaki_text_summurization_abstractive_methods.csv,"{'sklearn', 'tensorflow'}"
+theislab_scanpy.csv,"{'sklearn', 'cuml'}"
+theislab_scgen.csv,"{'scvi', 'torch'}"
+themightyoarfish_deepVO.csv,{'tensorflow'}
+TheMTank_ai-distillery.csv,{'sklearn'}
+ThibaultGROUEIX_3D-CODED.csv,"{'sklearn', 'torch'}"
+thinkingmachines_christmAIs.csv,{'tensorflow'}
+thisisiron_nmt-attention-tf.csv,{'tensorflow'}
+thomaskuestner_CNNArt.csv,"{'tensorflow', 'keras'}"
+thulab_DeepHash.csv,"{'sklearn', 'tensorflow'}"
+thushv89_attention_keras.csv,{'tensorflow'}
+tianyili2017_HEVC-Complexity-Reduction.csv,{'tensorflow'}
+Tiiiger_SGC.csv,{'torch'}
+Tiiiger_QPyTorch.csv,{'torch'}
+timbmg_VAE-CVAE-MNIST.csv,{'torch'}
+timctho_random-wired-nn-tensorflow.csv,{'tensorflow'}
+timothyyu_ml_monorepo.csv,"{'gym', 'hmmlearn', 'tensorflow', 'tpot', 'sklearn', 'keras', 'chainer', 'xgboost', 'torch'}"
+TimRivoli_Stock-Price-Trade-Analyzer.csv,{'keras'}
+Timthony_document-scan-on-the-phone.csv,{'tensorflow'}
+tirthajyoti_Interactive_Machine_Learning.csv,{'sklearn'}
+titipata_detecting-scientific-claim.csv,"{'sklearn', 'torch'}"
+titu1994_BatchRenormalization.csv,{'keras'}
+titu1994_DenseNet.csv,{'keras'}
+titu1994_keras-adabound.csv,{'keras'}
+titu1994_LSTM-FCN.csv,"{'sklearn', 'keras'}"
+titu1994_tfdiffeq.csv,"{'sklearn', 'tensorflow'}"
+Tixierae_graph_2D_CNN.csv,"{'sklearn', 'keras'}"
+tlatkowski_multihead-siamese-nets.csv,"{'tflearn', 'tensorflow'}"
+tlkh_text-emotion-classification.csv,"{'sklearn', 'keras'}"
+TobiasLee_MTA-LSTM-TensorFlow.csv,{'tensorflow'}
+to-aoki_my-pytorch-bert.csv,"{'tensorflow', 'torch'}"
+tobybreckon_fire-detection-cnn.csv,{'tensorflow'}
+TomaszRewak_Face-Landmarking.csv,{'sklearn'}
+tomekkorbak_treehopper.csv,{'torch'}
+tonglei100_look.csv,{'torch'}
+tony-mtz_CAM.csv,{'torch'}
+tonybeltramelli_pix2code.csv,"{'tensorflow', 'keras'}"
+toodef_neural-pipeline.csv,{'torch'}
+topazape_LSTM_Chem.csv,"{'sklearn', 'tensorflow'}"
+tqtg_hierarchical-attention-networks.csv,{'tensorflow'}
+tracek_audio-explorer.csv,"{'sklearn', 'xgboost'}"
+TrainingByPackt_Beginning-Application-Development-with-TensorFlow-and-Keras.csv,{'keras'}
+Tramac_Fast-SCNN-pytorch.csv,{'torch'}
+TropComplique_FaceBoxes-tensorflow.csv,{'tensorflow'}
+TropComplique_light-head-rcnn.csv,{'tensorflow'}
+tryingsomestuff_Minic.csv,{'torch'}
+tshev_faster-FastText.csv,{'torch'}
+ttaoREtw_Tacotron-pytorch.csv,{'torch'}
+ttgump_scDeepCluster.csv,"{'sklearn', 'tensorflow', 'keras'}"
+tue-robotics_image_recognition.csv,"{'sklearn', 'tensorflow'}"
+tugraz-isds_systemds.csv,{'sklearn'}
+tugstugi_pytorch-dc-tts.csv,{'torch'}
+tum-phoenix_drive_ml.csv,"{'tensorflow', 'keras'}"
+tum-vision_learn_prox_ops.csv,{'tensorflow'}
+Twonki_Medusa.csv,{'tensorflow'}
+TyJK_EchoBurst.csv,{'sklearn'}
+tympanix_subsync.csv,"{'tensorflow', 'keras'}"
+ubclaunchpad_minutes.csv,{'keras'}
+uber-research_deep-neuroevolution.csv,"{'tensorflow', 'sklearn', 'gym'}"
+uber-research_UPSNet.csv,{'torch'}
+uci-cbcl_D-GEX.csv,{'sklearn'}
+ucla-labx_distbelief.csv,{'torch'}
+ucloud_uai-sdk.csv,"{'caffe', 'tensorflow', 'sklearn', 'keras', 'torch'}"
+udion_XTBTorch.csv,{'torch'}
+ugnelis_tensorflow-rnn-ctc.csv,{'tensorflow'}
+ultralytics_wave.csv,"{'tensorflow', 'torch'}"
+ultralytics_yolov3.csv,{'torch'}
+ultralytics_xview-yolov3.csv,{'torch'}
+ultralytics_yolov5.csv,{'torch'}
+umbertogriffo_Predictive-Maintenance-using-LSTM.csv,"{'sklearn', 'keras'}"
+undertheseanlp_ner.csv,{'torch'}
+undertheseanlp_word_tokenize.csv,{'sklearn'}
+Unisound_SampleRNN.csv,{'tensorflow'}
+Unity-Technologies_obstacle-tower-env.csv,{'gym'}
+Unity-Technologies_marathon-envs.csv,"{'gym', 'stable_baselines'}"
+untrix_im2latex.csv,{'tensorflow'}
+uptake_autofocus.csv,{'fastai'}
+upul_Semantic_Segmentation.csv,{'tensorflow'}
+upura_ml-competition-template-titanic.csv,{'lightgbm'}
+ur-whitelab_hoomd-tf.csv,{'tensorflow'}
+utkarshmalik211_Reconstructing-Blurred-Human-Faces.csv,"{'torch', 'keras'}"
+v-mipeng_LexiconNER.csv,{'torch'}
+vaibhavmagon_Python-Spam-Ham-SMS.csv,"{'sklearn', 'keras'}"
+ValentinRicher_emotion-recognition-GAN.csv,{'tensorflow'}
+varunagrawal_tiny-faces-pytorch.csv,{'torch'}
+vc1492a_PyNomaly.csv,{'sklearn'}
+vecto-ai_vecto.csv,"{'chainer', 'sklearn', 'keras'}"
+VectorFist_CNN-Fusion.csv,{'tensorflow'}
+vergeml_vergeml.csv,{'keras'}
+vexilligera_strokenet.csv,{'torch'}
+vgtomahawk_Charmanteau-CamReady.csv,{'keras'}
+vietnguyen91_QuickDraw.csv,{'torch'}
+vietnguyen91_Super-mario-bros-A3C-pytorch.csv,"{'torch', 'gym'}"
+vijuSR_facial_emotion_recognition__EMOJIFIER.csv,{'tensorflow'}
+vinayakumarr_Network-Intrusion-Detection.csv,"{'sklearn', 'keras'}"
+vineetjohn_linguistic-style-transfer.csv,"{'sklearn', 'tensorflow'}"
+viraja1_crack_detection.csv,{'tensorflow'}
+Viredery_tf-eager-fasterrcnn.csv,{'tensorflow'}
+vishalshar_SpeakerDiarization_RNN_CNN_LSTM.csv,{'tensorflow'}
+visipedia_tfrecords.csv,{'tensorflow'}
+vita-epfl_openpifpaf.csv,{'torch'}
+vita-epfl_monoloco.csv,{'torch'}
+VivekPa_AIAlpha.csv,"{'sklearn', 'tensorflow', 'keras'}"
+vkuznet_MLaaS4HEP.csv,"{'sklearn', 'torch', 'tensorflow', 'keras'}"
+vliu15_3d-brain-tumor-segmentation.csv,{'tensorflow'}
+vliu15_dialogue-seq2seq.csv,{'torch'}
+vlomonaco_crlmaze.csv,{'torch'}
+VowpalWabbit_vowpal_wabbit.csv,{'sklearn'}
+voxelmorph_voxelmorph.csv,"{'torch', 'tensorflow'}"
+vshantam_Age-Prediction.csv,"{'sklearn', 'keras'}"
+vzhou842_cnn-from-scratch.csv,{'keras'}
+Walleclipse_AGPC.csv,{'tensorflow'}
+Walleclipse_PersonalityDiscrimination_Chatting.csv,"{'lightgbm', 'sklearn', 'mxnet', 'torch'}"
+wangz10_tensorflow-playground.csv,"{'sklearn', 'tensorflow'}"
+wanjinchang_SSH-TensorFlow.csv,{'tensorflow'}
+WattSocialBot_alana_learning_to_rank.csv,{'tensorflow'}
+wb14123_seq2seq-couplet.csv,{'tensorflow'}
+wctu_SEAL.csv,{'torch'}
+weiaicunzai_pytorch-cifar100.csv,{'torch'}
+weidongcao_huanLing.csv,"{'sklearn', 'xgboost', 'tensorflow'}"
+wenwei202_iss-rnns.csv,{'tensorflow'}
+White-Link_UnsupervisedScalableRepresentationLearningTimeSeries.csv,"{'sklearn', 'torch'}"
+WHUIR_DAZER.csv,{'tensorflow'}
+wikipedia2vec_wikipedia2vec.csv,{'torch'}
+williamgilpin_convoca.csv,{'tensorflow'}
+willinseu_kesci-urdu-sentiment-analysis.csv,{'keras'}
+WindQAQ_listen-attend-and-spell.csv,{'tensorflow'}
+winterdelta_KeplerAI.csv,{'sklearn'}
+wkentaro_chainer-cyclegan.csv,{'chainer'}
+wkentaro_chainer-mask-rcnn.csv,{'chainer'}
+wkentaro_fcn.csv,{'chainer'}
+wkentaro_pytorch-fcn.csv,{'torch'}
+WLM1ke_poptimizer.csv,{'torch'}
+WMD-group_SMACT.csv,{'sklearn'}
+wmylxmj_Anime-Super-Resolution.csv,{'keras'}
+wmylxmj_Face-Recognition.csv,{'keras'}
+wmylxmj_Pix2Pix-Keras.csv,{'keras'}
+wmylxmj_YOLO-V3-IOU.csv,{'keras'}
+wondonghyeon_face-classification.csv,{'sklearn'}
+woongbinchoi_English-Premier-League-Prediction.csv,{'sklearn'}
+wotchin_SmooFaceEngine.csv,{'keras'}
+wouterdewinter_deep-hive.csv,{'keras'}
+wuhao5688_RNN-TrajModel.csv,{'tensorflow'}
+wuhuikai_GP-GAN.csv,{'chainer'}
+wujixiu_helmet-detection.csv,{'caffe'}
+wvangansbeke_LaneDetection_End2End.csv,"{'sklearn', 'torch'}"
+wvangansbeke_Sparse-Depth-Completion.csv,{'torch'}
+wy1iu_sphereface.csv,"{'sklearn', 'caffe'}"
+wyattferguson_trumpbot-rnn.csv,{'tensorflow'}
+WynMew_FaceAttribute.csv,{'torch'}
+wywongbd_statistical-arbitrage-18-19.csv,{'tensorflow'}
+X-czh_SeqGAN-PyTorch.csv,{'torch'}
+X-DataInitiative_tick.csv,"{'sklearn', 'tensorflow'}"
+x4nth055_emotion-recognition-using-speech.csv,"{'sklearn', 'tensorflow'}"
+Xachap_Neuro-FLOPER.csv,{'keras'}
+XanaduAI_QMLT.csv,{'tensorflow'}
+xchen-tamu_alista.csv,{'tensorflow'}
+xcyan_neurips18_hierchical_image_manipulation.csv,{'torch'}
+xdebron_mybabe.csv,{'keras'}
+xiadingZ_video-caption.pytorch.csv,{'torch'}
+XiaoMi_mace-models.csv,{'tensorflow'}
+Xilinx_graffitist.csv,{'tensorflow'}
+xingyul_flownet3d.csv,{'tensorflow'}
+xiumingzhang_GenRe-ShapeHD.csv,{'torch'}
+xtudbxk_SEC-tensorflow.csv,{'tensorflow'}
+xu-song_bert-as-language-model.csv,{'tensorflow'}
+xuanzebi_BERT-CH-NER.csv,{'tensorflow'}
+XuezheMax_NeuroNLP2.csv,{'torch'}
+xuyuan_x-force.csv,{'torch'}
+xuzheyuan624_yolov3-pytorch.csv,{'torch'}
+xvjiarui_GCNet.csv,{'torch'}
+XXXalice_EngineSSL.csv,{'keras'}
+y2l_social-relation-tensorflow.csv,{'tensorflow'}
+yala_text_nn.csv,{'torch'}
+yandexdataschool_IDAO-2019-muon-id.csv,{'sklearn'}
+yangyanli_PointCNN.csv,{'tensorflow'}
+YangZeyu95_unofficial-implement-of-openpose.csv,{'tensorflow'}
+YangZhang4065_AdaptationSeg.csv,{'keras'}
+YannDubs_disentangling-vae.csv,{'torch'}
+yanwii_ChineseNER.csv,{'tensorflow'}
+yanx27_DuReader_QANet_BiDAF.csv,{'tensorflow'}
+yao8839836_text_gcn.csv,"{'sklearn', 'tensorflow'}"
+yaqingwang_EANN-KDD18.csv,"{'sklearn', 'torch'}"
+yashbonde_transformer_network_tensorflow.csv,{'tensorflow'}
+yashkant_Padam-Tensorflow.csv,"{'tensorflow', 'keras'}"
+yassineAlouini_kaggle-tools.csv,"{'sklearn', 'keras'}"
+ydixon_yolo_v3.csv,{'torch'}
+YeongHyeon_R-CNN_LIGHT.csv,{'tensorflow'}
+YerevaNN_mimic3-benchmarks.csv,"{'sklearn', 'keras'}"
+yifeitao_learn.csv,{'sklearn'}
+yifita_3PU.csv,"{'sklearn', 'tensorflow'}"
+yifita_3PU_pytorch.csv,{'torch'}
+YijianZhou_CDRP_TF.csv,{'tensorflow'}
+yiling-chen_view-finding-network.csv,{'tensorflow'}
+yinguobing_tfrecord_utility.csv,{'tensorflow'}
+YipengHu_label-reg.csv,{'tensorflow'}
+yippp_FSRCNN.csv,{'torch'}
+yizt_keras-ctpn.csv,{'keras'}
+yjxiong_tsn-pytorch.csv,{'torch'}
+ykwang11_TSN-Tensorflow-unofficial.csv,{'tensorflow'}
+Yochengliu_MLIC-KD-WSD.csv,{'caffe'}
+Yogayu_weibo-summary.csv,{'sklearn'}
+yogeshbalaji_Generate_To_Adapt.csv,{'torch'}
+YonghaoXu_SEANet.csv,{'torch'}
+yongxuUSTC_sednn.csv,"{'sklearn', 'torch', 'keras'}"
+yongzhuo_nlp_xiaojiang.csv,"{'sklearn', 'tensorflow', 'keras'}"
+yonkshi_text2imageNet.csv,{'tensorflow'}
+yoonholee_MT-net.csv,{'tensorflow'}
+yoshall_GeoMAN.csv,{'tensorflow'}
+yoshida-lab_XenonPy.csv,"{'sklearn', 'torch'}"
+youyuge34_Anime-InPainting.csv,{'torch'}
+ypwhs_captcha_break.csv,"{'torch', 'tensorflow', 'keras'}"
+yselivonchyk_Tensorflow_WhatWhereAutoencoder.csv,{'tensorflow'}
+YU1ut_MixMatch-pytorch.csv,{'torch'}
+yu4u_noise2noise.csv,{'keras'}
+yuanming-hu_exposure.csv,{'tensorflow'}
+yuewang-cuhk_HashtagGeneration.csv,{'torch'}
+yuewang-cuhk_TAKG.csv,{'torch'}
+yuhaozhang_summarize-radiology-findings.csv,{'torch'}
+yuhaozhang_tacred-relation.csv,{'torch'}
+yule-li_MassFace.csv,{'tensorflow'}
+YuliangXiu_MobilePose-pytorch.csv,{'torch'}
+yunchuankong_GEDFN.csv,{'tensorflow'}
+YunYang1994_cuda-tutorial.csv,{'tensorflow'}
+YunYang1994_SphereFace.csv,{'tensorflow'}
+yuriak_DLQuant.csv,"{'tensorflow', 'sklearn', 'torch', 'keras'}"
+yusugomori_deeplearning-tf2.csv,{'tensorflow'}
+yusugomori_dl-book-generative.csv,{'torch'}
+yuzcccc_vqa-mfb.csv,{'caffe'}
+yxtay_char-rnn-text-generation.csv,"{'tensorflow', 'mxnet', 'keras', 'chainer', 'torch'}"
+yysijie_st-gcn.csv,{'torch'}
+yzou2_cbst.csv,"{'sklearn', 'mxnet'}"
+Z-Zheng_SimpleCV.csv,{'torch'}
+ZainNasrullah_music-artist-classification-crnn.csv,"{'sklearn', 'keras'}"
+zainsiddiqui_Predicting-Survival-on-Titanic-with-Machine-Learning-and-Graphical-User-Interface.csv,{'sklearn'}
+zake7749_DeepToxic.csv,"{'sklearn', 'torch', 'keras'}"
+zalandoresearch_pytorch-vq-vae.csv,{'torch'}
+zeusees_Mobilenet-SSD-License-Plate-Detection.csv,{'torch'}
+zfgao66_deeplearning-mpo.csv,{'tensorflow'}
+zhaipro_easy12306.csv,{'keras'}
+zhangqianhui_Exemplar-GAN-Eye-Inpainting-Tensorflow.csv,{'tensorflow'}
+zhaoyingjun_chatbot.csv,"{'torch', 'tensorflow'}"
+zhengyang-wang_3D-Unet--Tensorflow.csv,{'tensorflow'}
+Zhengyu-Li_Deep-Network-Compression-based-on-Student-Teacher-Network-.csv,{'tensorflow'}
+ZhenyuTan_Noise2Noise-Cryo-EM-image-denoising.csv,{'torch'}
+ZhixiuYe_NER-pytorch.csv,{'torch'}
+zhmiao_OpenLongTailRecognition-OLTR.csv,{'torch'}
+zhongbin1_DeepMatching.csv,{'tensorflow'}
+zhou13_lcnn.csv,{'torch'}
+zhouyanasd_DL-NC.csv,"{'sklearn', 'tensorflow', 'keras'}"
+zhpmatrix_CGED_TF.csv,{'tensorflow'}
+ziqizhang_chase.csv,"{'sklearn', 'tensorflow', 'keras'}"
+zixuanweeei_atec-sim.csv,{'tensorflow'}
+zlsh80826_image-caption-tf.csv,{'tensorflow'}
+zotroneneis_deep_music.csv,{'tensorflow'}
+zoujx96_adversarial_BFGS_TensorFlow.csv,{'tensorflow'}
+zouyih_AlphaZero_Gomoku-tensorflow.csv,{'tensorflow'}
+zsdonghao_im2txt2im.csv,"{'sklearn', 'tensorflow'}"
+zsdonghao_Image-Captioning.csv,"{'sklearn', 'tensorflow'}"
+zsdonghao_Unsup-Im2Im.csv,"{'sklearn', 'tensorflow'}"
+zsef123_EfficientNets-PyTorch.csv,"{'tensorflow', 'torch'}"
+zukako0930_street2shopTriplet.csv,"{'tensorflow', 'keras'}"
+zuoxingdong_dm2gym.csv,{'gym'}
+zuoxingdong_lagom.csv,"{'gym', 'torch'}"
+zvtvz_zvt.csv,{'sklearn'}
+zwx8981_DBCNN-PyTorch.csv,{'torch'}
+aisolab_nlp_classification.csv,"{'torch', 'transformers'}"
+1989Ryan_Semantic_SLAM.csv,"{'sklearn', 'tensorflow', 'keras'}"
+AaronWard_covidify.csv,"{'sklearn', 'tensorflow'}"
+AICoE_prometheus-anomaly-detector.csv,"{'sklearn', 'tensorflow', 'prophet', 'keras'}"
+analyticalmindsltd_smote_variants.csv,"{'sklearn', 'tensorflow'}"
+asappresearch_sru.csv,{'torch'}
+as-ideas_TransformerTTS.csv,{'tensorflow'}
+athena-team_athena.csv,"{'sklearn', 'tensorflow'}"
+autorope_donkeycar.csv,"{'tensorflow', 'torch', 'fastai'}"
+baldassarreFe_deep-koalarization.csv,{'tensorflow'}
+bethgelab_siamese-mask-rcnn.csv,{'keras'}
+biolib_openprotein.csv,{'torch'}
+bitextor_bitextor.csv,{'sklearn'}
+black0017_MedicalZooPytorch.csv,{'torch'}
+Calamari-OCR_calamari.csv,{'tensorflow'}
+calico_basenji.csv,"{'sklearn', 'tensorflow'}"
+chuyangliu_snake.csv,{'tensorflow'}
+ClementPinard_SfmLearner-Pytorch.csv,{'torch'}
+CLUEbenchmark_CLUE.csv,"{'torch', 'tensorflow', 'transformers'}"
+commaai_openpilot.csv,{'sklearn'}
+CorentinJ_Real-Time-Voice-Cloning.csv,{'torch'}
+CornellNLP_Cornell-Conversational-Analysis-Toolkit.csv,"{'sklearn', 'torch'}"
+digantamisra98_Mish.csv,"{'sklearn', 'torch', 'keras'}"
+drscotthawley_panotti.csv,{'keras'}
+dwadden_dygiepp.csv,{'torch'}
+EdinburghNLP_nematus.csv,{'tensorflow'}
+firmai_datagene.csv,"{'sklearn', 'tensorflow', 'keras'}"
+fizyr_keras-retinanet.csv,"{'tensorflow', 'keras'}"
+flatironinstitute_CaImAn.csv,"{'sklearn', 'tensorflow', 'keras'}"
+hanxiao_bert-as-service.csv,{'torch'}
+hasanirtiza_Pedestron.csv,"{'tensorflow', 'torch'}"
+home-assistant_core.csv,{'tensorflow'}
+hunglc007_tensorflow-yolov4-tflite.csv,{'tensorflow'}
+hysts_pytorch_image_classification.csv,{'torch'}
+idealo_image-super-resolution.csv,{'tensorflow'}
+iskandr_fancyimpute.csv,{'sklearn'}
+jakeret_tf_unet.csv,{'tensorflow'}
+jantic_DeOldify.csv,"{'torch', 'fastai'}"
+joe-siyuan-qiao_DetectoRS.csv,{'torch'}
+Kaixhin_Rainbow.csv,{'torch'}
+kan-bayashi_PytorchWaveNetVocoder.csv,"{'sklearn', 'torch'}"
+kdexd_virtex.csv,"{'sklearn', 'torch'}"
+kerlomz_captcha_platform.csv,{'tensorflow'}
+kipoi_kipoi.csv,"{'torch', 'tensorflow', 'keras'}"
+kwotsin_mimicry.csv,"{'torch_mimicry', 'torch'}"
+leela-zero_leela-zero.csv,{'tensorflow'}
+LiberAI_NSpM.csv,"{'sklearn', 'tensorflow'}"
+LoSealL_VideoSuperResolution.csv,"{'torch', 'tensorflow'}"
+loujie0822_DeepIE.csv,"{'fastNLP', 'torch', 'transformers'}"
+LPDI-EPFL_masif.csv,"{'sklearn', 'tensorflow'}"
+lucidrains_reformer-pytorch.csv,"{'torch', 'transformers'}"
+machine-learning-apps_Issue-Label-Bot.csv,"{'sklearn', 'tensorflow'}"
+magenta_ddsp.csv,{'tensorflow'}
+magenta_magenta.csv,{'tensorflow'}
+mangaki_mangaki.csv,{'sklearn'}
+MegviiDetection_video_analyst.csv,{'torch'}
+Mini-Conf_Mini-Conf.csv,{'sklearn'}
+mittagessen_kraken.csv,"{'lightning', 'torch'}"
+mljar_mljar-supervised.csv,"{'catboost', 'sklearn', 'xgboost', 'lightgbm'}"
+mlperf_inference.csv,"{'torch', 'tensorflow'}"
+mlperf_training.csv,"{'lightning', 'tensorflow', 'sklearn', 'torch', 'transformers'}"
+mpariente_asteroid.csv,"{'sklearn', 'torch'}"
+MrGiovanni_ModelsGenesis.csv,"{'tensorflow', 'torch', 'keras'}"
+natethegreate_hent-AI.csv,"{'torch', 'keras'}"
+numenta_nupic.torch.csv,{'torch'}
+nutonomy_nuscenes-devkit.csv,{'torch'}
+NVISO-BE_ee-outliers.csv,{'torch'}
+Open-Debin_Emotion-FAN.csv,{'torch'}
+open-mmlab_mmfashion.csv,{'torch'}
+open-mmlab_mmskeleton.csv,{'torch'}
+openseg-group_openseg.pytorch.csv,{'torch'}
+osmr_imgclsmob.csv,"{'torch', 'tensorflow', 'mxnet', 'keras', 'chainer', 'gluon'}"
+OUCMachineLearning_OUCML.csv,"{'tensorflow', 'torch', 'keras'}"
+priya-dwivedi_Deep-Learning.csv,"{'tensorflow', 'sklearn', 'keras', 'torch', 'transformers'}"
+quantumiracle_SOTA-RL-Algorithms.csv,"{'tensorflow', 'gym', 'torch'}"
+ria-com_nomeroff-net.csv,{'torch'}
+sergionr2_RacingRobot.csv,{'torch'}
+ShangtongZhang_DeepRL.csv,"{'torch', 'gym'}"
+SpursLipu_YOLOv3-ModelCompression-MultidatasetTraining-Multibackbone.csv,{'torch'}
+stellargraph_stellargraph.csv,"{'sklearn', 'tensorflow'}"
+swechhachoudhary_Handwriting-synthesis.csv,{'torch'}
+taehoonlee_tensornets.csv,{'tensorflow'}
+TAMU-VITA_DeblurGANv2.csv,{'torch'}
+tech-srl_code2vec.csv,{'tensorflow'}
+tensorlayer_hyperpose.csv,"{'hyperpose', 'tensorflow'}"
+Tianxiaomo_pytorch-YOLOv4.csv,{'torch'}
+tianzhi0549_FCOS.csv,{'torch'}
+tristandeleu_pytorch-maml-rl.csv,"{'gym', 'torch'}"
+tristandeleu_pytorch-meta.csv,"{'sklearn', 'torch'}"
+VainF_pytorch-msssim.csv,{'torch'}
+vespa-engine_sample-apps.csv,"{'sklearn', 'xgboost', 'lightgbm', 'torch'}"
+vwxyzjn_cleanrl.csv,"{'gym', 'torch'}"
+wjmaddox_swa_gaussian.csv,"{'sklearn', 'torch'}"
+YaleDHLab_pix-plot.csv,"{'tensorflow', 'cuml'}"
+yehengchen_Object-Detection-and-Tracking.csv,{'tensorflow'}
+zhanghang1989_PyTorch-Encoding.csv,{'torch'}
+ZQPei_deep_sort_pytorch.csv,{'torch'}

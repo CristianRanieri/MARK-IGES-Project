@@ -1,0 +1,17 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,24
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,24
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,24
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,73
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,73
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_masked.py,.predict(,73
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_extract.py,.predict(,35
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_extract.py,.predict(,35
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/tests/layers/test_extract.py,.predict(,35
+CyberZHG/keras-bert,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/demo/load_model/load_and_pool.py,.predict(,30
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/demo/load_model/keras_bert_load_and_extract_tpu.ipynb,.predict(,154
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/demo/load_model/keras_bert_load_and_extract_tpu.ipynb,.predict(,154
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/demo/load_model/keras_bert_load_and_extract_tpu.ipynb,.predict(,154
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/keras_bert/util.py,.predict(,109
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/keras_bert/util.py,.predict(,109
+CyberZHG/keras-bert,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CyberZHG/keras-bert/keras_bert/util.py,.predict(,109

@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+wkentaro/chainer-mask-rcnn,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wkentaro/chainer-mask-rcnn/tests/models_tests/check_mask_rcnn_train_chain.py,.update(,148
+wkentaro/chainer-mask-rcnn,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wkentaro/chainer-mask-rcnn/chainer_mask_rcnn/functions/affine_channel_2d.py,def forward(,10
+wkentaro/chainer-mask-rcnn,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wkentaro/chainer-mask-rcnn/examples/train_common.py,.StandardUpdater(,226

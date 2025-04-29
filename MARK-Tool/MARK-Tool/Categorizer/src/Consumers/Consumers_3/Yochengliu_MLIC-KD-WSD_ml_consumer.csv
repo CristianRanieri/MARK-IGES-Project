@@ -1,0 +1,14 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/examples/web_demo/app.py,.predict(,151
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/examples/web_demo/app.py,.forward(,215
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/classify.py,.predict(,129
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/pycaffe.py,.forward(,192
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/pycaffe.py,.forward(,232
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_net.py,.forward(,64
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_net.py,.forward(,69
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_python_layer_with_param_str.py,.forward(,52
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_python_layer.py,.forward(,111
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_python_layer.py,.forward(,125
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_python_layer.py,.forward(,139
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_python_layer.py,.forward(,168
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/test/test_net_spec.py,.forward(,81

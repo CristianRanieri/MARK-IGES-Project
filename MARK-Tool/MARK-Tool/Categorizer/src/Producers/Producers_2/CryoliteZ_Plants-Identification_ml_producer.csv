@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+CryoliteZ/Plants-Identification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CryoliteZ/Plants-Identification/plant_classfier.py,.fit_generator(,159
+CryoliteZ/Plants-Identification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CryoliteZ/Plants-Identification/plant_classfier.py,.fit_generator(,159
+CryoliteZ/Plants-Identification,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CryoliteZ/Plants-Identification/plant_classfier.py,.train(,174
+CryoliteZ/Plants-Identification,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/CryoliteZ/Plants-Identification/plant_classfier.py,.train(,177

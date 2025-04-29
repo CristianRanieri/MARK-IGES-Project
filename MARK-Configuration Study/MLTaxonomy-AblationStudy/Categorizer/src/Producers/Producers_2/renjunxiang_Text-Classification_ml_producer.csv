@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_single.py,.fit(,26
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_single.py,.fit(,26
+renjunxiang/Text-Classification,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_single.py,fit(,26
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_single.py,.fit(,26
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_multiple.py,.fit(,24
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_multiple.py,.fit(,24
+renjunxiang/Text-Classification,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_multiple.py,fit(,24
+renjunxiang/Text-Classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/renjunxiang/Text-Classification/demo_multiple.py,.fit(,24

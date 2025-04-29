@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.train(,164
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.backward(,174
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/model/model.py,def forward(,44
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/model/model.py, forward(,44

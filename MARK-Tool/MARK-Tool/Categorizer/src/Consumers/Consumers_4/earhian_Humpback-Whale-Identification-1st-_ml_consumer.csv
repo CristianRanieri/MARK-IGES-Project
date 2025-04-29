@@ -1,0 +1,3 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+earhian/Humpback-Whale-Identification-1st-,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/earhian/Humpback-Whale-Identification-1st-/train.py,.no_grad(,119
+earhian/Humpback-Whale-Identification-1st-,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/earhian/Humpback-Whale-Identification-1st-/models/arcFaceloss.py,.forward(,85

@@ -1,0 +1,14 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/maskrcnn.py,.no_grad(,174
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/train_utils/distributed_utils.py,.no_grad(,104
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/detector.py,.no_grad(,42
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/metrics.py,.no_grad(,235
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,436
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,436
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,436
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,440
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,440
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/tf.py,.predict(,440
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/feature_extractor.py,.no_grad(,48
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/feature_extractor.py,.no_grad(,83
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/multi_train_utils/distributed_utils.py,.no_grad(,62

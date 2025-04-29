@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AntiAegis/Human-Segmentation-PyTorch/inference_video.py,.no_grad(,100
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AntiAegis/Human-Segmentation-PyTorch/evaluation/losses.py,.no_grad(,74
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AntiAegis/Human-Segmentation-PyTorch/evaluation/losses.py,.no_grad(,99
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AntiAegis/Human-Segmentation-PyTorch/base/base_inference.py,.no_grad(,127

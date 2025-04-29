@@ -1,0 +1,6 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.forward(,219
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.forward(,275
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.no_grad(,293
+JGuymont/vae-anomaly-detector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.forward(,295
+JGuymont/vae-anomaly-detector,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JGuymont/vae-anomaly-detector/vae/vae.py,.predict(,316

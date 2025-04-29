@@ -1,0 +1,30 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/准确率99.3%——Keras进行藏文手写数字识别.py,.fit_generator(,114
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/准确率99.3%——Keras进行藏文手写数字识别.py,.fit_generator(,114
+bat67/TibetanMNIST,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,.train(,133
+bat67/TibetanMNIST,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,.backward(,143
+bat67/TibetanMNIST,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,def forward(,318
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,46
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,46
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,46
+bat67/TibetanMNIST,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,fit(,46
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,46
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,93
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,93
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,93
+bat67/TibetanMNIST,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,fit(,93
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,93
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,116
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,116
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,116
+bat67/TibetanMNIST,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,fit(,116
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit(,116
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit_generator(,118
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.fit_generator(,118
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,278
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,278
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,279
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,279
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,290
+bat67/TibetanMNIST,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train_on_batch,290
+bat67/TibetanMNIST,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bat67/TibetanMNIST/不要怂，就是GAN！AI学藏文.py,.train(,331

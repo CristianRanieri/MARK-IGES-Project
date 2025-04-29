@@ -1,0 +1,46 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,56
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,67
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,146
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,157
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,241
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,250
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,303
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/methods.py,.backward(,314
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/training.py,.train(,303
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/training.py,.train(,331
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/training.py,.train(,581
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoise.py,.backward(,110
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/filters.py,def forward(,36
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/filters.py,def forward(,47
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/filters.py,def forward(,70
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,49
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,66
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,71
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,131
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,216
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,304
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,405
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,def forward(,509
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,.train(,640
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/denoising/models.py,.backward(,657
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/generative.py,def forward(,62
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/classifier.py,def forward(,48
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/resnet.py,def forward(,46
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/resnet.py,def forward(,101
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/resnet.py,def forward(,178
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/resnet.py,def forward(,243
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/densenet.py,def forward(,22
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/densenet.py,def forward(,66
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/densenet.py,def forward(,97
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/densenet.py,def forward(,153
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/basic.py,def forward(,101
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,40
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,94
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,140
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,189
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,262
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,306
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,350
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,381
+tbepler/topaz,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tbepler/topaz/topaz/model/features/msnet.py,def forward(,437

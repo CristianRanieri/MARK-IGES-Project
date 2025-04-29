@@ -1,0 +1,12 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/CenterNet.py,.train.,154
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/CenterNet.py,.train.,280
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/CenterNet.py,.train.,281
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/CenterNet.py,.train.,282
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_voc_utils.py,.train.,18
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_voc_utils.py,.train.,24
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_voc_utils.py,.train.,30
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_voc_utils.py,.train.,60
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_imagenet_utils.py,.train.,36
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_imagenet_utils.py,.train.,42
+Stick-To/CenterNet-tensorflow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Stick-To/CenterNet-tensorflow/utils/tfrecord_imagenet_utils.py,.train.,92

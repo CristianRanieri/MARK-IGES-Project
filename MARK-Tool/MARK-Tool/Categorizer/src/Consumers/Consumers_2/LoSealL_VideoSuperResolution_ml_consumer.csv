@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+LoSealL/VideoSuperResolution,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/LoSealL/VideoSuperResolution/VSR/Backend/Torch/Models/TecoGAN.py,.no_grad(,177
+LoSealL/VideoSuperResolution,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/LoSealL/VideoSuperResolution/VSR/Backend/Torch/Framework/Trainer.py,.no_grad(,134
+LoSealL/VideoSuperResolution,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/LoSealL/VideoSuperResolution/VSR/Backend/Torch/Framework/Trainer.py,.no_grad(,179
+LoSealL/VideoSuperResolution,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/LoSealL/VideoSuperResolution/VSR/Backend/Torch/Util/Utility.py,.no_grad(,166

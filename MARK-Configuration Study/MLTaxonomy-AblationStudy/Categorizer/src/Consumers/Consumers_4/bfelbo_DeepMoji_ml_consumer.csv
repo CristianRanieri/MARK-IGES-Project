@@ -1,0 +1,9 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/finetuning.py,.predict(,467
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/finetuning.py,.predict(,467
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/finetuning.py,.predict(,468
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/finetuning.py,.predict(,468
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/class_avg_finetuning.py,.predict(,232
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/class_avg_finetuning.py,.predict(,233
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/class_avg_finetuning.py,.predict(,315
+bfelbo/DeepMoji,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/bfelbo/DeepMoji/deepmoji/class_avg_finetuning.py,.predict(,316

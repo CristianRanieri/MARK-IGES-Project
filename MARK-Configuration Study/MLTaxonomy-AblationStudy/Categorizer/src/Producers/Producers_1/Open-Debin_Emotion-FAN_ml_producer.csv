@@ -1,0 +1,15 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/baseline_ck_plus.py,.train(,69
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/baseline_ck_plus.py,.backward(,87
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/baseline_afew.py,.train(,75
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/baseline_afew.py,.backward(,97
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/fan_ckplus_traintest.py,.train(,72
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/fan_ckplus_traintest.py,.backward(,92
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/fan_afew_traintest.py,.train(,74
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/fan_afew_traintest.py,.backward(,93
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py,def forward(,37
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py, forward(,37
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py,def forward(,72
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py, forward(,72
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py,def forward(,148
+Open-Debin/Emotion-FAN,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Open-Debin/Emotion-FAN/basic_code/networks.py, forward(,148

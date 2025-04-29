@@ -1,0 +1,6 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/examples/web_demo/app.py,.predict(,151
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/examples/web_demo/app.py,.forward(,215
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/classify.py,.predict(,129
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/pycaffe.py,.forward(,192
+Yochengliu/MLIC-KD-WSD,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Yochengliu/MLIC-KD-WSD/caffe-MLIC/python/caffe/pycaffe.py,.forward(,232

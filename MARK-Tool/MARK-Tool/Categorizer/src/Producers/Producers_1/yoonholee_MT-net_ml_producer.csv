@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/maml.py,.train.,234
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/maml.py,.train.,237
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/data_generator.py,.train.,106
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/data_generator.py,.train.,127
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/main.py,.train.,344
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/main.py,.train.,403
+yoonholee/MT-net,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yoonholee/MT-net/main.py,.train.,406

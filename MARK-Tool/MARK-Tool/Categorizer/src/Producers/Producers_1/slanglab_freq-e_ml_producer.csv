@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/tests/speed_tests.ipynb,.fit(,49
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/tests/speed_tests.py,.fit(,31
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py_tutorial/tutorial.ipynb,.fit(,241
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py_tutorial/tutorial.ipynb,.fit(,302
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py_tutorial/tutorial_utils.py,.fit_transform(,29
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py_tutorial/tutorial.py,.fit(,104
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py_tutorial/tutorial.py,.fit(,131
+slanglab/freq-e,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/slanglab/freq-e/py/freq_e/estimate.py,.fit(,167

@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+neka-nat/image_completion_keras,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/neka-nat/image_completion_keras/train.py,.train_on_batch,119
+neka-nat/image_completion_keras,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/neka-nat/image_completion_keras/train.py,.train_on_batch,121
+neka-nat/image_completion_keras,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/neka-nat/image_completion_keras/train.py,.train_on_batch,122
+neka-nat/image_completion_keras,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/neka-nat/image_completion_keras/train.py,.train_on_batch,125

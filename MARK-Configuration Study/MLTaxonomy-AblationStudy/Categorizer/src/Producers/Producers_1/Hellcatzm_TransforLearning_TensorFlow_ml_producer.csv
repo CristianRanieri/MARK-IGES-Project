@@ -1,0 +1,13 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/TransforLearning.py,.train.,274
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/TransforLearning.py,.train.,284
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/TransferLearning_reload.py,.train.,36
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/TransferLearning_reload.py,.train.,37
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/MXnet_TransforLearning/mxnet_classifiter.py,.Trainer(,141
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/MXnet_TransforLearning/mxnet_classifiter.py,.step(,157
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/MXnet_TransforLearning/mxnet_classifiter.ipynb,.Trainer(,224
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/MXnet_TransforLearning/mxnet_classifiter.ipynb,.step(,240
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/Keras_TransforLearning/keras_classifiter.py,.fit_generator,172
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/Keras_TransforLearning/keras_classifiter.py,.fit(,178
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/Keras_TransforLearning/keras_classifiter.ipynb,.fit_generator,281
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Hellcatzm/TransforLearning_TensorFlow/Keras_TransforLearning/keras_classifiter.ipynb,.fit(,287

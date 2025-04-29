@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+elcolumbio/mlrepricer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/elcolumbio/mlrepricer/jupyter/priceClassifier.py,.predict(,154
+elcolumbio/mlrepricer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/elcolumbio/mlrepricer/jupyter/priceClassifier.py,.predict(,229
+elcolumbio/mlrepricer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/elcolumbio/mlrepricer/jupyter/priceClassifier.ipynb,.predict(,207
+elcolumbio/mlrepricer,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/elcolumbio/mlrepricer/jupyter/priceClassifier.ipynb,.predict(,309

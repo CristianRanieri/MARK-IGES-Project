@@ -1,0 +1,6 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+PratikBarhate/question-classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PratikBarhate/question-classification/qc/dataprep/text_features.py,.fit(,69
+PratikBarhate/question-classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PratikBarhate/question-classification/qc/ml/train.py,.fit(,49
+PratikBarhate/question-classification,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PratikBarhate/question-classification/qc/ml/nn.py,def forward(,42
+PratikBarhate/question-classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PratikBarhate/question-classification/qc/ml/nn.py,.fit(,84
+PratikBarhate/question-classification,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/PratikBarhate/question-classification/qc/ml/nn.py,.backward(,156

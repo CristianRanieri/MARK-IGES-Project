@@ -1,0 +1,7 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/linear.py,.predict(,26
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/linear.py,.predict(,33
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/svr.py,.predict(,29
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/svr.py,.predict(,30
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/svr.py,.predict(,31
+chaitjo/regression-stock-prediction,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/chaitjo/regression-stock-prediction/svr.py,.predict(,38

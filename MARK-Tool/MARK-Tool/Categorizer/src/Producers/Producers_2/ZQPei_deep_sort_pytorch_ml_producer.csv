@@ -1,0 +1,70 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/transform.py,def forward(,428
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/rpn_function.py,def forward(,172
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/rpn_function.py,def forward(,235
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/rpn_function.py,def forward(,574
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/roi_head.py,def forward(,458
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/faster_rcnn_framework.py,def forward(,45
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/faster_rcnn_framework.py,def forward(,132
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/network_files/faster_rcnn_framework.py,def forward(,156
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/feature_pyramid_network.py,def forward(,52
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/feature_pyramid_network.py,def forward(,110
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/feature_pyramid_network.py,def forward(,188
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/feature_pyramid_network.py,def forward(,232
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/resnet50_fpn_model.py,def forward(,32
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/Mask_RCNN/backbone/resnet50_fpn_model.py,def forward(,100
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,13
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,23
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,41
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,63
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,78
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/darknet.py,def forward(,113
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/region_layer.py,def forward(,112
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv3/yolo_layer.py,def forward(,107
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,420
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,420
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,462
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,462
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,530
+ZQPei/deep_sort_pytorch,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/export.py,.train(,530
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,14
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,20
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,28
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,35
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,46
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,57
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,74
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/activations.py,def forward(,95
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/loss.py,def forward(,25
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/loss.py,def forward(,45
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/loss.py,def forward(,75
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/torch_utils.py,.backward(,140
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/utils/autobatch.py,.train(,19
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,48
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,72
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,89
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,106
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,123
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,140
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,177
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,193
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,209
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,222
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,238
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,248
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,262
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,276
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,400
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,510
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/common.py,def forward(,677
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/experimental.py,def forward(,25
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/experimental.py,def forward(,38
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/experimental.py,def forward(,71
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/detector/YOLOv5/models/experimental.py,def forward(,80
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/resnet.py,def forward(,19
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/resnet.py,def forward(,56
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/resnet.py,def forward(,125
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/model.py,def forward(,30
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/model.py,def forward(,84
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/train.py,train_one_epoch(,119
+ZQPei/deep_sort_pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ZQPei/deep_sort_pytorch/deep_sort/deep/train_multiGPU.py,train_one_epoch(,147

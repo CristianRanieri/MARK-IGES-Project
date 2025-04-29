@@ -1,0 +1,6 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+titu1994/DenseNet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/titu1994/DenseNet/cifar10.py,.predict(,79
+titu1994/DenseNet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/titu1994/DenseNet/cifar10.py,.predict(,79
+titu1994/DenseNet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/titu1994/DenseNet/cifar100.py,.predict(,80
+titu1994/DenseNet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/titu1994/DenseNet/cifar100.py,.predict(,80
+titu1994/DenseNet,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/titu1994/DenseNet/imagenet_inference.py,.predict(,24

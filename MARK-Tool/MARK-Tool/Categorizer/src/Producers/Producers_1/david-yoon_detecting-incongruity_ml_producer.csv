@@ -1,0 +1,19 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,.train.,310
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,def train_step(,340
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,train_step(,340
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,.train.,383
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,.train.,400
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/AHDE_Model.py,train_step(,422
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/debug_AHDE_model.ipynb,.train.,383
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/debug_AHDE_model.ipynb,.train.,448
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/debug_AHDE_model.ipynb,.train.,530
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_whole/debug_AHDE_model.py,.train.,151
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,.train.,313
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,.train.,314
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,.train.,316
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,def train_step(,347
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,train_step(,347
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,.train.,382
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,.train.,399
+david-yoon/detecting-incongruity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/david-yoon/detecting-incongruity/src_para/AHDE_Model.py,train_step(,421

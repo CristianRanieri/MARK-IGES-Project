@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+olivesgatech/facies_classification_benchmark,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/olivesgatech/facies_classification_benchmark/patch_train.py,.no_grad(,251
+olivesgatech/facies_classification_benchmark,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/olivesgatech/facies_classification_benchmark/section_train.py,.no_grad(,248
+olivesgatech/facies_classification_benchmark,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/olivesgatech/facies_classification_benchmark/patch_test.py,.no_grad(,96
+olivesgatech/facies_classification_benchmark,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/olivesgatech/facies_classification_benchmark/section_test.py,.no_grad(,67

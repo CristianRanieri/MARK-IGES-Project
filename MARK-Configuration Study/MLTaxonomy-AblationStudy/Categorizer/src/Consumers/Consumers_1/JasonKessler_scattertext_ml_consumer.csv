@@ -1,0 +1,11 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_sklearn.py,.predict(,74
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_feature_importance.py,.predict_proba(,53
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_feature_importance.py,predict_proba(,53
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_feature_importance.py,.predict(,54
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_feature_importance.py,.predict_proba(,62
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/demo_feature_importance.py,predict_proba(,62
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/scattertext/dispersion/dispersion.py,.predict(,373
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/scattertext/smoothing/mean_isotonic.py,.predict(,28
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/scattertext/smoothing/mean_isotonic.py,.predict(,50
+JasonKessler/scattertext,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/JasonKessler/scattertext/scattertext/test/test_termDocMatrixFactory.py,.predict(,172

@@ -1,0 +1,197 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fast_neural_style/neural_style/neural_style.py,.train(,68
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fast_neural_style/neural_style/neural_style.py,.backward(,95
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fast_neural_style/neural_style/neural_style.py,.train(,115
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/imagenet/main.py,.train(,316
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/imagenet/main.py,.backward(,339
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py,def forward(,160
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py, forward(,160
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py,def forward(,200
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py, forward(,200
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py,.backward(,242
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py,.backward(,251
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/dcgan/main.py,.backward(,263
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py,def forward(,48
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py, forward(,48
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py,def forward(,93
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py, forward(,93
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py,def forward(,131
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/model.py, forward(,131
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/main.py,.train(,169
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/word_language_model/main.py,.backward(,187
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py,def forward(,46
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py, forward(,46
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py,def forward(,89
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py, forward(,89
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py,.train(,171
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gcn/main.py,.backward(,178
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/replace_op.py,def forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/replace_op.py, forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/proxy_based_graph_creation.py,def forward(,24
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/proxy_based_graph_creation.py, forward(,24
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py,def forward(,46
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py, forward(,46
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py,def forward(,55
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py, forward(,55
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py,def forward(,103
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py, forward(,103
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py,def forward(,144
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/primitive_library.py, forward(,144
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/subgraph_rewriter_basic_use.py,def forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/subgraph_rewriter_basic_use.py, forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/subgraph_rewriter_basic_use.py,def forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/subgraph_rewriter_basic_use.py, forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/invert.py,def forward(,57
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/invert.py, forward(,57
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/custom_tracer.py,def forward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/custom_tracer.py, forward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/custom_tracer.py,def forward(,95
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/custom_tracer.py, forward(,95
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/wrap_output_dynamically.py,def forward(,25
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/wrap_output_dynamically.py, forward(,25
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/inline_function.py,def forward(,36
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/inline_function.py, forward(,36
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/profiling_tracer.py,def forward(,17
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/profiling_tracer.py, forward(,17
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/native_interpreter/use_interpreter.py, forward(,89
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/native_interpreter/use_interpreter.py,def forward(,115
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/fx/native_interpreter/use_interpreter.py, forward(,115
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/siamese_network/main.py,def forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/siamese_network/main.py, forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/siamese_network/main.py,.train(,191
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/siamese_network/main.py,.backward(,201
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/vae/main.py,def forward(,70
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/vae/main.py, forward(,70
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/vae/main.py,.train(,94
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/vae/main.py,.backward(,101
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/time_sequence_prediction/train.py,def forward(,18
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/time_sequence_prediction/train.py, forward(,18
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/time_sequence_prediction/train.py,.backward(,66
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist/main.py,def forward(,20
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist/main.py, forward(,20
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist/main.py,.train(,37
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist/main.py,.backward(,43
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/reinforce.py,def forward(,40
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/reinforce.py, forward(,40
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/reinforce.py,.backward(,75
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/actor_critic.py,def forward(,53
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/actor_critic.py, forward(,53
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/reinforcement_learning/actor_critic.py,.backward(,129
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py,def forward(,92
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py, forward(,92
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py,def forward(,184
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py, forward(,184
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py,.train(,258
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/gat/main.py,.backward(,265
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_rnn/main.py,def forward(,23
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_rnn/main.py, forward(,23
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_rnn/main.py,.train(,44
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_rnn/main.py,.backward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/FSDP/utils/train_utils.py,.train(,36
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/FSDP/utils/train_utils.py,.backward(,52
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py,def forward(,55
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py, forward(,55
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py,def forward(,75
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py, forward(,75
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py,def forward(,91
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py, forward(,91
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py,def forward(,159
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/model.py, forward(,159
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/trainer.py,.backward(,102
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/trainer.py,.backward(,107
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/minGPT-ddp/mingpt/main.py,.train(,39
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/example.py,def forward(,21
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/example.py, forward(,21
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/example.py,.backward(,47
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py,def forward(,31
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py, forward(,31
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py,.backward(,49
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py,.backward(,91
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py,def forward(,113
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py, forward(,113
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp/main.py,.backward(,137
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/single_gpu.py,.backward(,26
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/single_gpu.py,.train(,70
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multinode.py,.backward(,51
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multinode.py,.train(,100
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multigpu_torchrun.py,.backward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multigpu_torchrun.py,.train(,99
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multigpu.py,.backward(,44
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/ddp-tutorial-series/multigpu.py,.train(,91
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py,def forward(,102
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py, forward(,102
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py,def forward(,126
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py, forward(,126
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py,def forward(,158
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py, forward(,158
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/pipeline/main.py,.backward(,215
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/ddp_rpc/main.py,def forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/ddp_rpc/main.py, forward(,33
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/ddp_rpc/main.py,.backward(,98
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py,def forward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py, forward(,50
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py,def forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py, forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py,def forward(,88
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/rnn.py, forward(,88
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rnn/main.py,.backward(,57
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/batch/parameter_server.py,.backward(,86
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/batch/parameter_server.py,.train(,98
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/batch/reinforce.py,def forward(,47
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/batch/reinforce.py, forward(,47
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/batch/reinforce.py,.backward(,200
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rl/main.py,def forward(,65
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rl/main.py, forward(,65
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/rl/main.py,.backward(,205
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py,def forward(,39
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py, forward(,39
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py,def forward(,90
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py, forward(,90
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py, forward(,147
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py,def forward(,162
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py, forward(,162
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/rpc/parameter_server/rpc_parameter_server.py,.backward(,182
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/fsdp_tp_example.py,.backward(,176
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py,def forward(,137
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py, forward(,137
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py,def forward(,190
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py, forward(,190
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py,def forward(,266
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py, forward(,266
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py,def forward(,321
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py, forward(,321
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py,def forward(,428
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/llama2_model.py, forward(,428
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/sequence_parallel_example.py,def forward(,56
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/sequence_parallel_example.py, forward(,56
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/sequence_parallel_example.py,.backward(,105
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/tensor_parallel_example.py,def forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/tensor_parallel_example.py, forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/distributed/tensor_parallelism/tensor_parallel_example.py,.backward(,118
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/super_resolution/model.py,def forward(,19
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/super_resolution/model.py, forward(,19
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/super_resolution/main.py,.backward(,63
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/regression/main.py,.backward(,56
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/main.py,.train(,115
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/main.py,.backward(,138
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/src/model.py,def forward(,25
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/src/model.py, forward(,25
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/src/model.py,def forward(,66
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/language_translation/src/model.py, forward(,66
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_forward_forward/main.py,.train(,56
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_forward_forward/main.py,def forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_forward_forward/main.py, forward(,67
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_forward_forward/main.py,.backward(,81
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_forward_forward/main.py,.train(,176
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_hogwild/train.py,.train(,26
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_hogwild/train.py,.backward(,32
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_hogwild/main.py,def forward(,48
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/mnist_hogwild/main.py, forward(,48
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py,def forward(,7
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py, forward(,7
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py,def forward(,30
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py, forward(,30
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py,def forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/model.py, forward(,64
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/train.py,.train(,78
+pytorch/examples,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/pytorch/examples/legacy/snli/train.py,.backward(,94

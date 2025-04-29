@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yuzcccc/vqa-mfb,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuzcccc/vqa-mfb/mfb_baseline/train_mfb_baseline.py,.step(,221
+yuzcccc/vqa-mfb,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuzcccc/vqa-mfb/mfh_baseline/train_mfh_baseline.py,.step(,239
+yuzcccc/vqa-mfb,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuzcccc/vqa-mfb/mfh_coatt_glove/train_mfh_coatt_glove.py,.step(,310
+yuzcccc/vqa-mfb,Yes,caffe,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuzcccc/vqa-mfb/mfb_coatt_glove/train_mfb_coatt_glove.py,.step(,294

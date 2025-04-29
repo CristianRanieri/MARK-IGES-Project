@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+mtobeiyf/audio-classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/svm.py,.fit(,24
+mtobeiyf/audio-classification,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/svm.py,.fit(,43
+mtobeiyf/audio-classification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/cnn.py,.fit(,58
+mtobeiyf/audio-classification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/cnn.py,.fit(,58
+mtobeiyf/audio-classification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/nn.py,.fit(,39
+mtobeiyf/audio-classification,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/mtobeiyf/audio-classification/nn.py,.fit(,39

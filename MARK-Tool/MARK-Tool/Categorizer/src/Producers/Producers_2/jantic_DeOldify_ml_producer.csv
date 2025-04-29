@@ -1,0 +1,87 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,217
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,244
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,298
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,352
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,457
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit_one_cycle(,513
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.ipynb,.fit(,611
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,205
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,223
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,257
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,291
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,325
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,387
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit_one_cycle(,425
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.py,.fit(,489
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.ipynb,.fit_one_cycle(,228
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.ipynb,.fit_one_cycle(,373
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.ipynb,.fit(,471
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,306
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,333
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,387
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,441
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,495
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,600
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit_one_cycle(,656
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStableLargeBatch.ipynb,.fit(,754
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,271
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,289
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,332
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,375
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,465
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,500
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit_one_cycle(,559
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.py,.fit(,602
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,217
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,244
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,298
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,352
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,457
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit_one_cycle(,513
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.ipynb,.fit(,611
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,148
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,166
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,200
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,234
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,296
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit_one_cycle(,334
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingArtistic.py,.fit(,398
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,148
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,166
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,200
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,234
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,296
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit_one_cycle(,334
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingStable.py,.fit(,398
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.py,.fit_one_cycle(,158
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.py,.fit_one_cycle(,247
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingVideo.py,.fit(,311
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,360
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,387
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,450
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,513
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,652
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,702
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit_one_cycle(,775
+jantic/DeOldify,Yes,fastai,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/ColorizeTrainingWandb.ipynb,.fit(,818
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/torch_core.py,def forward(,156
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/xresnet2.py,def forward(,28
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/xresnet2.py,def forward(,62
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/xresnet2.py,def forward(,131
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/presnet.py,def forward(,42
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/presnet.py,def forward(,60
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/presnet.py,def forward(,101
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/xresnet.py,def forward(,13
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/vision/models/xresnet.py,def forward(,47
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,def forward(,21
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,.backward(,40
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,def forward(,46
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,.backward(,65
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,def forward(,100
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fastai/text/models/qrnn.py,def forward(,154
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fid/inception.py,def forward(,130
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fid/inception.py,def forward(,197
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fid/inception.py,def forward(,224
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fid/inception.py,def forward(,254
+jantic/DeOldify,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/jantic/DeOldify/fid/inception.py,def forward(,289

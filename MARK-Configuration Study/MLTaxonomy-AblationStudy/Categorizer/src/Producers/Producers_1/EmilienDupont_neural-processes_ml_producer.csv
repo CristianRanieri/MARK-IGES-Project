@@ -1,0 +1,14 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/training.py,.backward(,94
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/example-1d.py,.train(,100
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/example-1d.ipynb,.train(,352
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/neural_process.py,def forward(,80
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/neural_process.py, forward(,80
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/neural_process.py,def forward(,168
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/neural_process.py, forward(,168
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py,def forward(,39
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py, forward(,39
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py,def forward(,74
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py, forward(,74
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py,def forward(,125
+EmilienDupont/neural-processes,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/EmilienDupont/neural-processes/models.py, forward(,125

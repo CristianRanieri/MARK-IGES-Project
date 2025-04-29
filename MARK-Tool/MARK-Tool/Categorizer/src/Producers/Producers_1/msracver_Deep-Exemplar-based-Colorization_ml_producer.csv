@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+msracver/Deep-Exemplar-based-Colorization,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/similarity_subnet/examples/brewing-logreg.py,.fit(,59
+msracver/Deep-Exemplar-based-Colorization,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/similarity_subnet/examples/brewing-logreg.ipynb,.fit(,116
+msracver/Deep-Exemplar-based-Colorization,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/colorization_subnet/models/ExampleColorNet.py,def forward(,58
+msracver/Deep-Exemplar-based-Colorization,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/colorization_subnet/models/ExampleColorNet.py, forward(,58

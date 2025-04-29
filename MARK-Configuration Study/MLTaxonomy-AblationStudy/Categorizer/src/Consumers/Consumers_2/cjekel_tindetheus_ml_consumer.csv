@@ -1,0 +1,10 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tindetheus.py,.predict(,116
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tindetheus.py,.predict(,116
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tindetheus.py,.predict(,116
+cjekel/tindetheus,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/machine_learning.py,.predict(,118
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tinder_client.py,.predict(,243
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tinder_client.py,.predict(,243
+cjekel/tindetheus,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/tinder_client.py,.predict(,243
+cjekel/tindetheus,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/facenet_clone/classifier.py,.predict_proba(,114
+cjekel/tindetheus,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cjekel/tindetheus/tindetheus/facenet_clone/classifier.py,predict_proba(,114

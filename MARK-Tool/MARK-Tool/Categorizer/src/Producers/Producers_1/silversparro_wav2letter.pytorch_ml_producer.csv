@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py,def forward(,26
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py, forward(,26
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py,def forward(,70
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py, forward(,70
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py,def forward(,85
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py, forward(,85
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py,def forward(,140
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py, forward(,140
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py,def forward(,222
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/model.py, forward(,222
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/train.py,.train(,347
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/train.py,.backward(,386
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/train.py,.backward(,389
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/data/distributed.py,def forward(,63
+silversparro/wav2letter.pytorch,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/silversparro/wav2letter.pytorch/data/distributed.py, forward(,63

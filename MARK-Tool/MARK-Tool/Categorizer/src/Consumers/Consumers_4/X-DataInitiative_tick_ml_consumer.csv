@@ -1,0 +1,11 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/tick/linear_model/linear_regression.py,.predict(,147
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/tick/linear_model/linear_regression.py,.predict(,150
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_tick_vs_scikit.py,.predict_proba(,49
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_tick_vs_scikit.py,predict_proba(,49
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_tick_vs_scikit.py,.predict_proba(,50
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_tick_vs_scikit.py,predict_proba(,50
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_2d_linear_regression.py,.predict(,52
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_2d_linear_regression.py,.predict(,81
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_adult.py,.predict_proba(,22
+X-DataInitiative/tick,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/X-DataInitiative/tick/examples/plot_logistic_adult.py,predict_proba(,22

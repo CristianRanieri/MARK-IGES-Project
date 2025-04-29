@@ -1,0 +1,34 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/competition/Genesis_nnUNet.py,.train(,110
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/competition/Genesis_nnUNet.py,.backward(,125
+MrGiovanni/ModelsGenesis,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/Genesis_Chest_CT.py,.fit_generator,112
+MrGiovanni/ModelsGenesis,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/Genesis_Chest_CT.py,.fit_generator,112
+MrGiovanni/ModelsGenesis,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/Genesis_Chest_CT.py,.fit_generator,112
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,598
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,fit(,598
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,598
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,598
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,1222
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,fit(,1222
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,1222
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/lung nodule segmentation.ipynb,.fit(,1222
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/.ipynb_checkpoints/lung nodule segmentation-checkpoint.ipynb,.fit(,130
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/.ipynb_checkpoints/lung nodule segmentation-checkpoint.ipynb,fit(,130
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/.ipynb_checkpoints/lung nodule segmentation-checkpoint.ipynb,.fit(,130
+MrGiovanni/ModelsGenesis,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/keras/downstream_tasks/.ipynb_checkpoints/lung nodule segmentation-checkpoint.ipynb,.fit(,130
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,13
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,13
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,35
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,35
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,58
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,58
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,74
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,74
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,90
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,90
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,104
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,104
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py,def forward(,124
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/unet3d.py, forward(,124
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/Genesis_Chest_CT.py,.train(,90
+MrGiovanni/ModelsGenesis,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/MrGiovanni/ModelsGenesis/pytorch/Genesis_Chest_CT.py,.backward(,98

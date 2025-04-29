@@ -1,0 +1,16 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/training/self_clense.py,.predict(,33
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/training/self_clense.py,.predict(,33
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/training/visuals.py,.predict(,75
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/training/visuals.py,.predict(,75
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/nsfw_detector/keras_predict.py,.predict(,62
+GantMan/nsfw_model,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/tf1/nsfw_detector/keras_predict.py,.predict(,97
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,64
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,64
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,64
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,75
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,75
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,75
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,77
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,77
+GantMan/nsfw_model,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/GantMan/nsfw_model/nsfw_detector/predict.py,.predict(,77

@@ -1,0 +1,22 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/train.py,def forward(,36
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/train.py,def forward(,68
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/train.py,.backward(,117
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/train.py,.backward(,131
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/prediction.py,.backward(,105
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,59
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,83
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,103
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,122
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,147
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,181
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/util.py,def forward(,202
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/generator.py,def forward(,60
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/keypoint_detector.py,def forward(,97
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/discriminator.py,def forward(,24
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/discriminator.py,def forward(,64
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/dense_motion_module.py,def forward(,42
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/dense_motion_module.py,def forward(,80
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/movement_embedding.py,def forward(,42
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/modules/prediction_module.py,def forward(,26
+AliaksandrSiarohin/monkey-net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AliaksandrSiarohin/monkey-net/sync_batchnorm/batchnorm.py,def forward(,48

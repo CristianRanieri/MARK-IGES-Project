@@ -1,0 +1,61 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_lstm.py,def train_step(,100
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_lstm.py,train_step(,100
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_lstm.py,train_step(,193
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist_beginner.py,.fit(,102
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist_beginner.py,fit(,102
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist_beginner.py,.fit(,102
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist_beginner.py,.fit(,102
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/transformer.py,def train_step(,253
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/transformer.py,train_step(,253
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/transformer.py,train_step(,373
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist.py,def train_step(,29
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist.py,train_step(,29
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist.py,train_step(,85
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist.py,def train_step(,141
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist.py,train_step(,141
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet50_fashion_mnist.py,train_step(,199
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vgg16_mnist.py,def train_step(,119
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vgg16_mnist.py,train_step(,119
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vgg16_mnist.py,train_step(,176
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_attention.py,def train_step(,96
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_attention.py,train_step(,96
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/encoder_decoder_attention.py,train_step(,189
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vae_fashion_mnist.py,def train_step(,100
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vae_fashion_mnist.py,train_step(,100
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/vae_fashion_mnist.py,train_step(,146
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist_beginner.py,.fit(,43
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist_beginner.py,fit(,43
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist_beginner.py,.fit(,43
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist_beginner.py,.fit(,43
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist.py,def train_step(,44
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist.py,train_step(,44
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/lenet_mnist.py,train_step(,100
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist_beginner.py,.fit(,34
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist_beginner.py,fit(,34
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist_beginner.py,.fit(,34
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist_beginner.py,.fit(,34
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/dqn_cartpole.py,def train_step(,120
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/dqn_cartpole.py,train_step(,120
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/dqn_cartpole.py,train_step(,207
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist.py,def train_step(,113
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist.py,train_step(,113
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist.py,train_step(,171
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist_beginner.py,.fit(,35
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist_beginner.py,fit(,35
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist_beginner.py,.fit(,35
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/mlp_mnist_beginner.py,.fit(,35
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist.py,def train_step(,27
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist.py,train_step(,27
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/logistic_regression_mnist.py,train_step(,83
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/densenet121_cifar10_beginner.py,.fit(,97
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/densenet121_cifar10_beginner.py,fit(,97
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/densenet121_cifar10_beginner.py,.fit(,97
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/densenet121_cifar10_beginner.py,.fit(,97
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist_beginner.py,.fit(,84
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist_beginner.py,fit(,84
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist_beginner.py,.fit(,84
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/resnet34_fashion_mnist_beginner.py,.fit(,84
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/gan_fashion_mnist.py,def train_step(,117
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/gan_fashion_mnist.py,train_step(,117
+yusugomori/deeplearning-tf2,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yusugomori/deeplearning-tf2/models/gan_fashion_mnist.py,train_step(,200

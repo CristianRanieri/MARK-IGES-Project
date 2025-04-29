@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/demo.py,.no_grad(,95
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/process.py,.no_grad(,95
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/trainer.py,.no_grad(,113
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/line_vectorizer.py,.no_grad(,153

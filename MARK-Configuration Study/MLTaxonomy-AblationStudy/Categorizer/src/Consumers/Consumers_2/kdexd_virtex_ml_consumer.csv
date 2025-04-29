@@ -1,0 +1,11 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/clf_voc07.py,.no_grad(,178
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/scripts/eval_captioning.py,.no_grad(,77
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.no_grad(,125
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.forward(,126
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.no_grad(,159
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/classification.py,.forward(,160
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/masked_lm.py,.no_grad(,93
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/masked_lm.py,.forward(,94
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/captioning.py,.no_grad(,220
+kdexd/virtex,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kdexd/virtex/virtex/models/captioning.py,.forward(,221

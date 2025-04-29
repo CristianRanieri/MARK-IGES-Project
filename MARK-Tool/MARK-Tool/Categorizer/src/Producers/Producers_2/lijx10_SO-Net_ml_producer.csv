@@ -1,0 +1,33 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/losses.py,def forward(,35
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/losses.py,def forward(,237
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,def forward(,62
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,.train(,76
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,.train(,77
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,.backward(,100
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,43
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,111
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,218
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,259
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,362
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,388
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,418
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/networks.py,def forward(,442
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,18
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,60
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,111
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,156
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,202
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,236
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,282
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,313
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,384
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/layers.py,def forward(,419
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,def forward(,74
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,.train(,88
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,.train(,89
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,.backward(,96
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,def forward(,79
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,.train(,112
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,.train(,113
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,.backward(,120

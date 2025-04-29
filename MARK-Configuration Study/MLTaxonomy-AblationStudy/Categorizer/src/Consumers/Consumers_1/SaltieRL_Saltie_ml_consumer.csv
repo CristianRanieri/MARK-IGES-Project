@@ -1,0 +1,19 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/levitate/levitate_agent.py,.no_grad(,53
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/levitate/levitate_agent.py,.forward(,54
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/torch_model/torch_model.py,.no_grad(,92
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/torch_model/torch_model.py,.forward(,93
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/levi/levi_agent.py,.no_grad(,80
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/levi/levi_agent.py,.forward(,81
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/self_evolving_car/train.py,.no_grad(,78
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/agents/self_evolving_car/train.py,.forward(,79
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/example_sequential_keras_model.py,.predict(,79
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/example_sequential_keras_model.py,.predict(,79
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/example_sequential_keras_model.py,.predict(,79
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/base_keras_model.py,.predict(,97
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/base_keras_model.py,.predict(,97
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/base_keras_model.py,.predict(,97
+SaltieRL/Saltie,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/levi/torch_manager.py,.forward(,67
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/lstm/example_lstm_model.py,.predict(,37
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/lstm/example_lstm_model.py,.predict(,37
+SaltieRL/Saltie,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/SaltieRL/Saltie/examples/lstm/example_lstm_model.py,.predict(,37

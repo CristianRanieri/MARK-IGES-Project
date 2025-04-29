@@ -1,0 +1,3 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+msracver/Deep-Exemplar-based-Colorization,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/similarity_subnet/examples/brewing-logreg.py,.predict(,59
+msracver/Deep-Exemplar-based-Colorization,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/msracver/Deep-Exemplar-based-Colorization/similarity_subnet/examples/brewing-logreg.ipynb,.predict(,117

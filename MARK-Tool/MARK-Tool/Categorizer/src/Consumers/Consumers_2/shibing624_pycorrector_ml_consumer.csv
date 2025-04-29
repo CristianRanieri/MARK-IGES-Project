@@ -1,0 +1,14 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/seq2seq/conv_seq2seq_model.py,.no_grad(,466
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/t5/t5_corrector.py,.no_grad(,41
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/mucgec_bart/monkey_pack.py,.no_grad(,24
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/mucgec_bart/monkey_pack.py,.forward(,28
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/mucgec_bart/monkey_pack.py,.forward(,32
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/macbert/base_model.py,.forward(,127
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/macbert/base_model.py,.forward(,134
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/macbert/base_model.py,.no_grad(,182
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/macbert/base_model.py,.forward(,183
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/macbert/macbert_corrector.py,.no_grad(,46
+shibing624/pycorrector,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/pycorrector/deepcontext/deepcontext_utils.py,.forward(,233
+shibing624/pycorrector,Yes,transformers,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/examples/macbert/predict_ckpt.py,.predict(,61
+shibing624/pycorrector,Yes,transformers,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/shibing624/pycorrector/examples/macbert/predict_ckpt.py,.predict(,83

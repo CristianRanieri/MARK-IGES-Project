@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.get_optimizer(,30
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.get_optimizer(,31
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.update(,80
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.update(,88
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.update(,112
+wuhuikai/GP-GAN,Yes,chainer,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/wuhuikai/GP-GAN/updater.py,.update(,120

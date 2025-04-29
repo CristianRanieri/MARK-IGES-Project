@@ -1,0 +1,20 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/model_fn.py,.train.,89
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/model_fn.py,.train.,90
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/__main__.py,.train.,99
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/__main__.py,.train.,112
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/__main__.py,.train.,125
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_residual_block.py,fit(,53
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/batch_norm.py,training=True,86
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_value_head.py,fit(,59
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,.fit(,40
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,fit(,40
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,.fit(,40
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,.fit(,55
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,fit(,55
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,.fit(,55
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,fit(,64
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,.train.,65
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_common.py,fit(,91
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/layers/test_policy_head.py,fit(,65
+Chicoryn/dream-go,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/Chicoryn/dream-go/contrib/trainer/dream_tf/hooks/learning_rate.py,.train.,52

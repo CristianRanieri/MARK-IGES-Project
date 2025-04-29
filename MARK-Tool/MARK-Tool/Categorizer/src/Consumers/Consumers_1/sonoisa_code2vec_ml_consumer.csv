@@ -1,0 +1,8 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.forward(,172
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.no_grad(,270
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.forward(,282
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.no_grad(,365
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.forward(,372
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.no_grad(,396
+sonoisa/code2vec,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/sonoisa/code2vec/main.py,.forward(,410

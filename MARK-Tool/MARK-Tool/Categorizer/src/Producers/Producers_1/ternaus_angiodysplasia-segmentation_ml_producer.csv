@@ -1,0 +1,20 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/train.py,.train(,106
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/utils.py,.train(,58
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/utils.py,.backward(,72
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,18
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,18
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,43
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,43
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,99
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,99
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,177
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,177
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,208
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,208
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,222
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,222
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,270
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,270
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py,def forward(,339
+ternaus/angiodysplasia-segmentation,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/ternaus/angiodysplasia-segmentation/models.py, forward(,339

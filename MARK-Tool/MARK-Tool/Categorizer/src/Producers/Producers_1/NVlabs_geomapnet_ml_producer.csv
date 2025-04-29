@@ -1,0 +1,19 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/scripts/plot_activations.py,.backward(,121
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/train.py,.train(,271
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/train.py,.backward(,356
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/train.py,.backward(,420
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py,def forward(,23
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py, forward(,23
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py,def forward(,42
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py, forward(,42
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py,def forward(,76
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py, forward(,76
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py,def forward(,137
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/common/criterion.py, forward(,137
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/vidloc.py,def forward(,73
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/vidloc.py, forward(,73
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/posenet.py,def forward(,65
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/posenet.py, forward(,65
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/posenet.py,def forward(,87
+NVlabs/geomapnet,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/NVlabs/geomapnet/models/posenet.py, forward(,87

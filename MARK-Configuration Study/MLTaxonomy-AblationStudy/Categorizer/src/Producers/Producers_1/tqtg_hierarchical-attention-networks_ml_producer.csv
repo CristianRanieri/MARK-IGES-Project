@@ -1,0 +1,5 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+tqtg/hierarchical-attention-networks,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tqtg/hierarchical-attention-networks/train.py,.train.,80
+tqtg/hierarchical-attention-networks,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tqtg/hierarchical-attention-networks/train.py,.train.,81
+tqtg/hierarchical-attention-networks,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tqtg/hierarchical-attention-networks/train.py,.train.,125
+tqtg/hierarchical-attention-networks,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/tqtg/hierarchical-attention-networks/train.py,training=True,143

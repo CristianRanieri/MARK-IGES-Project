@@ -1,0 +1,13 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/Models.py,.forward(,87
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/Models.py,.forward(,139
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/AudioEncoder.py,.forward(,49
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/ImageEncoder.py,.forward(,53
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/StructuredAttention.py,.forward(,48
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/Transformer.py,.forward(,114
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/Transformer.py,.forward(,280
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/Conv2Conv.py,.forward(,76
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/modules/Conv2Conv.py,.forward(,136
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/translate/Translator.py,.forward(,382
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/translate/Translator.py,.forward(,387
+yuewang-cuhk/HashtagGeneration,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/yuewang-cuhk/HashtagGeneration/onmt/translate/Translator.py,.forward(,469

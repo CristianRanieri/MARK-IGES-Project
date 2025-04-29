@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,where,keyword,line_number,libraries,keywords
+minisom-master/examples,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\minisom-master\examples\FeatureSelection.ipynb,,161,sklearn,.fit(
+minisom-master/examples,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\minisom-master\examples\MovieCovers.ipynb,,65,sklearn,.fit_transform(
+minisom-master/examples,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\minisom-master\examples\TopicModeling.ipynb,,47,sklearn,.fit_transform(
+MixMatch-pytorch-master/models,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,,23,torch,def forward(
+MixMatch-pytorch-master/models,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,,43,torch,def forward(
+MixMatch-pytorch-master/models,Yes,C:/Users/174907/Desktop/IGES-Project/MARK_New_Replication_Package/ML-Projects-input\MixMatch-pytorch-master\models\wideresnet.py,,79,torch,def forward(

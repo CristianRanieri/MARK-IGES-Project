@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train_ca.py,.train.,78
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train_ca.py,.train.,173
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train_ca.py,.train.,176
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train_ca.py,.train.,330
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train CA demo.ipynb,.train.,179
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /train CA demo.ipynb,.train.,276
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/resources/tf_v1_version /utils.py,fit(,88
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.ipynb,.fit(,151
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.ipynb,fit(,151
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.ipynb,.fit(,151
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.ipynb,.fit(,151
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.py,.fit(,80
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.py,fit(,80
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.py,.fit(,80
+williamgilpin/convoca,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/williamgilpin/convoca/demos/demos.py,.fit(,80

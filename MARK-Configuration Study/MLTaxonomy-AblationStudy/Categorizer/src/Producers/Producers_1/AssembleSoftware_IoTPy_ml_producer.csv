@@ -1,0 +1,21 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalPCA.ipynb,.partial_fit(,148
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalPCA.ipynb,.partial_fit(,199
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalKmeans.ipynb,.fit(,153
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalPCA.py,.partial_fit(,79
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalPCA.py,.partial_fit(,116
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/ExamplesOfIncrementalKmeans.py,.fit(,114
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/PCA/window_incremental.py,.partial_fit(,47
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/PCA/window_incremental.py,.partial_fit(,77
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/K_Means/kmeans_stream.py,.fit(,55
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.py,.fit_transform(,93
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.py,.fit(,101
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.py,.fit(,125
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.py,.fit(,152
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.py,.fit(,171
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/train.py,.fit(,37
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.ipynb,.fit_transform(,154
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.ipynb,.fit(,162
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.ipynb,.fit(,194
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.ipynb,.fit(,229
+AssembleSoftware/IoTPy,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/AssembleSoftware/IoTPy/examples/door-detection-anish/ML/ml_testing.ipynb,.fit(,256

@@ -1,0 +1,18 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/MicroExpNet.py,.train.,42
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/exampleUsage.py,.train.,93
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/exampleUsage.py,.train.,106
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/trainCandidates.py,.train.,133
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/trainCandidates.py,.train.,134
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_v.py,.train.,31
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_v.py,.train.,32
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_v.py,.train.,33
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p12.py,.train.,31
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p12.py,.train.,32
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p12.py,.train.,33
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p1.py,.train.,31
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p1.py,.train.,32
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p1.py,.train.,33
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p2.py,.train.,31
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p2.py,.train.,32
+cuguilke/microexpnet,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/cuguilke/microexpnet/Candidates/CandidateExpNet_p2.py,.train.,33

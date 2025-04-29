@@ -1,0 +1,24 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,training=True,22
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,27
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,28
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,30
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,34
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,45
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,47
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,54
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,56
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,58
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,def train_step(,81
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,train_step(,81
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,training=True,83
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,105
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,.train.,107
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,training=True,122
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/train.py,train_step(,153
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,22
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,25
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,28
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,30
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,32
+hunglc007/tensorflow-yolov4-tflite,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/hunglc007/tensorflow-yolov4-tflite/core/dataset.py,.train.,86

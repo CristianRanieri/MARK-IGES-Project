@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/localgraphclustering/find_clusters.py,.fit(,232
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/localgraphclustering/find_clusters.py,.fit(,415
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/localgraphclustering/find_clusters.py,.fit(,818
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,120
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,122
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,281
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,283
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,353
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.py,.fit(,355
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,183
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,185
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,432
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,434
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,562
+kfoynt/LocalGraphClustering,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kfoynt/LocalGraphClustering/notebooks/test_remove.ipynb,.fit(,564

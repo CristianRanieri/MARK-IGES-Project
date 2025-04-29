@@ -1,0 +1,8 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/losses.py,.forward(,294
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,.forward(,78
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/autoencoder.py,.forward(,108
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,.forward(,90
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/classifier.py,.forward(,104
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,.forward(,114
+lijx10/SO-Net,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/lijx10/SO-Net/models/segmenter.py,.forward(,128

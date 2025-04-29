@@ -1,0 +1,11 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/trainer.py,.train(,161
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/trainer.py,.train(,164
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/trainer.py,.backward(,183
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/line_vectorizer.py,def forward(,45
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/line_vectorizer.py,def forward(,271
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/hourglass_pose.py,def forward(,30
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/hourglass_pose.py,def forward(,91
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/hourglass_pose.py,def forward(,162
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/multitask_learner.py,def forward(,28
+zhou13/lcnn,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/zhou13/lcnn/lcnn/models/multitask_learner.py,def forward(,40

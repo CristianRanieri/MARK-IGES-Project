@@ -1,0 +1,4 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+muneebaadil/line-detection-using-cnns,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/muneebaadil/line-detection-using-cnns/src/utils.py,.predict(,34
+muneebaadil/line-detection-using-cnns,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/muneebaadil/line-detection-using-cnns/src/test.py,.predict(,35
+muneebaadil/line-detection-using-cnns,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/muneebaadil/line-detection-using-cnns/src/test.py,.predict(,35

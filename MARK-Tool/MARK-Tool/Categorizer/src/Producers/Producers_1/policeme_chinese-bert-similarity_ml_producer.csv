@@ -1,0 +1,14 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,337
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,346
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,486
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,487
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,491
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,509
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,.train.,510
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/train.py,training=True,700
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/bert/optimization.py,.train.,26
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/bert/optimization.py,.train.,31
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/bert/optimization.py,.train.,83
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/bert/modeling.py,training=True,119
+policeme/chinese-bert-similarity,Yes,tensorflow,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/policeme/chinese-bert-similarity/bert/modeling.py,.train.,332

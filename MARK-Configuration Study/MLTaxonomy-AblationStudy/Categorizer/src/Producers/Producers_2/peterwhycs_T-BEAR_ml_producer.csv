@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+peterwhycs/T-BEAR,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/helpers.py,.fit(,48
+peterwhycs/T-BEAR,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/helpers.py,.fit(,48
+peterwhycs/T-BEAR,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/helpers.py,.fit(,78
+peterwhycs/T-BEAR,Yes,keras,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/helpers.py,.fit(,78
+peterwhycs/T-BEAR,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/utils.py,.fit_transform(,36
+peterwhycs/T-BEAR,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/utils.py,.fit_transform(,42
+peterwhycs/T-BEAR,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/utils.py,.fit(,47
+peterwhycs/T-BEAR,Yes,sklearn,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/peterwhycs/T-BEAR/tbear/utils.py,.fit_transform(,57

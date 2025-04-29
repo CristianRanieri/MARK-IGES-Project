@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/model.py,def forward(,23
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/model.py,def forward(,47
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/model.py,.backward(,63
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/model.py,def forward(,130
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/model.py,def forward(,224
+kimhc6028/relational-networks,Yes,torch,/home/vincenzo/github/MLTaxonomy-AblationStudy/Categorizer/src/../../repos/repos2/kimhc6028/relational-networks/main.py,.train(,90
