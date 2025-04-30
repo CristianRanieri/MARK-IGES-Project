@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 
+# dato il nome del file .py legge tutte le parole dopo import e ne restituisce una lista
+# per qualeche motivo è utilizzata in consumer(CREDO SIA UN REFUSO TODO)
 def get_libraries(file):
     libraries = []
     try:
@@ -28,7 +30,9 @@ def get_libraries(file):
                 libraries.append(line.split(' ')[1])
     return libraries
 
-
+# dato un file .py e un dizionario(insieme delle librerire utilizzate dai producer o dai consumer) restiruisce una lista delle
+#librerie trovate che apprtengono al dizionario.
+# funzione utilizzata in producer_classifier_by_dic ma non in consumer(DA CAPIRE TODO).
 def check_ml_library_usage(file, library_dict):
     file_libraries = get_libraries(file)
     for i in range(len(file_libraries)):

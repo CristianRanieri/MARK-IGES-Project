@@ -1,5 +1,10 @@
 import os
 
+#----------------------------------------------------------------------------------------------------------------------------
+#TODO script mai utilizzato, ci sono gli import in consumer e producer ma non vengono mai utilizzati.
+#TODO probabilmente un refuso, da chiedere.
+#----------------------------------------------------------------------------------------------------------------------------
+
 
 def convert_notebook_to_code( file):
     os.system(f"jupyter nbconvert --to script {file}")
@@ -11,7 +16,6 @@ def convert_and_check_notebook(file):
     if os.path.exists(file_py):
         return True
     return False
-
 
 def convert_all_notebooks(folder_path):
     if not os.path.isdir(folder_path):
@@ -32,7 +36,7 @@ def convert_all_notebooks(folder_path):
     return converted_files
 
 if __name__ == "__main__":
-    folder_path = "../../../repos/repos/"
+    folder_path = "../../../repos/repos2/"
 
     try:
         converted_files = convert_all_notebooks(folder_path)

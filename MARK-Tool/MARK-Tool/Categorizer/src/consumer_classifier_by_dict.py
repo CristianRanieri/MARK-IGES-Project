@@ -6,6 +6,7 @@ import warnings
 from components.static_analysis.library_extractor import check_ml_library_usage, get_libraries
 from components.notebook_converter import convert_and_check_notebook
 import logging
+
 logging.basicConfig(level = logging.DEBUG)
 class MLConsumerAnalyzer:
     def __init__(self, output_folder="Consumers/"):
@@ -14,6 +15,8 @@ class MLConsumerAnalyzer:
             os.makedirs(output_folder)
         self.init_consumer_analysis_folder()
 
+    # TODO
+    # non capisco perchè è stata reimplementata, in producer si utilizza direttamente quella implementata in library_exstractor.py
     def check_ml_library_usage(self,file, library_dict):
         file_libraries = get_libraries(file)
         for i in range(len(file_libraries)):

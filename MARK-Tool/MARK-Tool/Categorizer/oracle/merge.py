@@ -1,8 +1,9 @@
 # create a python function that reads two cvs and with the same project name and join them in a new csv
 import os.path
-
 import pandas as pd
 
+
+# script che calcola diverse metriche: Accuracy, F-measure, Precisione e Recall(START)
 
 def get_false_positives(df, column_name):
     return df[(df[f'Is_Real_ML_{column_name}'] == 'No') & (df[f'Is_ML_{column_name}'] == 'Yes')]
@@ -39,7 +40,11 @@ def calc_performance_metrics(df, column_name):
     accuracy = (tp + tn) / (tp + tn + fp + fn)
     return precision, recall, f1, accuracy
 
+# script che calcola diverse metriche: Accuracy, F-measure, Precisione e Recall(END)
 
+
+# effettuo un unione di due csv(df_oracle e df_produced), e tutte le celle della colonna 'Is_ML_' vuote vengono riempite con 'No'
+# salva un file con il segunti possibili nomi: producer_verification.csv o consumer_verification.csv
 def join(column_name, df_oracle, df_produced):
     df_oracle = pd.read_csv(df_oracle)
     df_produced = pd.read_csv(df_produced)
@@ -55,7 +60,10 @@ def join(column_name, df_oracle, df_produced):
     df_joint.to_csv(f'verifying/{column_name}_verification.csv', index=False)
     return df_joint
 
-
+# unisce i dataset due csv(df_oracle e df_produced).
+# calcola le metriche di performance(precision, recall, F1, accuracy).
+# salva i falsi positivi e i falsi negativi in file separati (false_positives.csv e false_negatives.csv).
+# stampa le metriche di performance a console.
 def reporting(oracle_name, column_name, base_output_path="../src/Producers/",
               analysis_path="Producers_2/results_first_step.csv"):
     df_joint = join(column_name, oracle_name, os.path.join(base_output_path, analysis_path))
@@ -69,6 +77,7 @@ def reporting(oracle_name, column_name, base_output_path="../src/Producers/",
     print(f"Precision: {precision}, Recall: {recall}, F1: {f1}, Accuracy: {accuracy}")
 
 
+# non è stato creato un main(DA CAPIRE)
 base_output_path = "../src/Producers/"
 analysis_path = "Producers_2/results_first_step.csv"
 

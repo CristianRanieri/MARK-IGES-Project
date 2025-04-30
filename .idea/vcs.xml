@@ -2,13 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MARK-Tool/MARK-Tool/repos/repos2/10up/classifai" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MARK-Tool/MARK-Tool/repos/repos2/2knal/Honesty" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MARK-Tool/MARK-Tool/repos/repos2/5hirish/adam_qas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MARK-Tool/MARK-Tool/repos/repos2/921kiyo/3d-dl" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ML-Projects-input/repos2/10up/classifai" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ML-Projects-input/repos2/2knal/Honesty" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ML-Projects-input/repos2/5hirish/adam_qas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ML-Projects-input/repos2/921kiyo/3d-dl" vcs="Git" />
   </component>
 </project>
