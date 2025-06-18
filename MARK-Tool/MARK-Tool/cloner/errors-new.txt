@@ -1,0 +1,28 @@
+scaricati a mano, non è un problema dato che ho eliminato solo delle immagini le quali non vengono utilizzate dall'algoritmo.
+
+non valide in W, scaricati a mano:
+akanimax/BMSG-GAN
+asif536/Movie-Recommender-System
+dumyy/handpose
+justachetan/img2latex
+williamgilpin/convoca
+
+il readme finisce con un punto, scaricato a mano:
+isht7/pytorch-deeplab-resnet
+
+
+
+path troppo lungi per W, non scaricati:
+jaakkopasanen/AutoEq
+NCBI-Hackathons/Semantic-search-log-analysis-pipeline
+
+caratteri non validi nell unicode di W, non scaricato:
+Yogayu/weibo-summary
+
+repository non piu esistente, non scaricati:
+myke11j/movie-recommender
+Stick-To/PFPNet-tensorflow
+
+repsitory read-only, non scaricato:
+Jimut123/wisp
+
