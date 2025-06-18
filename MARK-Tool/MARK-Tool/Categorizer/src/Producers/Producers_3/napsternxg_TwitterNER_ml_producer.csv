@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\CRFSuite.ipynb,.fit(,502
+napsternxg/TwitterNER,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\KerasCharRNN.ipynb,.fit(,356
+napsternxg/TwitterNER,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\KerasCharRNN.ipynb,.fit(,356
+napsternxg/TwitterNER,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\KerasWordRNN.ipynb,.fit(,404
+napsternxg/TwitterNER,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\KerasWordRNN.ipynb,.fit(,404
+napsternxg/TwitterNER,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Tensorflow RNN.ipynb,.train.,103
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Word2Vec.ipynb,.fit(,1042
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Word2Vec.ipynb,.fit_predict(,1053
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Word2Vec.ipynb,.fit_transform(,1506
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Word2Vec.ipynb,.fit(,1642
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\Word2Vec.ipynb,.fit(,2178
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\NoisyNLP\features.py,.fit_predict(,178
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\NoisyNLP\features.py,.fit(,354
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\NoisyNLP\features.py,.fit(,372
+napsternxg/TwitterNER,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\napsternxg\TwitterNER\NoisyNLP\models.py,.fit(,45

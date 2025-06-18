@@ -1,0 +1,14 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,55
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,58
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,62
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,67
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,69
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\adnc\model\optimizer.py,.train.,71
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\inference_babi_task.py,.train.,86
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\inference_cnn_task.py,.train.,80
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\plot_function_babi_task.py,.train.,85
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\start_training.py,.train.,85
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\start_training.py,.train.,111
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\start_training.py,.train.,116
+JoergFranke/ADNC,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\JoergFranke\ADNC\scripts\start_training.py,.train.,117

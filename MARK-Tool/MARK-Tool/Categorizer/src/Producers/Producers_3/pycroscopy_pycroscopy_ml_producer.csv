@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\jupyter_notebooks\PycroscopyDenosingAutoencoder.ipynb,.fit(,473
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\image\image_atoms.py,.fit(,99
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\models.py,def forward(,225
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\models.py,def forward(,360
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\nnblocks.py,def forward(,97
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\nnblocks.py,def forward(,159
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\nnblocks.py,def forward(,177
+pycroscopy/pycroscopy,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\dl\nnblocks.py,def forward(,191
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\ml\matrix_factor.py,.fit_transform(,80
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\ml\matrix_factor.py,.fit_transform(,84
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\ml\matrix_factor.py,.fit_transform(,88
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\ml\matrix_factor.py,.fit(,92
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\learn\ml\matrix_factor.py,.fit_transform(,93
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\stats\atom_stats.py,.fit(,177
+pycroscopy/pycroscopy,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\pycroscopy\pycroscopy\pycroscopy\stats\atom_stats.py,.fit(,384

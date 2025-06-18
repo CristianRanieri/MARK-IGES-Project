@@ -1,0 +1,45 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\train.py,.train(,262
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Loss.py,.backward(,123
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Loss.py,.backward(,276
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,56
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,86
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,138
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,225
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,420
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,703
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Models.py,def forward(,752
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Trainer.py,.train(,139
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\Trainer.py,.train(,251
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\AudioEncoder.py,def forward(,48
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Conv2Conv.py,def forward(,33
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Conv2Conv.py,def forward(,52
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Conv2Conv.py,def forward(,75
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Conv2Conv.py,def forward(,135
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\ConvMultiStepAttention.py,def forward(,36
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\CopyGenerator.py,def forward(,68
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Embeddings.py,def forward(,35
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Embeddings.py,def forward(,170
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Gate.py,def forward(,37
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Gate.py,def forward(,56
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Gate.py,def forward(,72
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Gate.py,def forward(,87
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\GlobalAttention.py,def forward(,129
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\ImageEncoder.py,def forward(,52
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\MultiHeadedAttn.py,def forward(,68
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\SRU.py,def forward(,378
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\SRU.py,def forward(,511
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\SRU.py,def forward(,604
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\StackedRNN.py,def forward(,21
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\StackedRNN.py,def forward(,50
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\StructuredAttention.py,def forward(,20
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Transformer.py,def forward(,37
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Transformer.py,def forward(,68
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Transformer.py,def forward(,113
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Transformer.py,def forward(,171
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\Transformer.py,def forward(,278
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\UtilClass.py,def forward(,12
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\UtilClass.py,def forward(,34
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\WeightNorm.py,def forward(,60
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\WeightNorm.py,def forward(,119
+yuewang-cuhk/HashtagGeneration,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuewang-cuhk\HashtagGeneration\onmt\modules\WeightNorm.py,def forward(,192

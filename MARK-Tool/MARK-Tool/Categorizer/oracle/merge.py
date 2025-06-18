@@ -43,7 +43,9 @@ def calc_performance_metrics(df, column_name):
 # script che calcola diverse metriche: Accuracy, F-measure, Precisione e Recall(END)
 
 
-# effettuo un unione di due csv(df_oracle e df_produced), e tutte le celle della colonna 'Is_ML_' vuote vengono riempite con 'No'
+# effettua un unione di due csv(df_oracle e df_produced)
+# cambia il nome della colonna Is ML X in Is_ML_X
+# tutte le celle della colonna 'Is_ML_X' vuote(Nan) vengono riempite con 'No'
 # salva un file con il segunti possibili nomi: producer_verification.csv o consumer_verification.csv
 def join(column_name, df_oracle, df_produced):
     df_oracle = pd.read_csv(df_oracle)
@@ -79,14 +81,15 @@ def reporting(oracle_name, column_name, base_output_path="../src/Producers/",
 
 # non è stato creato un main(DA CAPIRE)
 base_output_path = "../src/Producers/"
-analysis_path = "Producers_2/results_first_step.csv"
-
+#analysis_path risultati dell'analisi du tutte le parole chiave di tutti i produttori in Producers_2
+analysis_path = "Producers_3/results_first_step.csv"
 column_name = 'producer'
-oracle_name = './oracle_producer.csv'
+oracle_name = './oracle_producer_new.csv'
 reporting(oracle_name, column_name, base_output_path, analysis_path)
+
 base_output_path = "../src/Consumers/"
-analysis_path = "Consumers_4/results_consumer.csv"
+analysis_path = "Consumers_6/results_consumer.csv"
 column_name = 'consumer'
-oracle_name = './oracle_consumer.csv'
+oracle_name = './oracle_consumer_new.csv'
 reporting(oracle_name, column_name, base_output_path, analysis_path)
 

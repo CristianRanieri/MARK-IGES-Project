@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\bidaf.py,def forward(,250
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\bidaf.py,def forward(,535
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\text_bidaf.py,def forward(,70
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\modules\embeddings.py,def forward(,79
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\modules\embeddings.py,def forward(,171
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\modules\embeddings.py,def forward(,252
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\modules\highway.py,def forward(,46
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\mrcqa\modules\highway.py,def forward(,88
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\scripts\train.py,.train(,51
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\scripts\train.py,.train(,140
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Q+A\Baseline\scripts\train.py,.backward(,159
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Ranking\Baselines\Duet.ipynb,def forward(,218
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Ranking\Baselines\Duet.ipynb,def forward(,268
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Ranking\Baselines\Duet.ipynb,.train(,336
+dfcf93/MSMARCO,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\dfcf93\MSMARCO\Ranking\Baselines\Duet.ipynb,.backward(,347

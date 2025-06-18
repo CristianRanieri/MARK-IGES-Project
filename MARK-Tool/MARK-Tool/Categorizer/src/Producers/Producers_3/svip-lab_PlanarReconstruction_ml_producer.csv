@@ -1,0 +1,15 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\bin_mean_shift.py,def forward(,211
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\instance_parameter_loss.py,def forward(,11
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\main.py,.train(,218
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\main.py,.backward(,308
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\match_segmentation.py,def forward(,9
+svip-lab/PlanarReconstruction,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\data_tools\convert_tfrecords.py,.train.,45
+svip-lab/PlanarReconstruction,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\data_tools\convert_tfrecords.py,.train.,55
+svip-lab/PlanarReconstruction,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\data_tools\convert_tfrecords.py,.train.,56
+svip-lab/PlanarReconstruction,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\data_tools\RecordReaderAll.py,.train.,62
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\models\baseline_same.py,def forward(,30
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\models\baseline_same.py,def forward(,98
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\models\resnet_scene.py,def forward(,44
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\models\resnet_scene.py,def forward(,79
+svip-lab/PlanarReconstruction,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\svip-lab\PlanarReconstruction\models\resnet_scene.py,def forward(,150

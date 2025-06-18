@@ -1,0 +1,13 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+instacart/lore,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,fit(,355
+instacart/lore,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,fit(,430
+instacart/lore,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,fit(,454
+instacart/lore,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,.fit(,455
+instacart/lore,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,.fit(,455
+instacart/lore,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,fit(,455
+instacart/lore,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\estimators\keras.py,.fit(,455
+instacart/lore,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\models\base.py,.fit(,89
+instacart/lore,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\models\base.py,.fit(,214
+instacart/lore,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\pipelines\holdout.py,.fit(,108
+instacart/lore,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\pipelines\holdout.py,.fit(,117
+instacart/lore,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\instacart\lore\lore\pipelines\holdout.py,.fit(,203

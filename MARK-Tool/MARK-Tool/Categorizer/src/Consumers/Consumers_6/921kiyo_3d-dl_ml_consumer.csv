@@ -1,0 +1,5 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+921kiyo/3d-dl,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\921kiyo\3d-dl\flask_webserver\flask_implementations.py,.predict(,82
+921kiyo/3d-dl,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\921kiyo\3d-dl\src\deprecated\classify.py,.predict(,53
+921kiyo/3d-dl,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\921kiyo\3d-dl\src\deprecated\flask_app.py,.predict(,87
+921kiyo/3d-dl,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\921kiyo\3d-dl\src\deprecated\flask_app.py,.predict(,163

@@ -1,0 +1,21 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\inceptionv3_transfer\train_fine_tune.py,.fit_generator(,59
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\inceptionv3_transfer\train_initialization.py,.fit_generator(,74
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\mobilenetv2_transfer\train_fine_tune.py,.fit_generator(,65
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\mobilenetv2_transfer\train_fine_tune.py,.fit_generator(,65
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\mobilenetv2_transfer\train_initialization.py,.fit_generator(,79
+GantMan/nsfw_model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\tf1\training\mobilenetv2_transfer\train_initialization.py,.fit_generator(,79
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.train.,58
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,322
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,fit(,322
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,322
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,325
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,fit(,325
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,325
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,329
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,fit(,329
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,329
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.train.,342
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,352
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,fit(,352
+GantMan/nsfw_model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GantMan\nsfw_model\training\make_nsfw_model_lib.py,.fit(,352

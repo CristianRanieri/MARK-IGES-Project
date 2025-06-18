@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\controller.py,.backward(,136
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\controller.py,.train(,191
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\models\mvcnn.py,def forward(,43
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\models\resnet.py,def forward(,39
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\models\resnet.py,def forward(,74
+RBirkeland/MVCNN-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\RBirkeland\MVCNN-PyTorch\models\resnet.py,def forward(,137

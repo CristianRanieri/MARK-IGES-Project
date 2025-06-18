@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\hopenet.py,def forward(,55
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\hopenet.py,def forward(,116
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\hopenet.py,def forward(,164
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\train_alexnet.py,.backward(,183
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\train_hopenet.py,.backward(,189
+natanielruiz/deep-head-pose,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\natanielruiz\deep-head-pose\code\train_resnet50_regression.py,.backward(,137

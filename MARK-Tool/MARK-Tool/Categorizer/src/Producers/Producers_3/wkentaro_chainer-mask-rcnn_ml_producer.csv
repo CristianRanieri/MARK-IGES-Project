@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\chainer_mask_rcnn\functions\affine_channel_2d.py,def forward(,10
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.StandardUpdater(,226
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,239
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,273
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,277
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,288
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,291
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,301
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,305
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,306
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,324
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,328
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,343
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\examples\train_common.py,.extend(,352
+wkentaro/chainer-mask-rcnn,Yes,chainer,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\wkentaro\chainer-mask-rcnn\tests\models_tests\check_mask_rcnn_train_chain.py,.update(,148

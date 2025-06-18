@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\model.py,training=True,25
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\model.py,training=True,55
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\model.py,.train.,193
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\model.py,.train.,196
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\modules.py,training=True,57
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\modules.py,training=True,163
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\pred.py,.train.,60
+policeme/transformer-pointer-generator,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\policeme\transformer-pointer-generator\pred.py,.train.,66

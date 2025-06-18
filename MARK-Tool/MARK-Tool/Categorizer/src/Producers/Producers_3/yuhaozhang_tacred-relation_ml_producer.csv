@@ -1,0 +1,6 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+yuhaozhang/tacred-relation,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuhaozhang\tacred-relation\model\layers.py,def forward(,19
+yuhaozhang/tacred-relation,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuhaozhang\tacred-relation\model\layers.py,def forward(,71
+yuhaozhang/tacred-relation,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuhaozhang\tacred-relation\model\rnn.py,.train(,36
+yuhaozhang/tacred-relation,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuhaozhang\tacred-relation\model\rnn.py,.backward(,42
+yuhaozhang/tacred-relation,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\yuhaozhang\tacred-relation\model\rnn.py,def forward(,159

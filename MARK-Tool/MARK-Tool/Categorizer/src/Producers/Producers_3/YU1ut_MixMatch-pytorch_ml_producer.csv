@@ -1,0 +1,6 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+YU1ut/MixMatch-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YU1ut\MixMatch-pytorch\train.py,.train(,200
+YU1ut/MixMatch-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YU1ut\MixMatch-pytorch\train.py,.backward(,278
+YU1ut/MixMatch-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YU1ut\MixMatch-pytorch\models\wideresnet.py,def forward(,23
+YU1ut/MixMatch-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YU1ut\MixMatch-pytorch\models\wideresnet.py,def forward(,43
+YU1ut/MixMatch-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YU1ut\MixMatch-pytorch\models\wideresnet.py,def forward(,79

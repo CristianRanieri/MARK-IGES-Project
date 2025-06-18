@@ -1,0 +1,24 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_affinity.py,.fit(,82
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_affinity.py,.fit(,82
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_affinity.py,.fit(,82
+koshian2/affinity-loss,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_affinity.py,fit(,82
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_affinity.py,.fit(,82
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_optuna_affinity.py,.fit(,85
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_optuna_affinity.py,.fit(,85
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_optuna_affinity.py,.fit(,85
+koshian2/affinity-loss,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_optuna_affinity.py,fit(,85
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_optuna_affinity.py,.fit(,85
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_softmax.py,.fit(,74
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_softmax.py,.fit(,74
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_softmax.py,.fit(,74
+koshian2/affinity-loss,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_softmax.py,fit(,74
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_cifar_softmax.py,.fit(,74
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_affinity.py,.fit(,69
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_affinity.py,.fit(,69
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_affinity.py,.fit(,69
+koshian2/affinity-loss,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_affinity.py,fit(,69
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_affinity.py,.fit(,69
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_softmax.py,.fit(,62
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\cnn_mnist_softmax.py,.fit(,62
+koshian2/affinity-loss,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\koshian2\affinity-loss\mnist_affinity_visualize.py,.fit(,76

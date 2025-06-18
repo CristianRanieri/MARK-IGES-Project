@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+sonoisa/code2vec,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\sonoisa\code2vec\main.py,.train(,164
+sonoisa/code2vec,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\sonoisa\code2vec\main.py,.backward(,174
+sonoisa/code2vec,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\sonoisa\code2vec\model\model.py,def forward(,44

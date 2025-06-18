@@ -1,0 +1,10 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\model.py,def forward(,26
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\model.py,def forward(,70
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\model.py,def forward(,85
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\model.py,def forward(,140
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\model.py,def forward(,222
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\train.py,.train(,347
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\train.py,.backward(,386
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\train.py,.backward(,389
+silversparro/wav2letter.pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\silversparro\wav2letter.pytorch\data\distributed.py,def forward(,63

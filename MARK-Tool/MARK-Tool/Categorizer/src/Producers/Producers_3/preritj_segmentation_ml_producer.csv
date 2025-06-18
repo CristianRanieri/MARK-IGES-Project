@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\dataset\seg_data.py,.train.,23
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\utils\tfrecord_util.py,.train.,22
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\utils\tfrecord_util.py,.train.,26
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\utils\tfrecord_util.py,.train.,30
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\utils\tfrecord_util.py,.train.,34
+preritj/segmentation,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\preritj\segmentation\utils\tfrecord_util.py,.train.,38

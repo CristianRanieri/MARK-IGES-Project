@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\external_packages\correlation-pytorch-master\correlation-pytorch\correlation_package\functions\corr.py,def forward(,16
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\external_packages\correlation-pytorch-master\correlation-pytorch\correlation_package\functions\corr.py,def forward(,74
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\external_packages\correlation-pytorch-master\correlation-pytorch\correlation_package\modules\corr.py,def forward(,19
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\external_packages\correlation-pytorch-master\correlation-pytorch\correlation_package\modules\corr.py,def forward(,43
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\models\PWCNet.py,def forward(,175
+NVlabs/learningrigidity,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\NVlabs\learningrigidity\models\RigidityNet.py,def forward(,64

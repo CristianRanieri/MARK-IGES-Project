@@ -1,0 +1,23 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\evaluate_learned_chambolle_pock.py,.train.,120
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\evaluate_learned_primal.py,.train.,104
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\evaluate_learned_primal_dual.py,.train.,110
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\evaluate_learned_primal_noop.py,.train.,89
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\evaluate_unet_reference.py,.train.,85
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_chambolle_pock.py,.train.,130
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_chambolle_pock.py,.train.,160
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_primal.py,.train.,115
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_primal.py,.train.,145
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_primal_dual.py,.train.,121
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\learned_primal_dual.py,.train.,151
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\unet_reference.py,.train.,98
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\ellipses\unet_reference.py,.train.,129
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\evaluate_mayo_learned_primal_dual.py,.train.,135
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\evaluate_mayo_learned_primal_dual_log.py,.train.,140
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\evaluate_mayo_reference_unet.py,.train.,111
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_learned_primal_dual.py,.train.,145
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_learned_primal_dual.py,.train.,175
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_learned_primal_dual_log.py,.train.,147
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_learned_primal_dual_log.py,.train.,177
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_reference_unet.py,.train.,120
+adler-j/learned_primal_dual,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\adler-j\learned_primal_dual\human\mayo_reference_unet.py,.train.,150

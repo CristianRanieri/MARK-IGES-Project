@@ -53,7 +53,7 @@ def start_search(iterable,output_path, max_workers=None):
 
 def main(input_file='Baseline_2nd_part.csv',output_path=''):
     df = pd.read_csv(f'{input_file}', delimiter=",")
-    df = df.head(10)
+    df = df.head(50)
     if(os.path.exists('cloned_log.csv')):
         cloned_log = pd.read_csv('cloned_log.csv', delimiter=",")
         df = df[~df['ProjectName'].isin(cloned_log['ProjectName'])]

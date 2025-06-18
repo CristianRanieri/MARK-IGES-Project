@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\GRU-CFA\Codes\attn_7_1_ex.py,.train.,502
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\GRU-CFA\Codes\compute_prob.py,.train.,323
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\GRU-CFA\Codes\mainClef.py,.train.,315
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\GRU-CFA\Codes\visualClef.py,.train.,351
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\PlantStructNet\Code\main.py,.train.,247
+cs-chan/Deep-Plant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cs-chan\Deep-Plant\PlantStructNet\Code\Var_seq2seq_classification_bidirectRNN.py,.train.,136

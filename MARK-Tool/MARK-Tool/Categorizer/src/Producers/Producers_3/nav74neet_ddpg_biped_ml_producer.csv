@@ -1,0 +1,15 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,.train.,39
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,.train.,68
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,training=True,122
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,.train.,127
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,.train.,128
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\actor_network_bn.py,.train.,135
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\critic_network.py,.train.,40
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\critic_network.py,.train.,69
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\critic_network.py,.train.,112
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\critic_network.py,.train.,113
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\critic_network.py,.train.,121
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\ddpg.py,.train(,70
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\ddpg.py,.train(,76
+nav74neet/ddpg_biped,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nav74neet\ddpg_biped\walker_controller\src\ddpg2\ddpg.py,.train(,98

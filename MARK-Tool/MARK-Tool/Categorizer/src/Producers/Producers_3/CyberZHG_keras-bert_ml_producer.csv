@@ -1,0 +1,27 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\demo\tune\keras_bert_classification_tpu.ipynb,training=True,167
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\demo\tune\keras_bert_classification_tpu.ipynb,.fit(,340
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\demo\tune\keras_bert_classification_tpu.ipynb,fit(,340
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\demo\tune\keras_bert_classification_tpu.ipynb,.fit(,340
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\keras_bert\bert.py,training=True,36
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\keras_bert\loader.py,.train.,20
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\test_bert.py,fit(,75
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\test_bert.py,.fit_generator(,130
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_conv.py,fit(,11
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_conv.py,.fit(,26
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_conv.py,fit(,26
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_conv.py,.fit(,26
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_pooling.py,fit(,30
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_pooling.py,.fit(,44
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_pooling.py,fit(,44
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\layers\test_pooling.py,.fit(,44
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,13
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,.fit(,27
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,27
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,.fit(,27
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,45
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,46
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,56
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,.fit(,86
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,fit(,86
+CyberZHG/keras-bert,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CyberZHG\keras-bert\tests\optimizers\test_warmup.py,.fit(,86

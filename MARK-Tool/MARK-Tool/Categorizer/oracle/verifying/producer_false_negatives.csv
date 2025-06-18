@@ -1,7 +1,10 @@
 ProjectName,Is_Real_ML_producer,Is_ML_producer
+akanimax/BMSG-GAN,Yes,No
 belzebalex/wargames,Yes,No
 cmasch/densenet,Yes,No
+dumyy/handpose,Yes,No
 imfunniee/pymine,Yes,No
+justachetan/img2latex,Yes,No
 kr-colab/diploSHIC,Yes,No
 MycroftAI/mycroft-core,Yes,No
 PurduePAML/TrojanNN,Yes,No
@@ -9,7 +12,7 @@ qubvel/efficientnet,Yes,No
 richemslie/galvanise_zero,Yes,No
 sipeed/MaixPy_scripts,Yes,No
 sniklaus/pytorch-spynet,Yes,No
-Stick-To/PFPNet-tensorflow,Yes,No
 undertheseanlp/automatic_speech_recognition,Yes,No
 vivek3141/streamer-ai,Yes,No
+williamgilpin/convoca,Yes,No
 Yochengliu/MLIC-KD-WSD,Yes,No

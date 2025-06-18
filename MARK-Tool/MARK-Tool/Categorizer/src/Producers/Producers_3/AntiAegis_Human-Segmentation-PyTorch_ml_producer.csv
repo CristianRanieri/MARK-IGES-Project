@@ -1,0 +1,38 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\base\base_model.py,.train(,116
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\BiSeNet.py,def forward(,21
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\BiSeNet.py,def forward(,38
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\BiSeNet.py,def forward(,53
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\BiSeNet.py,def forward(,72
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\BiSeNet.py,def forward(,108
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\DeepLab.py,def forward(,22
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\DeepLab.py,def forward(,53
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\DeepLab.py,def forward(,90
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\DeepLab.py,def forward(,145
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\ICNet.py,def forward(,22
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\ICNet.py,def forward(,37
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\ICNet.py,def forward(,63
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\ICNet.py,def forward(,129
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\PSPNet.py,def forward(,22
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\PSPNet.py,def forward(,43
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\PSPNet.py,def forward(,102
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\UNet.py,def forward(,22
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\UNet.py,def forward(,108
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\UNetPlus.py,def forward(,57
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\UNetPlus.py,def forward(,125
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\MobileNetV2.py,def forward(,75
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\MobileNetV2.py,def forward(,134
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\ResNet.py,def forward(,39
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\ResNet.py,def forward(,80
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\ResNet.py,def forward(,143
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\VGG.py,def forward(,57
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\Xception.py,def forward(,42
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\Xception.py,def forward(,91
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbonds\Xception.py,def forward(,156
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbones\efficientnet.py,def forward(,37
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbones\efficientnet.py,def forward(,72
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbones\resnet.py,def forward(,32
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbones\resnet.py,def forward(,52
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\models\backbones\resnet.py,def forward(,66
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\trainer\trainer.py,.train(,69
+AntiAegis/Human-Segmentation-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\AntiAegis\Human-Segmentation-PyTorch\trainer\trainer.py,.backward(,82

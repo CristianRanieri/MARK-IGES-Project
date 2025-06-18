@@ -1,0 +1,26 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\MachineLearning-Keras-ResNet50.ipynb,.fit_generator(,556
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\MachineLearning-Keras-ResNet50.ipynb,.fit_generator(,556
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\MachineLearning-Keras-ResNet50.ipynb,.fit_generator(,641
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\MachineLearning-Keras-ResNet50.ipynb,.fit_generator(,641
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1004
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1020
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1041
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1042
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1046
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\train_mitoses.py,.train.,1159
+CODAIT/deep-histopath,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\deephistopath\detection.py,.fit(,291
+CODAIT/deep-histopath,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\deephistopath\detection.py,.fit(,291
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\deephistopath\detection.py,fit(,291
+CODAIT/deep-histopath,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\deephistopath\detection.py,.fit(,291
+CODAIT/deep-histopath,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\deephistopath\predict.py,.fit(,312
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,18
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,79
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,96
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,104
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,129
+CODAIT/deep-histopath,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\dist\mitosis_dist.py,.train.,132
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\v2\mrcnn\model.py,.fit_generator(,2366
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\v2\mrcnn\model.py,.fit_generator(,2366
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\v2\mrcnn\parallel_model.py,.fit_generator(,169
+CODAIT/deep-histopath,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\CODAIT\deep-histopath\v2\mrcnn\parallel_model.py,.fit_generator(,169

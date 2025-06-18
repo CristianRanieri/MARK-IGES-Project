@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\domain\dl\wave_net\head.py,def forward(,51
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\domain\dl\wave_net\inputs.py,def forward(,47
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\domain\dl\wave_net\wave_net.py,def forward(,43
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\use_cases\dl\trainer.py,.train(,145
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\use_cases\dl\trainer.py,.train(,176
+WLM1ke/poptimizer,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\WLM1ke\poptimizer\poptimizer\use_cases\dl\trainer.py,.backward(,198

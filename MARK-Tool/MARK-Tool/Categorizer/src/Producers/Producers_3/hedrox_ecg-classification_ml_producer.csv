@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+hedrox/ecg-classification,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\old_keras_impl\run.py,.fit(,80
+hedrox/ecg-classification,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn.py,.train.,217
+hedrox/ecg-classification,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn.py,.train(,231
+hedrox/ecg-classification,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn_tf2.py,.fit(,212
+hedrox/ecg-classification,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn_tf2.py,.fit(,212
+hedrox/ecg-classification,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn_tf2.py,fit(,212
+hedrox/ecg-classification,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\cnn_tf2.py,.fit(,212
+hedrox/ecg-classification,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\hedrox\ecg-classification\tensorflow_impl\utils.py,.train.,34

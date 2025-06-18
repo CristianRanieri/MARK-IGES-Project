@@ -1,0 +1,7 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\deeplab_resnet.py,def forward(,34
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\deeplab_resnet.py,def forward(,82
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\deeplab_resnet.py,def forward(,116
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\deeplab_resnet.py,def forward(,171
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\deeplab_resnet.py,def forward(,189
+isht7/pytorch-deeplab-resnet,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\isht7\pytorch-deeplab-resnet\pytorch-deeplab-resnet-master\train.py,.backward(,228

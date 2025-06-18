@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\model.py,.train.,78
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\model.py,.fit(,104
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\model.py,fit(,104
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\model.py,.fit(,104
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\model.py,fit(,107
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\context\configurations\base.py,.train.,33
+nicolay-r/sentiment-pcnn,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\nicolay-r\sentiment-pcnn\networks\text\configurations\base.py,.train.,28

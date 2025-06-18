@@ -1,0 +1,8 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+shibing624/pycorrector,Yes,transformers,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\examples\macbert\predict_ckpt.py,.predict(,61
+shibing624/pycorrector,Yes,transformers,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\examples\macbert\predict_ckpt.py,.predict(,83
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\macbert_corrector.py,.no_grad(,46
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\mucgec_bart\monkey_pack.py,.no_grad(,24
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\mucgec_bart\monkey_pack.py,.forward(,28
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\mucgec_bart\monkey_pack.py,.forward(,32
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\t5\t5_corrector.py,.no_grad(,41

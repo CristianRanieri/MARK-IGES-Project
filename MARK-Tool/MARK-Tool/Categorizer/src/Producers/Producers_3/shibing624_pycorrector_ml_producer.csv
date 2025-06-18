@@ -1,0 +1,17 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+shibing624/pycorrector,Yes,transformers,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\examples\t5\train.py,.train(,268
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\deepcontext\deepcontext_model.py,.backward(,178
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\deepcontext\deepcontext_utils.py,def forward(,53
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\deepcontext\deepcontext_utils.py,def forward(,181
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\deepcontext\deepcontext_utils.py,def forward(,284
+shibing624/pycorrector,Yes,transformers,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\gpt\gpt_model.py,.train(,460
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\base_model.py,def forward(,32
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\macbert4csc.py,def forward(,22
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\softmaskedbert4csc.py,def forward(,32
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\softmaskedbert4csc.py,def forward(,50
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\macbert\softmaskedbert4csc.py,def forward(,124
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\seq2seq\conv_seq2seq_model.py,def forward(,52
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\seq2seq\conv_seq2seq_model.py,def forward(,154
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\seq2seq\conv_seq2seq_model.py,def forward(,250
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\seq2seq\conv_seq2seq_model.py,.train(,377
+shibing624/pycorrector,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\shibing624\pycorrector\pycorrector\seq2seq\conv_seq2seq_model.py,.backward(,396

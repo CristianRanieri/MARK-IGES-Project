@@ -1,0 +1,6 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+slanglab/freq-e,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\slanglab\freq-e\py\freq_e\estimate.py,.fit(,167
+slanglab/freq-e,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\slanglab\freq-e\py_tutorial\tutorial.ipynb,.fit(,241
+slanglab/freq-e,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\slanglab\freq-e\py_tutorial\tutorial.ipynb,.fit(,302
+slanglab/freq-e,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\slanglab\freq-e\py_tutorial\tutorial_utils.py,.fit_transform(,29
+slanglab/freq-e,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\slanglab\freq-e\tests\speed_tests.ipynb,.fit(,49

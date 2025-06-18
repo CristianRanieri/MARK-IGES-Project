@@ -1,0 +1,11 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\jupyter_notebooks\PredictionModel.ipynb,.fit_transform(,166
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\jupyter_notebooks\PredictionModel.ipynb,.fit_transform(,167
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\jupyter_notebooks\.ipynb_checkpoints\PredictionModel-checkpoint.ipynb,.fit_transform(,166
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\jupyter_notebooks\.ipynb_checkpoints\PredictionModel-checkpoint.ipynb,.fit_transform(,167
+intuit/foremast-brain,Yes,mxnet,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\deeplearning.py,.Trainer(,22
+intuit/foremast-brain,Yes,mxnet,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\deeplearning.py,.step(,49
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\hpaprediction.py,.fit_transform(,112
+intuit/foremast-brain,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\kerasdeeplearning.py,.fit(,49
+intuit/foremast-brain,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\kerasdeeplearning.py,.fit(,49
+intuit/foremast-brain,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\intuit\foremast-brain\src\mlalgms\tsutils.py,.fit_transform(,15

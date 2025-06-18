@@ -1,0 +1,11 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\LinearModel.py,def forward(,83
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\mano.py,def forward(,86
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\Model.py,def forward(,41
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\Model.py,def forward(,112
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,43
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,57
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,76
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,110
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,137
+MandyMo/HAMR,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MandyMo\HAMR\src\encoder\HourGlass.py,def forward(,149

@@ -1,0 +1,16 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\discourse\models\alternate_model.py,def forward(,43
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\discourse\models\alternate_model.py,def forward(,109
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\discourse\models\discourse_bnn_model.py,def forward(,56
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\discourse\models\discourse_crf_model.py,def forward(,54
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\discourse\models\discourse_model.py,def forward(,42
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\alternate_training.py,def forward(,85
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\alternate_training.py,.train(,182
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\alternate_training_crf.py,def forward(,89
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\alternate_training_crf.py,.train(,208
+titipata/detecting-scientific-claim,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\predict_claim_feature_concat.py,.fit(,97
+titipata/detecting-scientific-claim,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\predict_claim_feature_concat.py,.fit(,148
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\transfer_learning.py,.train(,101
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\transfer_learning.py,.train(,117
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\transfer_learning_crf.py,.train(,103
+titipata/detecting-scientific-claim,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\titipata\detecting-scientific-claim\scripts\transfer_learning_crf.py,.train(,119

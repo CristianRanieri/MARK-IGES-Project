@@ -1,0 +1,22 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,fit(,219
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,289
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,289
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,fit(,289
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,289
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,816
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,816
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,fit(,816
+N2ITN/are-you-fake-news,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.ipynb,.fit(,816
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,fit(,57
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,.fit(,111
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,fit(,111
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,.fit(,111
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,.fit(,298
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,fit(,298
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\CNN_train_pred.py,.fit(,298
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\NLP_nn.py,fit(,21
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\NLP_nn.py,.fit(,42
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\NLP_nn.py,fit(,42
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\NLP_nn.py,.fit(,42
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\nn_playground.py,.fit_generator(,108

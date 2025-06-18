@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+bat67/TibetanMNIST,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bat67\TibetanMNIST\【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,.train(,133
+bat67/TibetanMNIST,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bat67\TibetanMNIST\【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,.backward(,143
+bat67/TibetanMNIST,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bat67\TibetanMNIST\【刷榜】训练集 99.9799%，测试集 99.3467%.ipynb,def forward(,318

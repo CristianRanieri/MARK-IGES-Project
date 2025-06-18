@@ -1,0 +1,10 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+appinho/SAComputerVisionMachineLearning,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\BehavioralCloning\model.py,.fit(,149
+appinho/SAComputerVisionMachineLearning,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\BehavioralCloning\net.py,.fit(,155
+appinho/SAComputerVisionMachineLearning,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\CameraBasedVehicleTracking\classifier.py,.fit(,106
+appinho/SAComputerVisionMachineLearning,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\CameraBasedVehicleTracking\classifier.py,.fit(,123
+appinho/SAComputerVisionMachineLearning,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\SemanticSegmentation\main.py,.train.,124
+appinho/SAComputerVisionMachineLearning,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\TrafficSignClassification\Traffic_Sign_Classifier.ipynb,.train.,700
+appinho/SAComputerVisionMachineLearning,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\TrafficSignClassification\Traffic_Sign_Classifier.ipynb,.train.,731
+appinho/SAComputerVisionMachineLearning,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\TrafficSignClassification\Traffic_Sign_Classifier.ipynb,.train.,1050
+appinho/SAComputerVisionMachineLearning,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\appinho\SAComputerVisionMachineLearning\TrafficSignClassification\Traffic_Sign_Classifier.ipynb,.train.,1184

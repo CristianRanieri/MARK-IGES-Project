@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+cszhangzhen/ANRL,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cszhangzhen\ANRL\evaluation.py,.fit(,30
+cszhangzhen/ANRL,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cszhangzhen\ANRL\model.py,.train.,52
+cszhangzhen/ANRL,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\cszhangzhen\ANRL\model.py,.train.,63

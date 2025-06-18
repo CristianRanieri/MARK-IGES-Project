@@ -1,0 +1,10 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+gojibjib/jibjib-model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\modelbuilder.py,.train.,49
+gojibjib/jibjib-model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\train_LSTM.py,.fit(,284
+gojibjib/jibjib-model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\train_LSTM.py,.fit(,284
+gojibjib/jibjib-model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\train_LSTM.py,.fit(,284
+gojibjib/jibjib-model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\train_LSTM.py,fit(,284
+gojibjib/jibjib-model,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\train_LSTM.py,.fit(,284
+gojibjib/jibjib-model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\vggish_train.py,.train.,312
+gojibjib/jibjib-model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\code\vggish_train.py,.train.,412
+gojibjib/jibjib-model,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\gojibjib\jibjib-model\vggish\vggish_slim.py,.train.,127

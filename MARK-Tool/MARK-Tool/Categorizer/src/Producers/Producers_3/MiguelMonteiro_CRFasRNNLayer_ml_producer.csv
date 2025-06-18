@@ -1,0 +1,4 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+MiguelMonteiro/CRFasRNNLayer,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MiguelMonteiro\CRFasRNNLayer\example.py,training=True,248
+MiguelMonteiro/CRFasRNNLayer,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MiguelMonteiro\CRFasRNNLayer\example.py,.train.,252
+MiguelMonteiro/CRFasRNNLayer,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\MiguelMonteiro\CRFasRNNLayer\Tests\crf_rnn_layer_test_3.py,.train.,45

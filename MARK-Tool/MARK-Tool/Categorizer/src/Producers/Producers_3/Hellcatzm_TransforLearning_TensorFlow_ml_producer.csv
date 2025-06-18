@@ -1,0 +1,9 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\TransferLearning_reload.py,.train.,36
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\TransferLearning_reload.py,.train.,37
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\TransforLearning.py,.train.,274
+Hellcatzm/TransforLearning_TensorFlow,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\TransforLearning.py,.train.,284
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\Keras_TransforLearning\keras_classifiter.ipynb,.fit_generator(,281
+Hellcatzm/TransforLearning_TensorFlow,Yes,keras,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\Keras_TransforLearning\keras_classifiter.ipynb,.fit(,287
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\MXnet_TransforLearning\mxnet_classifiter.ipynb,.Trainer(,224
+Hellcatzm/TransforLearning_TensorFlow,Yes,mxnet,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\Hellcatzm\TransforLearning_TensorFlow\MXnet_TransforLearning\mxnet_classifiter.ipynb,.step(,240

@@ -1,0 +1,113 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\fp16.py,def forward(,13
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\layers.py,def forward(,10
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\layers.py,def forward(,14
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\layers.py,def forward(,18
+devpranoy/video_coloriser,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\nlp.py,.fit(,228
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\rnn_reg.py,def forward(,55
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\rnn_reg.py,def forward(,113
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\rnn_reg.py,def forward(,168
+devpranoy/video_coloriser,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\structured.py,.fit(,329
+devpranoy/video_coloriser,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\structured.py,.fit(,475
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,27
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,31
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,36
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,256
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,260
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\convert_torch.py,def forward(,264
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\darknet.py,def forward(,15
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\darknet.py,def forward(,24
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\darknet.py,def forward(,44
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\fa_resnet.py,def forward(,46
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\fa_resnet.py,def forward(,78
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\fa_resnet.py,def forward(,112
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\fa_resnet.py,def forward(,148
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\fa_resnet.py,def forward(,210
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,25
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,55
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,87
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,113
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,139
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,172
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,201
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionresnetv2.py,def forward(,306
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,19
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,32
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,55
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,68
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,96
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,118
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,150
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,177
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,205
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\inceptionv4.py,def forward(,256
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,37
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,51
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,69
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,86
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,107
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,123
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,158
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,218
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,288
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,351
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,405
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,460
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\nasnet.py,def forward(,587
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnet.py,def forward(,42
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnet.py,def forward(,74
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnet.py,def forward(,107
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnet.py,def forward(,142
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnet.py,def forward(,204
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_32x4d.py,def forward(,19
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_32x4d.py,def forward(,23
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_32x4d.py,def forward(,27
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_64x4d.py,def forward(,19
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_64x4d.py,def forward(,23
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_101_64x4d.py,def forward(,27
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_50_32x4d.py,def forward(,19
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_50_32x4d.py,def forward(,23
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\resnext_50_32x4d.py,def forward(,27
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\senet.py,def forward(,100
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\senet.py,def forward(,114
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\senet.py,def forward(,366
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\unet.py,def forward(,38
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\unet.py,def forward(,84
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wideresnet.py,def forward(,24
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wideresnet.py,def forward(,42
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wideresnet.py,def forward(,70
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wrn_50_2f.py,def forward(,19
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wrn_50_2f.py,def forward(,23
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\wrn_50_2f.py,def forward(,27
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\main_dxy.py,.train(,171
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\main_dxy.py,.backward(,196
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\main_kuangliu.py,.train(,87
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\main_kuangliu.py,.backward(,97
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\preact_resnet.py,def forward(,30
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\preact_resnet.py,def forward(,57
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\preact_resnet.py,def forward(,87
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\resnext.py,def forward(,25
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\resnext.py,def forward(,93
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\senet.py,def forward(,31
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\senet.py,def forward(,64
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\senet.py,def forward(,102
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\wideresnet.py,def forward(,32
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\models\cifar10\wideresnet.py,def forward(,58
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\torchqrnn\forget_mult.py,def forward(,80
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\torchqrnn\forget_mult.py,def forward(,122
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\torchqrnn\forget_mult.py,def forward(,174
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\torchqrnn\qrnn.py,def forward(,52
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fastai\torchqrnn\qrnn.py,def forward(,160
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\generators.py,def forward(,21
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\generators.py,def forward(,116
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\modules.py,def forward(,25
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\modules.py,def forward(,71
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\modules.py,def forward(,91
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\modules.py,def forward(,122
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,def forward(,69
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,train_one_epoch(,181
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,train_one_epoch(,195
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,.train(,196
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,.train(,197
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,.backward(,263
+devpranoy/video_coloriser,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\devpranoy\video_coloriser\fasterai\training.py,.backward(,287

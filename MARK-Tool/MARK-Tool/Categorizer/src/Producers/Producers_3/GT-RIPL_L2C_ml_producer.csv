@@ -1,0 +1,13 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\demo.py,.train(,54
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\learners\classification.py,def forward(,29
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\learners\classification.py,.backward(,39
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\learners\clustering.py,def forward(,15
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\models\lenet.py,def forward(,40
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\models\resnet.py,def forward(,22
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\models\resnet.py,def forward(,49
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\models\resnet.py,def forward(,91
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\models\vgg.py,def forward(,47
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\modules\criterion.py,def forward(,13
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\modules\criterion.py,def forward(,27
+GT-RIPL/L2C,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\GT-RIPL\L2C\modules\distance.py,def forward(,8

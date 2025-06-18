@@ -8,7 +8,7 @@ agoose77/GOAP,No,No
 agusgun/FakeImageDetector,Yes,Yes
 AhmedImtiazPrio/Keras-AudioDataGenerator,Yes,Yes
 ai-med/nn-common-modules,Yes,Yes
-akanimax/BMSG-GAN,Yes,Yes
+akanimax/BMSG-GAN,Yes,No
 AliaksandrSiarohin/monkey-net,Yes,Yes
 alina1021/facial_expression_transfer,No,No
 alirezamika/evostra,No,No
@@ -94,7 +94,7 @@ dillondaudert/UMAP.jl,No,No
 doccano/doccano,No,No
 domschl/tensor-poet,Yes,Yes
 yuhaozhang/summarize-radiology-findings,Yes,Yes
-dumyy/handpose,Yes,Yes
+dumyy/handpose,Yes,No
 earhian/Humpback-Whale-Identification-1st-,Yes,Yes
 yuzcccc/vqa-mfb,Yes,Yes
 Ekim-Yurtsever/DeepTL-Lane-Change-Classification,Yes,Yes
@@ -148,13 +148,12 @@ jczic/MicroMLP,No,No
 zsdonghao/im2txt2im,Yes,Yes
 JGuymont/vae-anomaly-detector,Yes,Yes
 jhasuman/potholes-detection,Yes,Yes
-Jimut123/wisp,No,No
 jobovy/extreme-deconvolution,No,No
 JoergFranke/ADNC,Yes,Yes
 JRC1995/TextRank-Keyword-Extraction,No,No
 jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation,Yes,Yes
 junqiangchen/VNet3D,Yes,Yes
-justachetan/img2latex,Yes,Yes
+justachetan/img2latex,Yes,No
 kabkabm/defensegan,Yes,Yes
 kainoj/colnet,Yes,Yes
 hunglc007/tensorflow-yolov4-tflite,Yes,Yes
@@ -167,7 +166,6 @@ kfoynt/LocalGraphClustering,Yes,Yes
 khaxis/plynx,No,No
 kimhc6028/relational-networks,Yes,Yes
 koshian2/affinity-loss,Yes,Yes
-jaakkopasanen/AutoEq,No,No
 kr-colab/diploSHIC,Yes,No
 krasserm/face-recognition,Yes,Yes
 jantic/DeOldify,Yes,Yes
@@ -208,14 +206,12 @@ muneebaadil/line-detection-using-cnns,Yes,Yes
 MurtyShikhar/KBI,Yes,Yes
 MVIG-SJTU/AlphaPose,Yes,Yes
 MycroftAI/mycroft-core,Yes,No
-myke11j/movie-recommender,No,No
 mynameisvinn/EmailParser,No,No
 N2ITN/are-you-fake-news,Yes,Yes
 n3a9/vera,No,No
 napsternxg/TwitterNER,Yes,Yes
 natanielruiz/deep-head-pose,Yes,Yes
 nav74neet/ddpg_biped,Yes,Yes
-NCBI-Hackathons/Semantic-search-log-analysis-pipeline,Yes,Yes
 ncullen93/torchsample,No,No
 nearthlab/image-segmentation,Yes,Yes
 neka-nat/image_completion_keras,Yes,Yes
@@ -292,7 +288,6 @@ stephen-song/Speech-Transformer-tf2.0,Yes,Yes
 stevezheng23/reading_comprehension_tf,Yes,Yes
 stevezheng23/sequence_labeling_tf,Yes,Yes
 Stick-To/CenterNet-tensorflow,Yes,Yes
-Stick-To/PFPNet-tensorflow,Yes,No
 strattadb/margaret,No,No
 svip-lab/PlanarReconstruction,Yes,Yes
 kdexd/virtex,Yes,Yes
@@ -314,7 +309,7 @@ undertheseanlp/automatic_speech_recognition,Yes,No
 undertheseanlp/chatbot,No,No
 vivek3141/streamer-ai,Yes,No
 Waikato/weka-3.8,No,No
-williamgilpin/convoca,Yes,Yes
+williamgilpin/convoca,Yes,No
 wkentaro/chainer-mask-rcnn,Yes,Yes
 WLM1ke/poptimizer,Yes,Yes
 wotchin/SmooFaceEngine,Yes,Yes
@@ -326,7 +321,6 @@ X-DataInitiative/tick,Yes,Yes
 xiadingZ/video-caption.pytorch,Yes,Yes
 yassineAlouini/kaggle-tools,Yes,Yes
 Yochengliu/MLIC-KD-WSD,Yes,No
-Yogayu/weibo-summary,No,Yes
 yoonholee/MT-net,Yes,Yes
 yselivonchyk/Tensorflow_WhatWhereAutoencoder,Yes,Yes
 yuanming-hu/exposure,Yes,Yes

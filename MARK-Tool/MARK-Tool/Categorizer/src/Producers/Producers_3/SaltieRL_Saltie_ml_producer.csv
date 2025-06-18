@@ -1,0 +1,14 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\base_keras_model.py,fit(,86
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\base_keras_model.py,.train_on_batch,92
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\example_sequential_keras_model.py,fit(,68
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\example_sequential_keras_model.py,.train_on_batch,74
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\multi_output_model.py,fit(,60
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\multi_output_model.py,.fit(,62
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\multi_output_model.py,fit(,62
+SaltieRL/Saltie,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\multi_output_model.py,.fit(,62
+SaltieRL/Saltie,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\levi\torch_model.py,def forward(,36
+SaltieRL/Saltie,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\levi\torch_model.py,def forward(,52
+SaltieRL/Saltie,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\levi\torch_model.py,def forward(,71
+SaltieRL/Saltie,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\levi\torch_model.py,def forward(,95
+SaltieRL/Saltie,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\SaltieRL\Saltie\examples\levi\torch_model.py,def forward(,116

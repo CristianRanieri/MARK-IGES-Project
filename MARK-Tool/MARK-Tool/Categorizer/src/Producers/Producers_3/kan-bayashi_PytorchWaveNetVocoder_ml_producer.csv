@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kan-bayashi/PytorchWaveNetVocoder,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\bin\calc_stats.py,.partial_fit(,27
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\bin\train.py,.train(,447
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\bin\train.py,.backward(,538
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\nets\wavenet.py,def forward(,78
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\nets\wavenet.py,def forward(,108
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\nets\wavenet.py,def forward(,141
+kan-bayashi/PytorchWaveNetVocoder,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kan-bayashi\PytorchWaveNetVocoder\wavenet_vocoder\nets\wavenet.py,def forward(,212

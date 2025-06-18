@@ -1,0 +1,10 @@
+ProjectName,Is ML consumer,libraries,where,keywords,line_number
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\predict\cnn_predict.py,.predict(,65
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\predict\cnn_predict.py,.predict(,65
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\predict\cnn_predict.py,.predict(,65
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\dnn_predict.py,.predict(,70
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\dnn_predict.py,.predict(,70
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\dnn_predict.py,.predict(,70
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\nn_predict.py,.predict(,54
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\nn_predict.py,.predict(,54
+N2ITN/are-you-fake-news,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\N2ITN\are-you-fake-news\docker\train\nn_predict.py,.predict(,54

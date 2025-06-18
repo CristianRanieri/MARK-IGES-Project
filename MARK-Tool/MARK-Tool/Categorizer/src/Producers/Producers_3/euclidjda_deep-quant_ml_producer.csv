@@ -1,0 +1,12 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+euclidjda/deep-quant,Yes,sklearn,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\batch_generator.py,.fit(,471
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\train.py,train_step(,62
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\train_uq.py,train_step(,61
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\train_uq.py,train_step(,109
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\models\base_model.py,def train_step(,30
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\models\base_model.py,train_step(,30
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\models\base_model.py,training=True,45
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\utils\model_utils.py,.train.,43
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\utils\model_utils.py,.train.,45
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\utils\model_utils.py,.train.,114
+euclidjda/deep-quant,Yes,tensorflow,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\euclidjda\deep-quant\scripts\utils\model_utils.py,.train.,120

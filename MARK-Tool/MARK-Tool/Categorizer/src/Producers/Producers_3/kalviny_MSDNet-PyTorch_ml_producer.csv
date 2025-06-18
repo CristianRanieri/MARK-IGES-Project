@@ -1,0 +1,12 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\main.py,.train(,150
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\main.py,.backward(,185
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,17
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,56
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,69
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,82
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,112
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,155
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,183
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,197
+kalviny/MSDNet-PyTorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\kalviny\MSDNet-PyTorch\models\msdnet.py,def forward(,335

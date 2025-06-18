@@ -1,0 +1,46 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\network.py,def forward(,51
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\training.py,.train(,81
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\training.py,.backward(,130
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\DUC.py,def forward(,23
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\duc_hdc.py,def forward(,16
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\duc_hdc.py,def forward(,54
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\duc_hdc.py,def forward(,94
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\fcn16s.py,def forward(,50
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\fcn32s.py,def forward(,43
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\fcn8s.py,def forward(,68
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\gcn.py,def forward(,27
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\gcn.py,def forward(,43
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\gcn.py,def forward(,82
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\MobileNetV2.py,def forward(,56
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\MobileNetV2.py,def forward(,111
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\psp_net.py,def forward(,24
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\psp_net.py,def forward(,69
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\psp_net.py,def forward(,132
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\resnet.py,def forward(,23
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\resnet.py,def forward(,70
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\resnet.py,def forward(,104
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\resnet.py,def forward(,183
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\seg_net.py,def forward(,31
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\seg_net.py,def forward(,60
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\ShuffleNetV2.py,def forward(,95
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\ShuffleNetV2.py,def forward(,161
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\squeezenet.py,def forward(,32
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\squeezenet.py,def forward(,105
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\u_net.py,def forward(,24
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\u_net.py,def forward(,41
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\u_net.py,def forward(,67
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\baseline.py,def forward(,30
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\baseline.py,def forward(,54
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\baseline.py,def forward(,102
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\baseline.py,def forward(,125
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_inception.py,def forward(,27
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_module.py,def forward(,15
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_resnet.py,def forward(,24
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_resnet.py,def forward(,60
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_resnet.py,def forward(,168
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_resnet.py,def forward(,215
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\networks\senet\se_resnet.py,def forward(,237
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\utils\misc.py,def forward(,46
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\utils\misc.py,def forward(,56
+YuliangXiu/MobilePose-pytorch,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\YuliangXiu\MobilePose-pytorch\utils\misc.py,def forward(,129

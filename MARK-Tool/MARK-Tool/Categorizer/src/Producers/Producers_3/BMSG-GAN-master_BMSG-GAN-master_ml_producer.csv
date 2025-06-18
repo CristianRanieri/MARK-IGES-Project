@@ -1,0 +1,18 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+BMSG-GAN-master/BMSG-GAN-master,Yes,sagemaker,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\SageMaker-BMSG-GAN.ipynb,.fit(,67
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\train.py,.train(,248
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,42
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,93
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,139
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,159
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,209
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,263
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,321
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,386
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\CustomLayers.py,def forward(,438
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,def forward(,68
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,def forward(,183
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,.backward(,301
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,.backward(,324
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,.train(,388
+BMSG-GAN-master/BMSG-GAN-master,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\BMSG-GAN-master\BMSG-GAN-master\sourcecode\MSG_GAN\GAN.py,.train(,389

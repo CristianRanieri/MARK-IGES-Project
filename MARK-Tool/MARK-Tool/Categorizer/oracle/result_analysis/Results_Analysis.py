@@ -6,8 +6,8 @@ import pandas as pd
 # apre due csv oracle_producer.csv e oracle_consumer.csv.
 # in entrambi aggiunge una colonna, rispettivamente Is_ML_Producer e Is_ML_Consumer.
 # Lo script esamina le cartelle specificate (Producers_1, Producers_2, ecc. per i produttori e Consumers_1, Consumers_2, ecc. per i consumatori)
-# e controlla se il nome del progetto nel file "oracle" appare in uno dei file CSV di produttori o consumatori.
-# Se c'è una corrispondenza, il valore della rispettiva colonna "Is_ML_Producer" o "Is_ML_Consumer" viene impostato su "Yes" per quel progetto.
+# Esamina per ogni nome di file presente nella cartella Producers_X se appare in oracle_producer.csv, in quel caso scrive 'Yes' nella colonna Is_ML_Producer altrimenti 'No'
+# Esamina per ogni nome di file presente nella cartella Consumers_X se appare in oracle_consumer.csv, in quel caso scrive 'Yes' nella colonna Is_ML_Consumer altrimenti 'No'
 # Per ogni cartella esaminata crea un file(come result_consumer_1.csv) dove salva il contenuto di 'oracle' con la nuova colonna aggiunta.
 #-------------------------------------------------------------------------------------------------------
 

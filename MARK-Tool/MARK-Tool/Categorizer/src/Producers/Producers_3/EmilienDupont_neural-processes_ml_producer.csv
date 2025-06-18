@@ -1,0 +1,8 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\example-1d.ipynb,.train(,352
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\models.py,def forward(,39
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\models.py,def forward(,74
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\models.py,def forward(,125
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\neural_process.py,def forward(,80
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\neural_process.py,def forward(,168
+EmilienDupont/neural-processes,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\EmilienDupont\neural-processes\training.py,.backward(,94

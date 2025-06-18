@@ -1,0 +1,10 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\train.ipynb,.train(,218
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\layers.py,def forward(,14
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\layers.py,def forward(,26
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\layers.py,def forward(,54
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\layers.py,def forward(,65
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\layers.py,def forward(,78
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\models\tiramisu.py,def forward(,80
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\utils\training.py,.train(,57
+bfortuner/pytorch_tiramisu,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\bfortuner\pytorch_tiramisu\utils\training.py,.backward(,67
