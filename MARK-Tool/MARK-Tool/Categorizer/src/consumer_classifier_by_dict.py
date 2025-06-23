@@ -2,9 +2,7 @@ import os
 import pandas as pd
 import re
 import time
-import warnings
-from components.static_analysis.library_extractor import check_ml_library_usage, get_libraries
-from components.notebook_converter import convert_and_check_notebook
+from components.static_analysis.library_extractor import check_ml_library_usage,get_libraries
 import logging
 
 logging.basicConfig(level = logging.DEBUG)
@@ -15,18 +13,18 @@ class MLConsumerAnalyzer:
             os.makedirs(output_folder)
         self.init_consumer_analysis_folder()
 
-    # TODO
-    # non capisco perchè è stata reimplementata, in producer si utilizza direttamente quella implementata in library_exstractor.py
-    def check_ml_library_usage(self,file, library_dict):
-        file_libraries = get_libraries(file)
-        for i in range(len(file_libraries)):
-            if "." in file_libraries[i]:
-                file_libraries[i] = file_libraries[i].split(".")[0]
-            file_libraries[i] = file_libraries[i].replace("\n","")
-        # filter dict libraries from file libraries
-        dict_libraries = library_dict[library_dict['library'].isin(file_libraries)]
-
-        return dict_libraries
+    # # TODO
+    # # non capisco perchè è stata reimplementata, in producer si utilizza direttamente quella implementata in library_exstractor.py
+    # def check_ml_library_usage(self,file, library_dict):
+    #     file_libraries = get_libraries(file)
+    #     for i in range(len(file_libraries)):
+    #         if "." in file_libraries[i]:
+    #             file_libraries[i] = file_libraries[i].split(".")[0]
+    #         file_libraries[i] = file_libraries[i].replace("\n","") #TODO sta sera, ci penso io
+    #     # filter dict libraries from file libraries
+    #     dict_libraries = library_dict[library_dict['library'].isin(file_libraries)]
+    #
+    #     return dict_libraries
 
     def init_consumer_analysis_folder(self):
         consumer_analysis_path = os.path.join(self.output_folder, "Consumer_Analysis")
@@ -44,7 +42,7 @@ class MLConsumerAnalyzer:
 
     def check_training_method(self, file, producer_library):
         producer_library_dict = self.load_producer_library_dict(producer_library)
-        producer_related_dict = self.check_ml_library_usage(file, producer_library_dict)
+        producer_related_dict = check_ml_library_usage(file, producer_library_dict, True)
         producer_keywords = producer_related_dict['Keyword'].tolist()
         producer_library_dict_list = producer_related_dict['library'].tolist()
 
@@ -66,7 +64,7 @@ class MLConsumerAnalyzer:
 
         # Load the consumer library dictionary dynamically
         consumer_library_dict = self.load_consumer_library_dict(consumer_library)
-        consumer_related_dict = self.check_ml_library_usage(file, consumer_library_dict)
+        consumer_related_dict = check_ml_library_usage(file, consumer_library_dict, True)
         consumer_keywords = consumer_related_dict['Keyword'].tolist()
         consumer_library_dict_list = consumer_related_dict['library'].tolist()
 

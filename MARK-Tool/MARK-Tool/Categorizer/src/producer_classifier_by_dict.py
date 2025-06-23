@@ -5,7 +5,6 @@ import time
 import logging
 import warnings
 from components.static_analysis.library_extractor import check_ml_library_usage
-from components.notebook_converter import convert_and_check_notebook
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 

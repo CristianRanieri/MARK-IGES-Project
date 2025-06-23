@@ -33,12 +33,15 @@ def get_libraries(file):
 # dato un file .py e un dizionario(insieme delle librerire utilizzate dai producer o dai consumer) restiruisce una lista delle
 #librerie trovate che apprtengono al dizionario.
 # funzione utilizzata in producer_classifier_by_dic ma non in consumer(DA CAPIRE TODO).
-def check_ml_library_usage(file, library_dict):
+def check_ml_library_usage(file, library_dict, is_consumer = False):
     file_libraries = get_libraries(file)
     for i in range(len(file_libraries)):
         if "." in file_libraries[i]:
             file_libraries[i] = file_libraries[i].split(".")[0]
-    #filter dict libraries from file libraries
+        # solo il consumer
+        if is_consumer:
+            file_libraries[i] = file_libraries[i].replace("\n", "")
+        #filter dict libraries from file libraries
     dict_libraries = library_dict[library_dict['library'].isin(file_libraries)]
 
     return dict_libraries
