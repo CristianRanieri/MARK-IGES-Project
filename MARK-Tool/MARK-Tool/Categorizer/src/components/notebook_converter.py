@@ -1,9 +1,5 @@
 import os
 
-#----------------------------------------------------------------------------------------------------------------------------
-#TODO script mai utilizzato, ci sono gli import in consumer e producer ma non vengono mai utilizzati.
-#TODO probabilmente un refuso, da chiedere.
-#----------------------------------------------------------------------------------------------------------------------------
 
 
 def convert_notebook_to_code( file):

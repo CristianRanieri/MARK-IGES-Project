@@ -71,6 +71,7 @@ def main(input_file='Baseline_2nd_part.csv',output_path=''):
     print(f'to analyze: {len(iterable)} repos')
     start_search(iterable,output_path)
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="This component allow to clone automatically Github Repositories from a dataset "
                                                  "for Python projects")

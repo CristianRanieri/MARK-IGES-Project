@@ -1,5 +1,4 @@
 import os
-
 import pandas as pd
 
 
@@ -43,6 +42,8 @@ def get_effective_repos(path):
 def clean_log():
     if os.path.exists('not_cloned_repos.csv'):
         os.remove('not_cloned_repos.csv')
+
+
 
 def main(input_file='./applied_projects.csv',input_path='../repos/repos2/'):
     clean_log()

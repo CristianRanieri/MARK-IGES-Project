@@ -8,6 +8,8 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 def exec_analysis(input_path=os.path.join(script_dir, "../","../", "repos"),output_path=script_dir):
     # Resolve absolute paths dynamically
     script_dir = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the current script
+
+
     ######## ML-Model Producers ########
     input_folder = input_path
     output_base_folder = os.path.join(output_path, "Producers")
@@ -42,6 +44,8 @@ def exec_analysis(input_path=os.path.join(script_dir, "../","../", "repos"),outp
         print(f"Analyzing with library dictionary: {library_dict_path}")
         print(f"Results will be written to: {output_folder}")
         analyzer.analyze_projects_set_for_producers(input_folder, library_dict_path)
+
+
 
     ######## ML-Model Consumers ########
     script_dir = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the current script

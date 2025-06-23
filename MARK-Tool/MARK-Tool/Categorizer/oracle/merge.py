@@ -47,28 +47,35 @@ def calc_performance_metrics(df, column_name):
 # cambia il nome della colonna Is ML X in Is_ML_X
 # tutte le celle della colonna 'Is_ML_X' vuote(Nan) vengono riempite con 'No'
 # salva un file con il segunti possibili nomi: producer_verification.csv o consumer_verification.csv
-def join(column_name, df_oracle, df_produced):
-    df_oracle = pd.read_csv(df_oracle)
-    df_produced = pd.read_csv(df_produced)
-    df_produced.rename(columns={f'Is ML {column_name}': f'Is_ML_{column_name}'}, inplace=True)
-    df_produced.drop_duplicates(subset=['ProjectName'], keep='first', inplace=True)
-    df_produced = df_produced[['ProjectName', f'Is_ML_{column_name}']]
-    df_joint = pd.merge(df_oracle, df_produced, on='ProjectName', how='left', validate='one_to_one')
-    # replace nan values with 'No'
 
 
-    df_joint[f'Is_ML_{column_name}'].fillna('No', inplace=True)
+# def join(column_name, df_oracle, df_produced):
+#     df_oracle = pd.read_csv(df_oracle)
+#     df_produced = pd.read_csv(df_produced)
+#     df_produced.rename(columns={f'Is ML {column_name}': f'Is_ML_{column_name}'}, inplace=True)
+#     df_produced.drop_duplicates(subset=['ProjectName'], keep='first', inplace=True)
+#     df_produced = df_produced[['ProjectName', f'Is_ML_{column_name}']]
+#     df_joint = pd.merge(df_oracle, df_produced, on='ProjectName', how='left', validate='one_to_one')
+#     # replace nan values with 'No'
+#
+#     df_joint[f'Is_ML_{column_name}'].fillna('No', inplace=True)
+#
+#     df_joint.to_csv(f'verifying/{column_name}_verification.csv', index=False)
+#     return df_joint
 
-    df_joint.to_csv(f'verifying/{column_name}_verification.csv', index=False)
-    return df_joint
+
 
 # unisce i dataset due csv(df_oracle e df_produced).
 # calcola le metriche di performance(precision, recall, F1, accuracy).
 # salva i falsi positivi e i falsi negativi in file separati (false_positives.csv e false_negatives.csv).
 # stampa le metriche di performance a console.
 def reporting(oracle_name, column_name, base_output_path="../src/Producers/",
-              analysis_path="Producers_2/results_first_step.csv"):
-    df_joint = join(column_name, oracle_name, os.path.join(base_output_path, analysis_path))
+              analysis_path="Producers_2/results_first_step.csv", result_name=''):
+
+    # df_joint = join(column_name, oracle_name, os.path.join(base_output_path, analysis_path))
+    df_joint = pd.read_csv(result_name)
+    df_joint.rename(columns={f'is ML {column_name.capitalize()}': f'Is_ML_{column_name}'}, inplace=True)
+
     precision, recall, f1, accuracy = calc_performance_metrics(df_joint, column_name)
     df_debug = get_false_positives(df_joint, column_name)
     df_debug.to_csv(f'verifying/{column_name}_false_positives.csv', index=False)
@@ -79,17 +86,26 @@ def reporting(oracle_name, column_name, base_output_path="../src/Producers/",
     print(f"Precision: {precision}, Recall: {recall}, F1: {f1}, Accuracy: {accuracy}")
 
 
-# non è stato creato un main(DA CAPIRE)
-base_output_path = "../src/Producers/"
-#analysis_path risultati dell'analisi du tutte le parole chiave di tutti i produttori in Producers_2
-analysis_path = "Producers_3/results_first_step.csv"
-column_name = 'producer'
-oracle_name = './oracle_producer_new.csv'
-reporting(oracle_name, column_name, base_output_path, analysis_path)
+def main():
+    # non è stato creato un main(DA CAPIRE)
+    base_output_path = "../src/Producers/"
+    #analysis_path risultati dell'analisi du tutte le parole chiave di tutti i produttori in Producers_2
+    analysis_path = "Producers_3/results_first_step.csv"
+    column_name = 'producer'
+    oracle_name = './oracle_producer_new.csv'
+    result_name = 'result_analysis/result_producer_3.csv'
 
-base_output_path = "../src/Consumers/"
-analysis_path = "Consumers_6/results_consumer.csv"
-column_name = 'consumer'
-oracle_name = './oracle_consumer_new.csv'
-reporting(oracle_name, column_name, base_output_path, analysis_path)
+    reporting(oracle_name, column_name, base_output_path, analysis_path, result_name)
 
+
+    base_output_path = "../src/Consumers/"
+    analysis_path = "Consumers_6/results_consumer.csv"
+    column_name = 'consumer'
+    oracle_name = './oracle_consumer_new.csv'
+    result_name = 'result_analysis/result_consumer_6.csv'
+
+    reporting(oracle_name, column_name, base_output_path, analysis_path, result_name)
+
+
+if __name__ == "__main__":
+    main()
