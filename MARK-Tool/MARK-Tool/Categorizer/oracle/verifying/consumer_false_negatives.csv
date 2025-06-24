@@ -1,5 +1,4 @@
 ProjectName,Is_Real_ML_consumer,Is_ML_consumer
-akanimax/BMSG-GAN,Yes,No
 aqlaboratory/rgn,Yes,No
 bfelbo/DeepMoji,Yes,No
 bio-ontology-research-group/onto2vec,Yes,No
@@ -12,7 +11,6 @@ instacart/lore,Yes,No
 intuit/foremast-brain,Yes,No
 zsdonghao/im2txt2im,Yes,No
 jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation,Yes,No
-justachetan/img2latex,Yes,No
 mesutpiskin/id-card-detector,Yes,No
 mj000001/Object-Detection-And-Tracking,Yes,No
 MrPowerScripts/reddit-karma-farming-bot,Yes,No

@@ -8,7 +8,7 @@ agoose77/GOAP,No,No
 agusgun/FakeImageDetector,Yes,Yes
 AhmedImtiazPrio/Keras-AudioDataGenerator,Yes,Yes
 ai-med/nn-common-modules,Yes,Yes
-akanimax/BMSG-GAN,Yes,No
+akanimax/BMSG-GAN,Yes,Yes
 AliaksandrSiarohin/monkey-net,Yes,Yes
 alina1021/facial_expression_transfer,No,No
 alirezamika/evostra,No,No
@@ -94,7 +94,7 @@ dillondaudert/UMAP.jl,No,No
 doccano/doccano,No,No
 domschl/tensor-poet,Yes,Yes
 yuhaozhang/summarize-radiology-findings,Yes,Yes
-dumyy/handpose,Yes,No
+dumyy/handpose,Yes,Yes
 earhian/Humpback-Whale-Identification-1st-,Yes,Yes
 yuzcccc/vqa-mfb,Yes,Yes
 Ekim-Yurtsever/DeepTL-Lane-Change-Classification,Yes,Yes
@@ -153,7 +153,7 @@ JoergFranke/ADNC,Yes,Yes
 JRC1995/TextRank-Keyword-Extraction,No,No
 jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation,Yes,Yes
 junqiangchen/VNet3D,Yes,Yes
-justachetan/img2latex,Yes,No
+justachetan/img2latex,Yes,Yes
 kabkabm/defensegan,Yes,Yes
 kainoj/colnet,Yes,Yes
 hunglc007/tensorflow-yolov4-tflite,Yes,Yes
@@ -309,7 +309,7 @@ undertheseanlp/automatic_speech_recognition,Yes,No
 undertheseanlp/chatbot,No,No
 vivek3141/streamer-ai,Yes,No
 Waikato/weka-3.8,No,No
-williamgilpin/convoca,Yes,No
+williamgilpin/convoca,Yes,Yes
 wkentaro/chainer-mask-rcnn,Yes,Yes
 WLM1ke/poptimizer,Yes,Yes
 wotchin/SmooFaceEngine,Yes,Yes

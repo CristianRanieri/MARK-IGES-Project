@@ -1,0 +1,18 @@
+ProjectName,Is ML producer,libraries,where,keywords,line_number
+akanimax/BMSG-GAN,Yes,sagemaker,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\SageMaker-BMSG-GAN.ipynb,.fit(,67
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\train.py,.train(,248
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,42
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,93
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,139
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,159
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,209
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,263
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,321
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,386
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\CustomLayers.py,def forward(,438
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,def forward(,68
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,def forward(,183
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,.backward(,301
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,.backward(,324
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,.train(,388
+akanimax/BMSG-GAN,Yes,torch,C:/Users/Cristian/PycharmProjects/MARK-IGES-Project/MARK-Tool/MARK-Tool/repos/repos2\akanimax\BMSG-GAN\sourcecode\MSG_GAN\GAN.py,.train(,389
