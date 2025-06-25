@@ -6,12 +6,13 @@ def convert_notebook_to_code( file):
     os.system(f"jupyter nbconvert --to script {file}")
     return file.replace('.ipynb', '.py')
 
-def convert_and_check_notebook(file):
-    os.system(f"jupyter nbconvert --to script {file}")
-    file_py = file.replace('.ipynb','.py')
-    if os.path.exists(file_py):
-        return True
-    return False
+# Questo metodo non viene mai chiamato da NESSUNO
+# def convert_and_check_notebook(file):
+#     os.system(f"jupyter nbconvert --to script {file}")
+#     file_py = file.replace('.ipynb','.py')
+#     if os.path.exists(file_py):
+#         return True
+#     return False
 
 def convert_all_notebooks(folder_path):
     if not os.path.isdir(folder_path):
