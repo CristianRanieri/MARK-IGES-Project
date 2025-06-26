@@ -1,6 +1,12 @@
 import os
 import pandas as pd
+import argparse
 
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_file", required=True)
+    parser.add_argument("--input_path", required=True)
+    return parser.parse_args()
 
 def check_cloned_repo(path,project_name):
     if os.path.exists(path+ (project_name.split('/')[0])):
@@ -44,8 +50,13 @@ def clean_log():
         os.remove('not_cloned_repos.csv')
 
 
+def main():
+    args = parse_args()
+    input_file = args.input_file
+    input_path = args.input_path
+    if not input_path.endswith(os.sep):
+        input_path += os.sep
 
-def main(input_file='./applied_projects.csv',input_path='../repos/repos2/'):
     clean_log()
     df = pd.read_csv(f'{input_file}', delimiter=",")
     not_cloned = get_not_cloned_list(df,input_path)

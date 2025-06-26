@@ -75,18 +75,25 @@ class BaseClonerTest(unittest.TestCase):
 
         # Verifica che tutte le repo attese siano presenti
         cloned_repos = os.listdir(self.repos_base_path)
-        for expected_repo in self.expected_cloned_repositories:
-            self.assertIn(expected_repo, cloned_repos, f"Repository attesa non trovata: {expected_repo}")
+        for owner, repo in self.expected_repo_map.items():
+            owner_path = os.path.join(self.repos_base_path, owner)
+            full_repo_path = os.path.join(owner_path, repo)
+
+            self.assertTrue(os.path.isdir(full_repo_path), f"Directory non trovata: {full_repo_path}")
+
+            # Verifica che la directory contenga almeno un file o cartella
+            contents = os.listdir(full_repo_path)
+            self.assertTrue(contents, f"La directory {full_repo_path} è vuota")
 
 
 class TestClonerCase1(BaseClonerTest):
     csv_input_file = "Test_input/input/input_1.csv"
     temp_output_dir = "Test_input/output"
-    expected_cloned_repositories = [
-        "921kiyo",
-        "aaronlam88",
-        "abdullahselek"
-    ]
+    expected_repo_map = {
+        "921kiyo": "3d-dl",
+        "aaronlam88": "cmpe295",
+        "abdullahselek": "koolsla"
+    }
 
 
 class TestClonerCase2(BaseClonerTest):
