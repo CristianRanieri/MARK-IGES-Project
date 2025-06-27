@@ -7,15 +7,16 @@ from threading import Lock
 import os
 import argparse
 
-def __search(row, lock, output_path, use_repos2=True):
+#TEST
+def __search(row, lock, output_path, no_repos2=True):
     repo_full_name = row["ProjectName"]
     repo_url = f'https://github.com/{repo_full_name}.git'
 
     # Cloning path
-    if use_repos2:
-        clone_path = f'{output_path}/repos2/{repo_full_name}'
-    else:
+    if no_repos2:
         clone_path = f'{output_path}/{repo_full_name}'
+    else:
+        clone_path = f'{output_path}/repos2/{repo_full_name}'
 
     try:
         print(f'cloning {repo_full_name}')
@@ -41,10 +42,11 @@ def __search(row, lock, output_path, use_repos2=True):
     print(f'saved {repo_full_name}')
 
     # Return top-level directory to optionally delete
-    if use_repos2:
-        return os.path.join(output_path, "repos2", repo_full_name.split("/")[0])
-    else:
+    if no_repos2:
         return os.path.join(output_path, repo_full_name.split("/")[0])
+    else:
+        return os.path.join(output_path, "repos2", repo_full_name.split("/")[0])
+#TEST
 
 
 # def __search(row,lock,output_path):
@@ -75,84 +77,92 @@ def __search(row, lock, output_path, use_repos2=True):
 #     print(f'saved {repo_full_name}')
 #     to_delete = "repos2/" + repo_full_name.split("/")[0]
 #     return to_delete
-#
-#
-# def delete_repos(to_delete):
-#     shutil.rmtree(to_delete)
-#     print(f'deleted {to_delete}')
 
 
+def delete_repos(to_delete):
+    shutil.rmtree(to_delete)
+    print(f'deleted {to_delete}')
 
-def start_search(iterable,output_path, max_workers=None):
+
+# def start_search(iterable,output_path, max_workers=None):
+#     writer_lock = Lock()
+#     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+#         for repo in iterable:
+#             _ = executor.submit(__search, repo, writer_lock, output_path)
+
+
+# TEST
+def start_search(iterable, output_path, no_repos2=True, max_workers=None):
     writer_lock = Lock()
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         for repo in iterable:
-            _ = executor.submit(__search, repo, writer_lock, output_path)
+            _ = executor.submit(__search, repo, writer_lock, output_path, no_repos2)
 
 
-
-def main(input_file='Baseline_2nd_part.csv',output_path=''):
+def main(input_file='Baseline_2nd_part.csv', output_path='', no_repos2=True):
     df = pd.read_csv(f'{input_file}', delimiter=",")
     df = df.head(50)
-    if(os.path.exists('cloned_log.csv')):
-        cloned_log = pd.read_csv('cloned_log.csv', delimiter=",")
-        df = df[~df['ProjectName'].isin(cloned_log['ProjectName'])]
-        print(len(df))
-    else:
-        cloned_log = pd.DataFrame(columns=['ProjectName', 'repo_url','ml_libs','count'])
-        cloned_log.to_csv('cloned_log.csv', index=False)
-    print("The size of results is "+str(len(df)))
 
-    already_analyzed = None
-    error = None
-    os.makedirs(f'{output_path}/repos', exist_ok=True)
-
-    iterable = [x for y, x in df.iterrows()]
-    print(f'to analyze: {len(iterable)} repos')
-    start_search(iterable,output_path)
-
-
-
-#TEST SINGOLA REPO
-def main_single_repo(repo_full_name, output_path):
-    # Crea una finta riga come se venisse da un DataFrame
-    row = pd.Series({"ProjectName": repo_full_name})
-
-    # Se esiste un log dei progetti già clonati, salta quelli già presenti
     if os.path.exists('cloned_log.csv'):
         cloned_log = pd.read_csv('cloned_log.csv', delimiter=",")
-        if repo_full_name in cloned_log['ProjectName'].values:
-            print(f"{repo_full_name} è già stato clonato, salto.")
-            return
+        df = df[~df['ProjectName'].isin(cloned_log['ProjectName'])]
+        print(f"{len(df)} repositories left to clone (already filtered)")
     else:
-        # Crea il file di log se non esiste
-        cloned_log = pd.DataFrame(columns=['ProjectName', 'repo_url','ml_libs','count'])
+        cloned_log = pd.DataFrame(columns=['ProjectName', 'repo_url', 'ml_libs', 'count'])
         cloned_log.to_csv('cloned_log.csv', index=False)
 
-    print(f"Clonazione di un singolo repo: {repo_full_name}")
-    to_delete = __search(row, Lock(), output_path, use_repos2=False)
+    print("Total repositories to process: " + str(len(df)))
+
+    if no_repos2:
+        os.makedirs(f'{output_path}', exist_ok=True)
+    else:
+        os.makedirs(f'{output_path}/repos2', exist_ok=True)
+
+    iterable = [x for _, x in df.iterrows()]
+    print(f'To analyze: {len(iterable)} repos')
+    start_search(iterable, output_path, no_repos2)
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Clona repository da GitHub.")
-    parser.add_argument("--input", type=str, help="Percorso del file CSV oppure nome singolo repo (es: user/repo)")
-    parser.add_argument("--output", type=str, help="Cartella di output")
-    parser.add_argument("--single", action='store_true', help="Se indicato, --input sarà trattato come una singola repo")
+    parser = argparse.ArgumentParser(
+        description="This component allows cloning GitHub repositories from a dataset of Python projects."
+    )
+    parser.add_argument("--input", type=str, help="Path to the input CSV file")
+    parser.add_argument("--output", type=str, help="Path to the output folder")
+    parser.add_argument("--no-repos2", action="store_true", help="If set, repositories will be cloned directly into the output folder (no repos2/)")
 
     args = parser.parse_args()
-    input = args.input
-    output = args.output
+    input_file = args.input
+    output_path = args.output
+    no_repos2 = args.no_repos2   # False se --no-repos2 NON è passato
 
-    if input is None or output is None:
-        print("Devi specificare sia --input che --output. Esempio:")
-        print("python cloner.py --input user/repo --output path --single")
+    if input_file is None or output_path is None:
+        print("Usage: python cloner.py --input <csv_file> --output <output_folder> [--no-repos2]")
         exit(1)
 
-    if args.single:
-        main_single_repo(input, output)
-    else:
-        main(input, output)
-#TEST SINGOLA REPO
+    main(input_file, output_path, no_repos2)
+# TEST
+
+
+# def main(input_file='Baseline_2nd_part.csv',output_path=''):
+#     df = pd.read_csv(f'{input_file}', delimiter=",")
+#     df = df.head(50)
+#     if(os.path.exists('cloned_log.csv')):
+#         cloned_log = pd.read_csv('cloned_log.csv', delimiter=",")
+#         df = df[~df['ProjectName'].isin(cloned_log['ProjectName'])]
+#         print(len(df))
+#     else:
+#         cloned_log = pd.DataFrame(columns=['ProjectName', 'repo_url','ml_libs','count'])
+#         cloned_log.to_csv('cloned_log.csv', index=False)
+#     print("The size of results is "+str(len(df)))
+#
+#     already_analyzed = None
+#     error = None
+#     os.makedirs(f'{output_path}/repos', exist_ok=True)
+#
+#     iterable = [x for y, x in df.iterrows()]
+#     print(f'to analyze: {len(iterable)} repos')
+#     start_search(iterable,output_path)
 
 
 # if __name__ == "__main__":
