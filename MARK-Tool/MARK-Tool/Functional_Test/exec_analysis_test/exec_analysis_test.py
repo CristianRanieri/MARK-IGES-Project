@@ -166,7 +166,7 @@ class TestCase1(BaseExecAnalysisTest):
         "results_first_step.csv" : "ProjectName,Is ML producer,where,keyword,line_number"
     }
     expected_consumer_files = {
-        "results_consumer.csv" : "ProjectName,Is ML consumer,where,keyword,line_number,libraries"
+        "results_consumer.csv" : "ProjectName,Is ML consumer,where,keyword,line_number"
     }
 
 # EA_2 OK
