@@ -272,6 +272,5 @@ class TestCase9(BaseExecAnalysisTest):
     }
 
 
-
 if __name__ == '__main__':
     unittest.main()

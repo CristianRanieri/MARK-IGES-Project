@@ -1,36 +1,23 @@
 import os
 import pandas as pd
 import re
-import time
 import logging
 import warnings
 from components.static_analysis.library_extractor import check_ml_library_usage
+from analyzer_base import MLAnalyzerBase
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 logging.basicConfig(level=logging.DEBUG)
 
-class MLProducerAnalyzer:
+class MLProducerAnalyzer(MLAnalyzerBase):
     def __init__(self, output_folder="Producers/"):
-        self.output_folder = output_folder
-        self.init_producer_analysis_folder()
+        super().__init__(output_folder, analysis_type="Producer")
+        self.init_analysis_folder()
 
-    def init_producer_analysis_folder(self):
-        producer_analysis_path = os.path.join(self.output_folder, "Producer_Analysis")
-        if not os.path.exists(producer_analysis_path):
-            os.makedirs(producer_analysis_path)
-
-        results_file = os.path.join(self.output_folder, 'results_first_step.csv')
-        if not os.path.exists(results_file):
-            df = pd.DataFrame(columns=['ProjectName', 'Is ML producer', "where", "keyword", "line_number"])
-            df.to_csv(results_file, index=False)
-        else:
-            # Create a backup of existing results
-            df = pd.read_csv(results_file)
-            df.to_csv(os.path.join(self.output_folder, f'results_backup_{time.time()}.csv'), index=False)
-
-    def check_for_training_method(self, file, library_dict_path):
-        producer_library_dict = self.load_producer_library_dict(library_dict_path)
+    def check_training_method(self, file, library_dict_path):
+        # Implementazione specifica producer
+        producer_library_dict = self.load_library_dict(library_dict_path)
         list_keywords = []
         list_load_keywords = []
         producer_related_dict = check_ml_library_usage(file, producer_library_dict)
@@ -84,16 +71,14 @@ class MLProducerAnalyzer:
 
     def analyze_single_file(self, file, repo, library_dict_path):
         keywords = []
-        list_load_keywords = []
         libraries = []
         if file:
-            libraries, keywords, list_load_keywords = self.check_for_training_method(file, library_dict_path)
+            libraries, keywords, list_load_keywords = self.check_training_method(file, library_dict_path)
             if len(keywords) > 0:
                 print(f"Found {file} with ML libraries{libraries} and training instruction {keywords} in {repo}")
                 return libraries, keywords, file
             return libraries, keywords, file
         return libraries, keywords, file
-
 
     def analyze_project_for_producers(self, repo_contents, project, dir, library_dict_path):
         df = pd.DataFrame(columns=['ProjectName', 'Is ML producer', 'libraries', "where", "keywords", 'line_number'])
@@ -142,17 +127,3 @@ class MLProducerAnalyzer:
                         df.to_csv(results_file, index=False)
 
         return df
-
-    @staticmethod
-    def load_producer_library_dict(input_file):
-        return pd.read_csv(input_file, delimiter=",")
-
-    @staticmethod
-    def baseline_check(project, dir, df):
-        return f"{project}/{dir}" in df['ProjectName'].values
-
-    @staticmethod
-    def build_regex_pattern(keyword):
-        keyword = re.escape(keyword)
-        keyword = keyword.replace(r"\ ", r"\\s*")
-        return re.compile(keyword, re.IGNORECASE)
