@@ -118,6 +118,22 @@ class IGESAnalysisTool:
 
         try:
             if github_repo:
+                # Verifica tipo file
+                if not github_repo.lower().endswith(".csv"):
+                    messagebox.showerror("Error", "The selected file is not a CSV file.")
+                    return
+
+                try:
+                    with open(github_repo, newline='', encoding='utf-8') as f:
+                        reader = csv.reader(f)
+                        rows = list(reader)
+                        if len(rows) < 2:
+                            messagebox.showerror("Error", "The CSV file is empty or contains only the header.")
+                            return
+                except Exception as e:
+                    messagebox.showerror("CSV Read Error", f"Unable to read the CSV file: {e}")
+                    return
+
                 base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
                 cloner_path = os.path.join(base_path, "cloner", "cloner.py")
 
