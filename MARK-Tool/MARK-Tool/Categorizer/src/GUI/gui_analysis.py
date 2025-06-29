@@ -34,11 +34,21 @@ class IGESAnalysisTool:
     def sfoglia_file_generico(self):
         file_path = filedialog.askopenfilename(
             title="Seleziona un file",
-            initialdir=".",
+            initialdir=os.path.join(os.path.expanduser("~"), "Desktop"),
             filetypes=[("Tutti i file", "*.*")]
         )
         if file_path:
             self.github_var.set(file_path)
+
+    def seleziona_input(self):
+        folder = filedialog.askdirectory(initialdir=os.path.join(os.path.expanduser("~"), "Desktop"))
+        if folder:
+            self.input_var.set(folder)
+
+    def seleziona_output(self):
+        folder = filedialog.askdirectory(initialdir=os.path.join(os.path.expanduser("~"), "Desktop"))
+        if folder:
+            self.output_var.set(folder)
 
     def _build_tab_input(self):
         self.tab_input = ttk.Frame(self.tabs)
@@ -104,16 +114,6 @@ class IGESAnalysisTool:
 
     # ---------- Metodi GUI ----------
 
-    def seleziona_input(self):
-        folder = filedialog.askdirectory()
-        if folder:
-            self.input_var.set(folder)
-
-    def seleziona_output(self):
-        folder = filedialog.askdirectory()
-        if folder:
-            self.output_var.set(folder)
-
     def esegui_script(self):
         input_path = self.input_var.get()
         output_path = self.output_var.get()
@@ -132,7 +132,7 @@ class IGESAnalysisTool:
 
                 # Esecuzione dello script clone.py per clonare la repo indicata
                 comando_cloner = ['python', cloner_path, '--input', github_repo, '--output', input_path, '--no_repos2']
-                result_clone = subprocess.run(comando_cloner, capture_output=True, text=True)
+                result_clone = subprocess.run(comando_cloner, capture_output=True, text=True, encoding='latin-1')
                 # Clone non è andata a buon fine
                 if result_clone.returncode != 0:
                     errore = result_clone.stderr or result_clone.stdout
@@ -141,7 +141,7 @@ class IGESAnalysisTool:
 
             # Eesecuzione dello script exec_analysisi
             comando = ['python', '../exec_analysis.py', '--input_path', input_path, '--output_path', output_path]
-            result = subprocess.run(comando, capture_output=True, text=True)
+            result = subprocess.run(comando, capture_output=True, text=True, encoding='latin-1')
             if result.returncode == 0:
                 messagebox.showinfo("Successo", "Analisi completata.")
                 self.aggiorna_explorer(output_path)

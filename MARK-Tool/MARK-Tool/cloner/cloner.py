@@ -1,7 +1,6 @@
 import git
 import pandas as pd
 from git import Repo
-import shutil
 import concurrent.futures
 from threading import Lock
 import os
