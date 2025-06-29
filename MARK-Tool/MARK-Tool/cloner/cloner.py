@@ -52,39 +52,6 @@ class GitHubRepoCloner:
         else:
             return os.path.join(self.output_path, "repos2", repo_full_name.split("/")[0])
 
-    # def __search(self, row, lock):
-    #     repo_full_name = row["ProjectName"]
-    #     repo_url = f'https://github.com/{repo_full_name}.git'
-    #
-    #     try:
-    #         print(f'cloning {repo_full_name}')
-    #         Repo.clone_from(repo_url, f'{self.output_path}/repos2/{repo_full_name}', depth=1)
-    #         print(f'cloned {repo_full_name}')
-    #     except git.exc.GitError as e:
-    #         print(f'error cloning  {repo_full_name}')
-    #         with lock:
-    #             with open('errors.csv', 'a', encoding='utf-8') as error_log:
-    #                 error = e.__str__().replace("'", "").replace("\n", "")
-    #                 str = f"{repo_full_name},{repo_url},'{error}'"
-    #                 error_log.write(str + '\n')
-    #             return
-    #     print(f'analyzed {repo_full_name}')
-    #     print(f'saving {repo_full_name}')
-    #     with lock:
-    #         try:
-    #             cloned_log = pd.read_csv('cloned_log.csv')
-    #             cloned_log = cloned_log.append(row, ignore_index=True)
-    #             cloned_log.to_csv('cloned_log.csv', index=False)
-    #         except:
-    #             print(f'error saving {repo_full_name}')
-    #     print(f'saved {repo_full_name}')
-
-    # def start_search(self, iterable, max_workers=None):
-    #     writer_lock = Lock()
-    #     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-    #         for repo in iterable:
-    #             _ = executor.submit(self.__search, repo, writer_lock)
-
     def start_search(self, iterable, max_workers=None):
         writer_lock = Lock()
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -93,7 +60,7 @@ class GitHubRepoCloner:
 
     def run(self):
         df = pd.read_csv(f'{self.input_file}', delimiter=",")
-        df = df.head(50)
+        df = df.head(10)
         if os.path.exists('cloned_log.csv'):
             cloned_log = pd.read_csv('cloned_log.csv', delimiter=",")
             df = df[~df['ProjectName'].isin(cloned_log['ProjectName'])]
