@@ -41,7 +41,7 @@ class ResultsAnalysis:
 
 
 if __name__ == "__main__":
-    results_analysis = ResultsAnalysis("producer",False,2)
+    results_analysis = ResultsAnalysis("producer",True,3)
     results_analysis.run()
-    results_analysis.set_column_name_and_is_new_and_version("consumer", False, 5)
+    results_analysis.set_column_name_and_is_new_and_version("consumer", True, 6)
     results_analysis.run()

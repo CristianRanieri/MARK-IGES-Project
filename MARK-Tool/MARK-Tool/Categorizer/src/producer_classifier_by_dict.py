@@ -3,7 +3,7 @@ import pandas as pd
 import re
 import logging
 import warnings
-from components.static_analysis.library_extractor import check_ml_library_usage
+from components.static_analysis.library_extractor import LibraryAnalyzer
 from analyzer_base import MLAnalyzerBase
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -20,7 +20,9 @@ class MLProducerAnalyzer(MLAnalyzerBase):
         producer_library_dict = self.load_library_dict(library_dict_path)
         list_keywords = []
         list_load_keywords = []
-        producer_related_dict = check_ml_library_usage(file, producer_library_dict)
+        library_analyzer = LibraryAnalyzer(file)
+
+        producer_related_dict = library_analyzer.check_ml_library_usage(producer_library_dict)
         producer_keywords = producer_related_dict['Keyword'].tolist()
         producer_library_dict_list = producer_related_dict['library'].tolist()
         flag = False
