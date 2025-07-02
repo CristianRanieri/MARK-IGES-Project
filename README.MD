@@ -101,7 +101,7 @@ The script creates subfolders for each analysis iteration and organizes results 
 Run the gui_analysis.py module as follows:
 
 ```bash
-python guy_analysis.py
+python gui_analysis.py
 ```
 
 
