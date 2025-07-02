@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import re
-from components.static_analysis.library_extractor import check_ml_library_usage
+from components.static_analysis.library_extractor import LibraryAnalyzer
 import logging
 from analyzer_base import MLAnalyzerBase
 
@@ -12,9 +12,11 @@ class MLConsumerAnalyzer(MLAnalyzerBase):
         self.init_analysis_folder()
 
     def check_training_method(self, file, producer_library):
+        library_analyzer = LibraryAnalyzer(file)
+
         # Implementazione specifica consumer
         producer_library_dict = self.load_library_dict(producer_library)
-        producer_related_dict = check_ml_library_usage(file, producer_library_dict, True)
+        producer_related_dict = library_analyzer.check_ml_library_usage(producer_library_dict, True)
         producer_keywords = producer_related_dict['Keyword'].tolist()
         producer_library_dict_list = producer_related_dict['library'].tolist()
 
@@ -31,9 +33,10 @@ class MLConsumerAnalyzer(MLAnalyzerBase):
     def check_for_inference_method(self, file, consumer_library, producer_library, rules_3):
         list_keywords = []
         list_load_keywords = []
+        library_analyzer = LibraryAnalyzer(file)
 
         consumer_library_dict = self.load_library_dict(consumer_library)
-        consumer_related_dict = check_ml_library_usage(file, consumer_library_dict, True)
+        consumer_related_dict = library_analyzer.check_ml_library_usage(consumer_library_dict, True)
         consumer_keywords = consumer_related_dict['Keyword'].tolist()
         consumer_library_dict_list = consumer_related_dict['library'].tolist()
 

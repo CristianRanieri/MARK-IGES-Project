@@ -50,7 +50,7 @@ This repository contains a static analysis tool designed to classify machine lea
 
 - **Automated Classification**: Quickly classify ML projects based on static code analysis.
 - **Comprehensive Reports**: Generate overview and detailed reports highlighting the key indicators used for classification.
-- **Easy to Use**: Simple command-line interface for running the tool and generating reports.
+- **Easy to Use**: Simple GUI for running the tool and generating reports.
 
 ### Output
 - **ML-Model Producer** :
@@ -98,10 +98,10 @@ The script creates subfolders for each analysis iteration and organizes results 
 
 ### Usage
 
-Run the script using Python, providing optional input and output paths as arguments:
+Run the gui_analysis.py module as follows:
 
 ```bash
-python exec_analysis.py --input_path /path/to/input --output_path /path/to/output
+python gui_analysis.py
 ```
 
 
